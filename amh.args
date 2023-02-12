@@ -247,7 +247,7 @@
 ሄደ	ሄጃለሁ	V;PRF;NOM(1,SG)
 ሄደ	ሄጄ	V.CVB;NOM(1,SG)
 ሄደ	ልሂድ	V;IMP;NOM(1,SG)
-ሄደ	መሄድ	V.MSDR
+ሄደ	መሄድ	V.MSDR;
 ሄደ	ትሂድ	V;IMP;NOM(FEM;3,SG)
 ሄደ	ትሄዱ	V;IPFV;NFIN;NOM(2,PL)
 ሄደ	ትሄዳለህ	V;IPFV;NOM(MASC;2,SG)
@@ -547,7 +547,7 @@
 ሆነ	ሆኛለሁ	V;PRF;NOM(1,SG)
 ሆነ	ሆኜ	V.CVB;NOM(1,SG)
 ሆነ	ልሁን	V;IMP;NOM(1,SG)
-ሆነ	መሆን	V.MSDR
+ሆነ	መሆን	V.MSDR;
 ሆነ	ትሁን	V;IMP;NOM(FEM;3,SG)
 ሆነ	ትሆኑ	V;IPFV;NFIN;NOM(2,PL)
 ሆነ	ትሆናለህ	V;IPFV;NOM(MASC;2,SG)
@@ -607,7 +607,7 @@
 ለመነ	ለምኛለሁ	V;PRF;NOM(1,SG)
 ለመነ	ለምኜ	V.CVB;NOM(1,SG)
 ለመነ	ልለምን	V;IMP;NOM(1,SG)
-ለመነ	መለመን	V.MSDR
+ለመነ	መለመን	V.MSDR;
 ለመነ	ትለምኑ	V;IPFV;NFIN;NOM(2,PL)
 ለመነ	ትለምናለህ	V;IPFV;NOM(MASC;2,SG)
 ለመነ	ትለምናለች	V;IPFV;NOM(FEM;3,SG)
@@ -656,7 +656,7 @@
 ለማ	ልሙ	V;IMP;NOM(2,PL)
 ለማ	ልሚ	V;IMP;NOM(FEM;2,SG)
 ለማ	ልማ	V;IMP;NOM(MASC;2,SG)
-ለማ	መልማት	V.MSDR
+ለማ	መልማት	V.MSDR;
 ለማ	ትለሙ	V;IPFV;NFIN;NOM(2,PL)
 ለማ	ትለሚ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ለማ	ትለሚያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -714,7 +714,7 @@
 ለቀቀ	ልቀቁ	V;IMP;NOM(2,PL)
 ለቀቀ	ልቀቂ	V;IMP;NOM(FEM;2,SG)
 ለቀቀ	ልቀቅ	V;IMP;NOM(MASC;2,SG)
-ለቀቀ	መልቀቅ	V.MSDR
+ለቀቀ	መልቀቅ	V.MSDR;
 ለቀቀ	ትለቁ	V;IPFV;NFIN;NOM(2,PL)
 ለቀቀ	ትለቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ለቀቀ	ትለቂያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -763,7 +763,7 @@
 ለበሰ	ልበሱ	V;IMP;NOM(2,PL)
 ለበሰ	ልበስ	V;IMP;NOM(MASC;2,SG)
 ለበሰ	ልበሺ	V;IMP;NOM(FEM;2,SG)
-ለበሰ	መልበስ	V.MSDR
+ለበሰ	መልበስ	V.MSDR;
 ለበሰ	ትለብሱ	V;IPFV;NFIN;NOM(2,PL)
 ለበሰ	ትለብሳለህ	V;IPFV;NOM(MASC;2,SG)
 ለበሰ	ትለብሳለች	V;IPFV;NOM(FEM;3,SG)
@@ -812,7 +812,7 @@
 ለወጠ	ለውጫለሁ	V;PRF;NOM(1,SG)
 ለወጠ	ለውጬ	V.CVB;NOM(1,SG)
 ለወጠ	ልለውጥ	V;IMP;NOM(1,SG)
-ለወጠ	መለወጥ	V.MSDR
+ለወጠ	መለወጥ	V.MSDR;
 ለወጠ	ትለውጡ	V;IPFV;NFIN;NOM(2,PL)
 ለወጠ	ትለውጣለህ	V;IPFV;NOM(MASC;2,SG)
 ለወጠ	ትለውጣለች	V;IPFV;NOM(FEM;3,SG)
@@ -870,7 +870,7 @@
 ለየ	ለይቻለሁ	V;PRF;NOM(1,SG)
 ለየ	ለይቼ	V.CVB;NOM(1,SG)
 ለየ	ልለይ	V;IMP;NOM(1,SG)
-ለየ	መለየት	V.MSDR
+ለየ	መለየት	V.MSDR;
 ለየ	ትለዩ	V;IPFV;NFIN;NOM(2,PL)
 ለየ	ትለዪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ለየ	ትለያለህ	V;IPFV;NOM(MASC;2,SG)
@@ -919,7 +919,7 @@
 ለገሰ	ለግሻለሁ	V;PRF;NOM(1,SG)
 ለገሰ	ለግሼ	V.CVB;NOM(1,SG)
 ለገሰ	ልለግስ	V;IMP;NOM(1,SG)
-ለገሰ	መለገስ	V.MSDR
+ለገሰ	መለገስ	V.MSDR;
 ለገሰ	ትለግሱ	V;IPFV;NFIN;NOM(2,PL)
 ለገሰ	ትለግሳለህ	V;IPFV;NOM(MASC;2,SG)
 ለገሰ	ትለግሳለች	V;IPFV;NOM(FEM;3,SG)
@@ -1016,7 +1016,7 @@
 ላከ	ልኬያለሁ	V;PRF;NOM(1,SG)
 ላከ	ልኮ	V.CVB;NOM(MASC;3,SG)
 ላከ	ልኳል	V;PRF;NOM(MASC;3,SG)
-ላከ	መላክ	V.MSDR
+ላከ	መላክ	V.MSDR;
 ላከ	ትላክ	V;IMP;NOM(FEM;3,SG)
 ላከ	ትልኩ	V;IPFV;NFIN;NOM(2,PL)
 ላከ	ትልኪ	V;IPFV;NFIN;NOM(FEM;2,SG)
@@ -1869,7 +1869,7 @@
 መለሰ	መልሺ	V;IMP;NOM(FEM;2,SG)
 መለሰ	መልሻለሁ	V;PRF;NOM(1,SG)
 መለሰ	መልሼ	V.CVB;NOM(1,SG)
-መለሰ	መመለስ	V.MSDR
+መለሰ	መመለስ	V.MSDR;
 መለሰ	ትመልሱ	V;IPFV;NFIN;NOM(2,PL)
 መለሰ	ትመልሳለህ	V;IPFV;NOM(MASC;2,SG)
 መለሰ	ትመልሳለች	V;IPFV;NOM(FEM;3,SG)
@@ -2239,7 +2239,7 @@
 መሥዋዕት	መሷእትዎ	N;LGSPEC1;PSS(2,SG,FORM)
 መሥዋዕት	መሷእቷ	N;LGSPEC1;PSS(3,SG,FEM)
 መረመረ	ልመርምር	V;IMP;NOM(1,SG)
-መረመረ	መመርመር	V.MSDR
+መረመረ	መመርመር	V.MSDR;
 መረመረ	መረመረ	V;PFV;NOM(MASC;3,SG)
 መረመረ	መረመረች	V;PFV;NOM(FEM;3,SG)
 መረመረ	መረመሩ	V;PFV;NOM(3,PL)
@@ -2319,7 +2319,7 @@
 መረጃ	መረጆችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 መረጃ	መረጆቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
 መረጠ	ልምረጥ	V;IMP;NOM(1,SG)
-መረጠ	መምረጥ	V.MSDR
+መረጠ	መምረጥ	V.MSDR;
 መረጠ	መረጠ	V;PFV;NOM(MASC;3,SG)
 መረጠ	መረጠች	V;PFV;NOM(FEM;3,SG)
 መረጠ	መረጡ	V;PFV;NOM(3,PL)
@@ -2416,7 +2416,7 @@
 መሪነት	መሪነትዎ	N;PSS(2,SG,FORM)
 መሪነት	መሪነቷ	N;PSS(3,SG,FEM)
 መራ	ልምራ	V;IMP;NOM(1,SG)
-መራ	መምራት	V.MSDR
+መራ	መምራት	V.MSDR;
 መራ	መሩ	V;PFV;NOM(3,PL)
 መራ	መራ	V;PFV;NOM(MASC;3,SG)
 መራ	መራሁ	V;PFV;NOM(1,SG)
@@ -2556,7 +2556,7 @@
 መርዶ	መርዶዎቹ	N;DEF;PL
 መርዶ	መርዶዎች	N;PL
 መሰለ	ልምሰል	V;IMP;NOM(1,SG)
-መሰለ	መምሰል	V.MSDR
+መሰለ	መምሰል	V.MSDR;
 መሰለ	መሰለ	V;PFV;NOM(MASC;3,SG)
 መሰለ	መሰለች	V;PFV;NOM(FEM;3,SG)
 መሰለ	መሰሉ	V;PFV;NOM(3,PL)
@@ -2605,7 +2605,7 @@
 መሰለ	ይምሰሉ	V;IMP;NOM(3,PL)
 መሰለ	ይምሰል	V;IMP;NOM(MASC;3,SG)
 መሰረተ	ልመሥርት	V;IMP;NOM(1,SG)
-መሰረተ	መመሥረት	V.MSDR
+መሰረተ	መመሥረት	V.MSDR;
 መሰረተ	መሠረተ	V;PFV;NOM(MASC;3,SG)
 መሰረተ	መሠረተች	V;PFV;NOM(FEM;3,SG)
 መሰረተ	መሠረቱ	V;PFV;NOM(3,PL)
@@ -2667,7 +2667,7 @@
 መሰናዶ	መሰናዶ	N
 መሰናዶ	መሰናዶው	N;DEF;MASC
 መሰከረ	ልመስክር	V;IMP;NOM(1,SG)
-መሰከረ	መመስከር	V.MSDR
+መሰከረ	መመስከር	V.MSDR;
 መሰከረ	መሰከረ	V;PFV;NOM(MASC;3,SG)
 መሰከረ	መሰከረች	V;PFV;NOM(FEM;3,SG)
 መሰከረ	መሰከሩ	V;PFV;NOM(3,PL)
@@ -2816,7 +2816,7 @@
 መስጊድ	መስጊድ	N
 መስጊድ	መስጊዶቹ	N;DEF;PL
 መስጊድ	መስጊዶች	N;PL
-መሸ	መምሸት	V.MSDR
+መሸ	መምሸት	V.MSDR;
 መሸ	መሸ	V;PFV;NOM(MASC;3,SG)
 መሸ	መሽቶ	V.CVB;NOM(MASC;3,SG)
 መሸ	መሽቷል	V;PRF;NOM(MASC;3,SG)
@@ -2950,7 +2950,7 @@
 መተላለፊያ	መተላለፊያዎች	N;PL
 መተላለፊያ	መተላለፊዮቹ	N;DEF;PL;LGSPEC1
 መታ	ልምታ	V;IMP;NOM(1,SG)
-መታ	መምታት	V.MSDR
+መታ	መምታት	V.MSDR;
 መታ	መቱ	V;PFV;NOM(3,PL)
 መታ	መታ	V;PFV;NOM(MASC;3,SG)
 መታ	መታሁ	V;PFV;NOM(1,SG)
@@ -3302,7 +3302,7 @@
 መአት	መአቶቹ	N;DEF;PL
 መአት	መአቶች	N;PL
 መከረ	ልምከር	V;IMP;NOM(1,SG)
-መከረ	መምከር	V.MSDR
+መከረ	መምከር	V.MSDR;
 መከረ	መከረ	V;PFV;NOM(MASC;3,SG)
 መከረ	መከረች	V;PFV;NOM(FEM;3,SG)
 መከረ	መከሩ	V;PFV;NOM(3,PL)
@@ -3528,7 +3528,7 @@
 መያዣ	መያዣዎች	N;PL
 መያዣ	መያዦቹ	N;DEF;PL;LGSPEC1
 መደበ	ልመድብ	V;IMP;NOM(1,SG)
-መደበ	መመደብ	V.MSDR
+መደበ	መመደብ	V.MSDR;
 መደበ	መደበ	V;PFV;NOM(MASC;3,SG)
 መደበ	መደበች	V;PFV;NOM(FEM;3,SG)
 መደበ	መደቡ	V;PFV;NOM(3,PL)
@@ -3875,7 +3875,7 @@
 መጠጥ	መጠጦቹ	N;DEF;PL
 መጠጥ	መጠጦች	N;PL
 መጣ	ልምጣ	V;IMP;NOM(1,SG)
-መጣ	መምጣት	V.MSDR
+መጣ	መምጣት	V.MSDR;
 መጣ	መጡ	V;PFV;NOM(3,PL)
 መጣ	መጣ	V;PFV;NOM(MASC;3,SG)
 መጣ	መጣሁ	V;PFV;NOM(1,SG)
@@ -4327,7 +4327,7 @@
 ማህፀን	ማህፀንዎ	N;PSS(2,SG,FORM)
 ማህፀን	ማህፀኗ	N;PSS(3,SG,FEM)
 ማለ	ልማል	V;IMP;NOM(1,SG)
-ማለ	መማል	V.MSDR
+ማለ	መማል	V.MSDR;
 ማለ	ማለ	V;PFV;NOM(MASC;3,SG)
 ማለ	ማለች	V;PFV;NOM(FEM;3,SG)
 ማለ	ማሉ	V;IMP;NOM(2,PL)
@@ -4480,7 +4480,7 @@
 ማሣ	ማሦችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 ማሣ	ማሦቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
 ማረ	ልማር	V;IMP;NOM(1,SG)
-ማረ	መማር	V.MSDR
+ማረ	መማር	V.MSDR;
 ማረ	ማረ	V;PFV;NOM(MASC;3,SG)
 ማረ	ማረች	V;PFV;NOM(FEM;3,SG)
 ማረ	ማሩ	V;IMP;NOM(2,PL)
@@ -4529,7 +4529,7 @@
 ማረ	ይምራል	V;IPFV;NOM(MASC;3,SG)
 ማረ	ይምር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ማረከ	ልማርክ	V;IMP;NOM(1,SG)
-ማረከ	መማረክ	V.MSDR
+ማረከ	መማረክ	V.MSDR;
 ማረከ	ማረከ	V;PFV;NOM(MASC;3,SG)
 ማረከ	ማረከች	V;PFV;NOM(FEM;3,SG)
 ማረከ	ማረኩ	V;PFV;NOM(1,SG)
@@ -5604,7 +5604,7 @@
 ምጥ	ምጡ	N;DEF;MASC
 ምጥ	ምጥ	N
 ሞላ	ልሙላ	V;IMP;NOM(1,SG)
-ሞላ	መሙላት	V.MSDR
+ሞላ	መሙላት	V.MSDR;
 ሞላ	ሙሉ	V;IMP;NOM(2,PL)
 ሞላ	ሙላ	V;IMP;NOM(MASC;2,SG)
 ሞላ	ሙዪ	V;IMP;NOM(FEM;2,SG)
@@ -5664,7 +5664,7 @@
 ሞራል	ሞራልዎ	N;PSS(2,SG,FORM)
 ሞራል	ሞራሏ	N;PSS(3,SG,FEM)
 ሞተ	ልሙት	V;IMP;NOM(1,SG)
-ሞተ	መሞት	V.MSDR
+ሞተ	መሞት	V.MSDR;
 ሞተ	ሙቱ	V;IMP;NOM(2,PL)
 ሞተ	ሙት	V;IMP;NOM(MASC;2,SG)
 ሞተ	ሙቺ	V;IMP;NOM(FEM;2,SG)
@@ -5729,7 +5729,7 @@
 ሞኝ	ሞኞች	ADJ;PL
 ሞኝ	ሞኟ	ADJ;DEF;FEM
 ሞከረ	ልሞክር	V;IMP;NOM(1,SG)
-ሞከረ	መሞከር	V.MSDR
+ሞከረ	መሞከር	V.MSDR;
 ሞከረ	ሞከረ	V;PFV;NOM(MASC;3,SG)
 ሞከረ	ሞከረች	V;PFV;NOM(FEM;3,SG)
 ሞከረ	ሞከሩ	V;PFV;NOM(3,PL)
@@ -6342,7 +6342,7 @@
 ሦስተኛ	ሦስተኛው	ADJ;DEF;MASC
 ሦስተኛ	ሦስተኛይቱ	ADJ;DEF;FEM;LGSPEC1
 ረሳ	ልርሳ	V;IMP;NOM(1,SG)
-ረሳ	መርሳት	V.MSDR
+ረሳ	መርሳት	V.MSDR;
 ረሳ	ረሱ	V;PFV;NOM(3,PL)
 ረሳ	ረሳ	V;PFV;NOM(MASC;3,SG)
 ረሳ	ረሳሁ	V;PFV;NOM(1,SG)
@@ -6402,7 +6402,7 @@
 ረብሻ	ረብሻ	N
 ረብሻ	ረብሻው	N;DEF;MASC
 ረታ	ልርታ	V;IMP;NOM(1,SG)
-ረታ	መርታት	V.MSDR
+ረታ	መርታት	V.MSDR;
 ረታ	ረቱ	V;PFV;NOM(3,PL)
 ረታ	ረታ	V;PFV;NOM(MASC;3,SG)
 ረታ	ረታሁ	V;PFV;NOM(1,SG)
@@ -6451,7 +6451,7 @@
 ረታ	ይርቱ	V;IMP;NOM(3,PL)
 ረታ	ይርታ	V;IMP;NOM(MASC;3,SG)
 ረከሰ	ልርከስ	V;IMP;NOM(1,SG)
-ረከሰ	መርከስ	V.MSDR
+ረከሰ	መርከስ	V.MSDR;
 ረከሰ	ረከሰ	V;PFV;NOM(MASC;3,SG)
 ረከሰ	ረከሰች	V;PFV;NOM(FEM;3,SG)
 ረከሰ	ረከሱ	V;PFV;NOM(3,PL)
@@ -6499,7 +6499,7 @@
 ረከሰ	ይረክስ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ረከሰ	ይርከሱ	V;IMP;NOM(3,PL)
 ረከሰ	ይርከስ	V;IMP;NOM(MASC;3,SG)
-ረዘመ	መርዘም	V.MSDR
+ረዘመ	መርዘም	V.MSDR;
 ረዘመ	ረዘመ	V;PFV;NOM(MASC;3,SG)
 ረዘመ	ረዝሞ	V.CVB;NOM(MASC;3,SG)
 ረዘመ	ረዝሟል	V;PRF;NOM(MASC;3,SG)
@@ -6512,7 +6512,7 @@
 ረዥም	ረዥሞቹ	ADJ;DEF;PL;LGSPEC1
 ረዥም	ረዥሟ	ADJ;DEF;FEM
 ረዳ	ልርዳ	V;IMP;NOM(1,SG)
-ረዳ	መርዳት	V.MSDR
+ረዳ	መርዳት	V.MSDR;
 ረዳ	ረዱ	V;PFV;NOM(3,PL)
 ረዳ	ረዳ	V;PFV;NOM(MASC;3,SG)
 ረዳ	ረዳሁ	V;PFV;NOM(1,SG)
@@ -6592,7 +6592,7 @@
 ረጅም	ረጅሞቹ	ADJ;DEF;PL;LGSPEC2
 ረጅም	ረጅሟ	ADJ;DEF;FEM
 ረገጠ	ልርገጥ	V;IMP;NOM(1,SG)
-ረገጠ	መርገጥ	V.MSDR
+ረገጠ	መርገጥ	V.MSDR;
 ረገጠ	ረገጠ	V;PFV;NOM(MASC;3,SG)
 ረገጠ	ረገጠች	V;PFV;NOM(FEM;3,SG)
 ረገጠ	ረገጡ	V;PFV;NOM(3,PL)
@@ -6640,7 +6640,7 @@
 ረገጠ	ይረግጥ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ረገጠ	ይርገጡ	V;IMP;NOM(3,PL)
 ረገጠ	ይርገጥ	V;IMP;NOM(MASC;3,SG)
-ረገፈ	መርገፍ	V.MSDR
+ረገፈ	መርገፍ	V.MSDR;
 ረገፈ	ረገፈ	V;PFV;NOM(MASC;3,SG)
 ረገፈ	ረግፎ	V.CVB;NOM(MASC;3,SG)
 ረገፈ	ረግፏል	V;PRF;NOM(MASC;3,SG)
@@ -6708,7 +6708,7 @@
 ራስ	ራሷ	N;DEF;FEM
 ራስ	ራሷ	N;PSS(3,SG,FEM)
 ራቀ	ልራቅ	V;IMP;NOM(1,SG)
-ራቀ	መራቅ	V.MSDR
+ራቀ	መራቅ	V.MSDR;
 ራቀ	ራቀ	V;PFV;NOM(MASC;3,SG)
 ራቀ	ራቀች	V;PFV;NOM(FEM;3,SG)
 ራቀ	ራቁ	V;IMP;NOM(2,PL)
@@ -6756,7 +6756,7 @@
 ራቀ	ይርቃሉ	V;IPFV;NOM(3,PL)
 ራቀ	ይርቃል	V;IPFV;NOM(MASC;3,SG)
 ራቀ	ይርቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ራበ	መራብ	V.MSDR
+ራበ	መራብ	V.MSDR;
 ራበ	ራበ	V;PFV;NOM(MASC;3,SG)
 ራበ	ርቦ	V.CVB;NOM(MASC;3,SG)
 ራበ	ርቧል	V;PRF;NOM(MASC;3,SG)
@@ -6925,7 +6925,7 @@
 ሮማን	ሮማኖቹ	N;DEF;PL
 ሮማን	ሮማኖች	N;PL
 ሮጠ	ልሩጥ	V;IMP;NOM(1,SG)
-ሮጠ	መሮጥ	V.MSDR
+ሮጠ	መሮጥ	V.MSDR;
 ሮጠ	ሩጡ	V;IMP;NOM(2,PL)
 ሮጠ	ሩጥ	V;IMP;NOM(MASC;2,SG)
 ሮጠ	ሩጪ	V;IMP;NOM(FEM;2,SG)
@@ -6984,7 +6984,7 @@
 ሰለባ	ሰለባዎች	N;PL
 ሰለባ	ሰለቦቹ	N;DEF;PL;LGSPEC1
 ሰለባ	ሰለቦች	N;PL;LGSPEC1
-ሰለቸ	መሰልቸት	V.MSDR
+ሰለቸ	መሰልቸት	V.MSDR;
 ሰለቸ	ሰለቸ	V;PFV;NOM(MASC;3,SG)
 ሰለቸ	ሰልችቶ	V.CVB;NOM(MASC;3,SG)
 ሰለቸ	ሰልችቷል	V;PRF;NOM(MASC;3,SG)
@@ -7067,7 +7067,7 @@
 ሰልፍ	ሰልፎቿ	N;PL;PSS(3,SG,FEM)
 ሰልፍ	ሰልፏ	N;PSS(3,SG,FEM)
 ሰማ	ልስማ	V;IMP;NOM(1,SG)
-ሰማ	መስማት	V.MSDR
+ሰማ	መስማት	V.MSDR;
 ሰማ	ሰሙ	V;PFV;NOM(3,PL)
 ሰማ	ሰማ	V;PFV;NOM(MASC;3,SG)
 ሰማ	ሰማሁ	V;PFV;NOM(1,SG)
@@ -7156,7 +7156,7 @@
 ሰሞን	ሰሞንዎ	N;PSS(2,SG,FORM)
 ሰሞን	ሰሞኗ	N;PSS(3,SG,FEM)
 ሰረቀ	ልስረቅ	V;IMP;NOM(1,SG)
-ሰረቀ	መስረቅ	V.MSDR
+ሰረቀ	መስረቅ	V.MSDR;
 ሰረቀ	ሰረቀ	V;PFV;NOM(MASC;3,SG)
 ሰረቀ	ሰረቀች	V;PFV;NOM(FEM;3,SG)
 ሰረቀ	ሰረቁ	V;PFV;NOM(3,PL)
@@ -7205,7 +7205,7 @@
 ሰረቀ	ይስረቁ	V;IMP;NOM(3,PL)
 ሰረቀ	ይስረቅ	V;IMP;NOM(MASC;3,SG)
 ሰረዘ	ልሰርዝ	V;IMP;NOM(1,SG)
-ሰረዘ	መሰረዝ	V.MSDR
+ሰረዘ	መሰረዝ	V.MSDR;
 ሰረዘ	ሰረዘ	V;PFV;NOM(MASC;3,SG)
 ሰረዘ	ሰረዘች	V;PFV;NOM(FEM;3,SG)
 ሰረዘ	ሰረዙ	V;PFV;NOM(3,PL)
@@ -7259,7 +7259,7 @@
 ሰረገላ	ሰረገሎቹ	N;DEF;PL
 ሰረገላ	ሰረገሎች	N;PL;LGSPEC1
 ሰራ	ልሥራ	V;IMP;NOM(1,SG)
-ሰራ	መሥራት	V.MSDR
+ሰራ	መሥራት	V.MSDR;
 ሰራ	ሠሩ	V;PFV;NOM(3,PL)
 ሰራ	ሠራ	V;PFV;NOM(MASC;3,SG)
 ሰራ	ሠራሁ	V;PFV;NOM(1,SG)
@@ -7362,7 +7362,7 @@
 ሰርግ	ሰርጎቿ	N;PL;PSS(3,SG,FEM)
 ሰርግ	ሰርጓ	N;PSS(3,SG,FEM)
 ሰበረ	ልስበር	V;IMP;NOM(1,SG)
-ሰበረ	መስበር	V.MSDR
+ሰበረ	መስበር	V.MSDR;
 ሰበረ	ሰበረ	V;PFV;NOM(MASC;3,SG)
 ሰበረ	ሰበረች	V;PFV;NOM(FEM;3,SG)
 ሰበረ	ሰበሩ	V;PFV;NOM(3,PL)
@@ -7411,7 +7411,7 @@
 ሰበረ	ይስበሩ	V;IMP;NOM(3,PL)
 ሰበረ	ይስበር	V;IMP;NOM(MASC;3,SG)
 ሰበሰበ	ልሰብስብ	V;IMP;NOM(1,SG)
-ሰበሰበ	መሰብሰብ	V.MSDR
+ሰበሰበ	መሰብሰብ	V.MSDR;
 ሰበሰበ	ሰበሰበ	V;PFV;NOM(MASC;3,SG)
 ሰበሰበ	ሰበሰበች	V;PFV;NOM(FEM;3,SG)
 ሰበሰበ	ሰበሰቡ	V;PFV;NOM(3,PL)
@@ -7464,7 +7464,7 @@
 ሰበብ	ሰበቦቹ	N;DEF;PL
 ሰበብ	ሰበቦች	N;PL
 ሰባበረ	ልሰባብር	V;IMP;NOM(1,SG)
-ሰባበረ	መሰባበር	V.MSDR
+ሰባበረ	መሰባበር	V.MSDR;
 ሰባበረ	ሰባበረ	V;PFV;NOM(MASC;3,SG)
 ሰባበረ	ሰባበረች	V;PFV;NOM(FEM;3,SG)
 ሰባበረ	ሰባበሩ	V;PFV;NOM(3,PL)
@@ -7553,7 +7553,7 @@
 ሰብዓዊ	ሰብዓዊዋ	ADJ;DEF;FEM
 ሰብዓዊ	ሰብዓዊው	ADJ;DEF;MASC
 ሰነዘረ	ልሰንዝር	V;IMP;NOM(1,SG)
-ሰነዘረ	መሰንዘር	V.MSDR
+ሰነዘረ	መሰንዘር	V.MSDR;
 ሰነዘረ	ሰነዘረ	V;PFV;NOM(MASC;3,SG)
 ሰነዘረ	ሰነዘረች	V;PFV;NOM(FEM;3,SG)
 ሰነዘረ	ሰነዘሩ	V;PFV;NOM(3,PL)
@@ -7650,7 +7650,7 @@
 ሰንሰለት	ሰንሰለቶችዎ	N;PL;PSS(2,SG,FORM)
 ሰንሰለት	ሰንሰለቶቿ	N;PL;PSS(3,SG,FEM)
 ሰንሰለት	ሰንሰለቷ	N;PSS(3,SG,FEM)
-ሰካ	መሰካት	V.MSDR
+ሰካ	መሰካት	V.MSDR;
 ሰካ	ሰካ	V;PFV;NOM(MASC;3,SG)
 ሰካ	ሰክቶ	V.CVB;NOM(MASC;3,SG)
 ሰካ	ሰክቷል	V;PRF;NOM(MASC;3,SG)
@@ -7658,7 +7658,7 @@
 ሰካ	ይሰካ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ሰካ	ይሰካል	V;IPFV;NOM(MASC;3,SG)
 ሰዋ	ልሠዋ	V;IMP;NOM(1,SG)
-ሰዋ	መሠዋት	V.MSDR
+ሰዋ	መሠዋት	V.MSDR;
 ሰዋ	ሠዉ	V;IMP;NOM(2,PL)
 ሰዋ	ሠዉ	V;PFV;NOM(3,PL)
 ሰዋ	ሠዊ	V;IMP;NOM(FEM;2,SG)
@@ -7806,7 +7806,7 @@
 ሰይፍ	ሰይፎቿ	N;PL;PSS(3,SG,FEM)
 ሰይፍ	ሰይፏ	N;PSS(3,SG,FEM)
 ሰደደ	ልስደድ	V;IMP;NOM(1,SG)
-ሰደደ	መስደድ	V.MSDR
+ሰደደ	መስደድ	V.MSDR;
 ሰደደ	ሰደሀል	V;PRF;NOM(MASC;2,SG)
 ሰደደ	ሰደህ	V.CVB;NOM(MASC;2,SG)
 ሰደደ	ሰደሻል	V;PRF;NOM(FEM;2,SG)
@@ -7857,7 +7857,7 @@
 ሰገነት	ሰገነቱ	N;DEF;MASC
 ሰገነት	ሰገነት	N
 ሰጋ	ልስጋ	V;IMP;NOM(1,SG)
-ሰጋ	መስጋት	V.MSDR
+ሰጋ	መስጋት	V.MSDR;
 ሰጋ	ሰጉ	V;PFV;NOM(3,PL)
 ሰጋ	ሰጋ	V;PFV;NOM(MASC;3,SG)
 ሰጋ	ሰጋሁ	V;PFV;NOM(1,SG)
@@ -7906,7 +7906,7 @@
 ሰጋ	ይስጉ	V;IMP;NOM(3,PL)
 ሰጋ	ይስጋ	V;IMP;NOM(MASC;3,SG)
 ሰጠ	ልስጥ	V;IMP;NOM(1,SG)
-ሰጠ	መስጠት	V.MSDR
+ሰጠ	መስጠት	V.MSDR;
 ሰጠ	ሰጠ	V;PFV;NOM(MASC;3,SG)
 ሰጠ	ሰጠሁ	V;PFV;NOM(1,SG)
 ሰጠ	ሰጠህ	V;PFV;NOM(MASC;2,SG)
@@ -7955,7 +7955,7 @@
 ሰጠ	ይስጡ	V;IMP;NOM(3,PL)
 ሰጠ	ይስጥ	V;IMP;NOM(MASC;3,SG)
 ሰፈረ	ልስፈር	V;IMP;NOM(1,SG)
-ሰፈረ	መስፈር	V.MSDR
+ሰፈረ	መስፈር	V.MSDR;
 ሰፈረ	ሰፈረ	V;PFV;NOM(MASC;3,SG)
 ሰፈረ	ሰፈረች	V;PFV;NOM(FEM;3,SG)
 ሰፈረ	ሰፈሩ	V;PFV;NOM(3,PL)
@@ -8027,7 +8027,7 @@
 ሰፈር	ሰፈሯ	N;DEF;FEM
 ሰፈር	ሰፈሯ	N;PSS(3,SG,FEM)
 ሰፈነ	ልስፈን	V;IMP;NOM(1,SG)
-ሰፈነ	መስፈን	V.MSDR
+ሰፈነ	መስፈን	V.MSDR;
 ሰፈነ	ሰፈነ	V;PFV;NOM(MASC;3,SG)
 ሰፈነ	ሰፈነች	V;PFV;NOM(FEM;3,SG)
 ሰፈነ	ሰፈኑ	V;PFV;NOM(3,PL)
@@ -8080,7 +8080,7 @@
 ሰፊ	ሰፊው	ADJ;DEF;MASC
 ሰፊ	ሰፊዎቹ	ADJ;DEF;PL
 ሰፊ	ሰፊዎች	ADJ;PL
-ሰፋ	መስፋት	V.MSDR
+ሰፋ	መስፋት	V.MSDR;
 ሰፋ	ሰፋ	V;PFV;NOM(MASC;3,SG)
 ሰፋ	ሰፍቶ	V.CVB;NOM(MASC;3,SG)
 ሰፋ	ሰፍቷል	V;PRF;NOM(MASC;3,SG)
@@ -8138,7 +8138,7 @@
 ሳር	ሳር	N
 ሳር	ሳሮቹ	N;DEF;PL
 ሳር	ሳሮች	N;PL
-ሳሳ	መሳሳት	V.MSDR
+ሳሳ	መሳሳት	V.MSDR;
 ሳሳ	ሳሳ	V;PFV;NOM(MASC;3,SG)
 ሳሳ	ሳስቶ	V.CVB;NOM(MASC;3,SG)
 ሳሳ	ሳስቷል	V;PRF;NOM(MASC;3,SG)
@@ -8146,7 +8146,7 @@
 ሳሳ	ይሳሳ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ሳሳ	ይሳሳል	V;IPFV;NOM(MASC;3,SG)
 ሳቀ	ልሳቅ	V;IMP;NOM(1,SG)
-ሳቀ	መሳቅ	V.MSDR
+ሳቀ	መሳቅ	V.MSDR;
 ሳቀ	ሳቀ	V;PFV;NOM(MASC;3,SG)
 ሳቀ	ሳቀች	V;PFV;NOM(FEM;3,SG)
 ሳቀ	ሳቁ	V;IMP;NOM(2,PL)
@@ -8207,7 +8207,7 @@
 ሳቅ	ሳቋ	N;DEF;FEM
 ሳቅ	ሳቋ	N;PSS(3,SG,FEM)
 ሳበ	ልሳብ	V;IMP;NOM(1,SG)
-ሳበ	መሳብ	V.MSDR
+ሳበ	መሳብ	V.MSDR;
 ሳበ	ሳበ	V;PFV;NOM(MASC;3,SG)
 ሳበ	ሳበች	V;PFV;NOM(FEM;3,SG)
 ሳበ	ሳቡ	V;IMP;NOM(2,PL)
@@ -8256,7 +8256,7 @@
 ሳበ	ይስባል	V;IPFV;NOM(MASC;3,SG)
 ሳበ	ይስብ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ሳተ	ልሳት	V;IMP;NOM(1,SG)
-ሳተ	መሳት	V.MSDR
+ሳተ	መሳት	V.MSDR;
 ሳተ	ሳተ	V;PFV;NOM(MASC;3,SG)
 ሳተ	ሳተች	V;PFV;NOM(FEM;3,SG)
 ሳተ	ሳቱ	V;IMP;NOM(2,PL)
@@ -9040,7 +9040,7 @@
 ሶስተኛ	ሶስተኛው	ADJ;DEF;MASC
 ሶስተኛ	ሶስተኛይቱ	ADJ;DEF;FEM;LGSPEC1
 ሸለመ	ልሸልም	V;IMP;NOM(1,SG)
-ሸለመ	መሸለም	V.MSDR
+ሸለመ	መሸለም	V.MSDR;
 ሸለመ	ሸለመ	V;PFV;NOM(MASC;3,SG)
 ሸለመ	ሸለመች	V;PFV;NOM(FEM;3,SG)
 ሸለመ	ሸለሙ	V;PFV;NOM(3,PL)
@@ -9106,7 +9106,7 @@
 ሸምበቆ	ሸምበቆዎቹ	N;DEF;PL
 ሸምበቆ	ሸምበቆዎች	N;PL
 ሸሸ	ልሽ	V;IMP;NOM(1,SG)
-ሸሸ	መሽሸት	V.MSDR
+ሸሸ	መሽሸት	V.MSDR;
 ሸሸ	ሸሸ	V;PFV;NOM(MASC;3,SG)
 ሸሸ	ሸሸሁ	V;PFV;NOM(1,SG)
 ሸሸ	ሸሸህ	V;PFV;NOM(MASC;2,SG)
@@ -9155,7 +9155,7 @@
 ሸሸ	ይሹ	V;IMP;NOM(3,PL)
 ሸሸ	ይሽ	V;IMP;NOM(MASC;3,SG)
 ሸና	ልሽና	V;IMP;NOM(1,SG)
-ሸና	መሽናት	V.MSDR
+ሸና	መሽናት	V.MSDR;
 ሸና	ሸኑ	V;PFV;NOM(3,PL)
 ሸና	ሸና	V;PFV;NOM(MASC;3,SG)
 ሸና	ሸናሁ	V;PFV;NOM(1,SG)
@@ -9217,7 +9217,7 @@
 ሸንጎ	ሸንጎው	N;PSS(3,SG,MASC)
 ሸንጎ	ሸንጎዎ	N;PSS(2,SG,FORM)
 ሸንጎ	ሸንጎዬ	N;PSS(1,SG)
-ሸኘ	መሸኘት	V.MSDR
+ሸኘ	መሸኘት	V.MSDR;
 ሸኘ	ሸኘ	V;PFV;NOM(MASC;3,SG)
 ሸኘ	ሸኝቶ	V.CVB;NOM(MASC;3,SG)
 ሸኘ	ሸኝቷል	V;PRF;NOM(MASC;3,SG)
@@ -9236,7 +9236,7 @@
 ሸክም	ሸክምዎ	N;PSS(2,SG,FORM)
 ሸክም	ሸክሟ	N;PSS(3,SG,FEM)
 ሸጠ	ልሽጥ	V;IMP;NOM(1,SG)
-ሸጠ	መሸጥ	V.MSDR
+ሸጠ	መሸጥ	V.MSDR;
 ሸጠ	ሸጠ	V;PFV;NOM(MASC;3,SG)
 ሸጠ	ሸጠች	V;PFV;NOM(FEM;3,SG)
 ሸጠ	ሸጡ	V;PFV;NOM(3,PL)
@@ -9285,7 +9285,7 @@
 ሸጠ	ይሽጡ	V;IMP;NOM(3,PL)
 ሸጠ	ይሽጥ	V;IMP;NOM(MASC;3,SG)
 ሸፈነ	ልሸፍን	V;IMP;NOM(1,SG)
-ሸፈነ	መሸፈን	V.MSDR
+ሸፈነ	መሸፈን	V.MSDR;
 ሸፈነ	ሸፈነ	V;PFV;NOM(MASC;3,SG)
 ሸፈነ	ሸፈነች	V;PFV;NOM(FEM;3,SG)
 ሸፈነ	ሸፈኑ	V;PFV;NOM(3,PL)
@@ -9360,7 +9360,7 @@
 ሹም	ሹሞቹ	N;DEF;PL
 ሹም	ሹሞች	N;PL
 ሻ	ልሻ	V;IMP;NOM(1,SG)
-ሻ	መሻት	V.MSDR
+ሻ	መሻት	V.MSDR;
 ሻ	ሹ	V;IMP;NOM(2,PL)
 ሻ	ሹ	V;PFV;NOM(3,PL)
 ሻ	ሺ	V;IMP;NOM(FEM;2,SG)
@@ -9420,7 +9420,7 @@
 ሻምበል	ሻምበሎቹ	N;DEF;PL
 ሻምበል	ሻምበሎች	N;PL
 ሻረ	ልሻር	V;IMP;NOM(1,SG)
-ሻረ	መሻር	V.MSDR
+ሻረ	መሻር	V.MSDR;
 ሻረ	ሻረ	V;PFV;NOM(MASC;3,SG)
 ሻረ	ሻረች	V;PFV;NOM(FEM;3,SG)
 ሻረ	ሻሩ	V;IMP;NOM(2,PL)
@@ -9611,7 +9611,7 @@
 ሽፍታ	ሽፍቶቹ	N;DEF;PL;LGSPEC1
 ሽፍታ	ሽፍቶች	N;PL;LGSPEC1
 ሾመ	ልሹም	V;IMP;NOM(1,SG)
-ሾመ	መሾም	V.MSDR
+ሾመ	መሾም	V.MSDR;
 ሾመ	ሹሙ	V;IMP;NOM(2,PL)
 ሾመ	ሹሚ	V;IMP;NOM(FEM;2,SG)
 ሾመ	ሹም	V;IMP;NOM(MASC;2,SG)
@@ -9667,8 +9667,8 @@
 ቀለበት	ቀለበት	N
 ቀለበት	ቀለበቶቹ	N;DEF;PL
 ቀለበት	ቀለበቶች	N;PL
-ቀላ	መቅላት	V.MSDR
-ቀላ	መቅላት	V.MSDR
+ቀላ	መቅላት	V.MSDR;
+ቀላ	መቅላት	V.MSDR;
 ቀላ	ቀላ	V;PFV;NOM(MASC;3,SG)
 ቀላ	ቀላ	V;PFV;NOM(MASC;3,SG)
 ቀላ	ቀልቶ	V.CVB;NOM(MASC;3,SG)
@@ -9742,7 +9742,7 @@
 ቀሚስ	ቀሚሶቿ	N;PL;PSS(3,SG,FEM)
 ቀሚስ	ቀሚሷ	N;PSS(3,SG,FEM)
 ቀረ	ልቅር	V;IMP;NOM(1,SG)
-ቀረ	መቅረት	V.MSDR
+ቀረ	መቅረት	V.MSDR;
 ቀረ	ቀረ	V;PFV;NOM(MASC;3,SG)
 ቀረ	ቀረሁ	V;PFV;NOM(1,SG)
 ቀረ	ቀረህ	V;PFV;NOM(MASC;2,SG)
@@ -9791,7 +9791,7 @@
 ቀረ	ይቅሩ	V;IMP;NOM(3,PL)
 ቀረ	ይቅር	V;IMP;NOM(MASC;3,SG)
 ቀረበ	ልቅረብ	V;IMP;NOM(1,SG)
-ቀረበ	መቅረብ	V.MSDR
+ቀረበ	መቅረብ	V.MSDR;
 ቀረበ	ቀረበ	V;PFV;NOM(MASC;3,SG)
 ቀረበ	ቀረበች	V;PFV;NOM(FEM;3,SG)
 ቀረበ	ቀረቡ	V;PFV;NOM(3,PL)
@@ -9839,7 +9839,7 @@
 ቀረበ	ይቀርብ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ቀረበ	ይቅረቡ	V;IMP;NOM(3,PL)
 ቀረበ	ይቅረብ	V;IMP;NOM(MASC;3,SG)
-ቀረና	መቀርናት	V.MSDR
+ቀረና	መቀርናት	V.MSDR;
 ቀረና	ቀረና	V;PFV;NOM(MASC;3,SG)
 ቀረና	ቀርንቶ	V.CVB;NOM(MASC;3,SG)
 ቀረና	ቀርንቷል	V;PRF;NOM(MASC;3,SG)
@@ -9849,7 +9849,7 @@
 ቀረጥ	ቀረጡ	N;DEF;MASC
 ቀረጥ	ቀረጥ	N
 ቀረጸ	ልቅረጽ	V;IMP;NOM(1,SG)
-ቀረጸ	መቅረጽ	V.MSDR
+ቀረጸ	መቅረጽ	V.MSDR;
 ቀረጸ	ቀረጸ	V;PFV;NOM(MASC;3,SG)
 ቀረጸ	ቀረጸች	V;PFV;NOM(FEM;3,SG)
 ቀረጸ	ቀረጹ	V;PFV;NOM(3,PL)
@@ -9901,7 +9901,7 @@
 ቀሪ	ቀሪው	N;DEF;MASC
 ቀሪ	ቀሪዎቹ	N;DEF;PL
 ቀሪ	ቀሪዎች	N;PL
-ቀሰቀሰ	መቀስቀስ	V.MSDR
+ቀሰቀሰ	መቀስቀስ	V.MSDR;
 ቀሰቀሰ	ቀሰቀሰ	V;PFV;NOM(MASC;3,SG)
 ቀሰቀሰ	ቀስቅሶ	V.CVB;NOM(MASC;3,SG)
 ቀሰቀሰ	ቀስቅሷል	V;PRF;NOM(MASC;3,SG)
@@ -9930,7 +9930,7 @@
 ቀብር	ቀብርዎ	N;PSS(2,SG,FORM)
 ቀብር	ቀብሯ	N;PSS(3,SG,FEM)
 ቀነሰ	ልቀንስ	V;IMP;NOM(1,SG)
-ቀነሰ	መቀነስ	V.MSDR
+ቀነሰ	መቀነስ	V.MSDR;
 ቀነሰ	ቀነሰ	V;PFV;NOM(MASC;3,SG)
 ቀነሰ	ቀነሰች	V;PFV;NOM(FEM;3,SG)
 ቀነሰ	ቀነሱ	V;PFV;NOM(3,PL)
@@ -9979,7 +9979,7 @@
 ቀነሰ	ይቀንስ	V;IMP;NOM(MASC;3,SG)
 ቀነሰ	ይቀንስ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ቀና	ልቅና	V;IMP;NOM(1,SG)
-ቀና	መቅናት	V.MSDR
+ቀና	መቅናት	V.MSDR;
 ቀና	ቀኑ	V;PFV;NOM(3,PL)
 ቀና	ቀና	ADJ
 ቀና	ቀና	V;PFV;NOM(MASC;3,SG)
@@ -10114,7 +10114,7 @@
 ቀዝቃዛ	ቀዝቃዛው	ADJ;DEF;MASC
 ቀዝቃዛ	ቀዝቃዛይቱ	ADJ;DEF;FEM;LGSPEC1
 ቀየረ	ልቀይር	V;IMP;NOM(1,SG)
-ቀየረ	መቀየር	V.MSDR
+ቀየረ	መቀየር	V.MSDR;
 ቀየረ	ቀየረ	V;PFV;NOM(MASC;3,SG)
 ቀየረ	ቀየረች	V;PFV;NOM(FEM;3,SG)
 ቀየረ	ቀየሩ	V;PFV;NOM(3,PL)
@@ -10167,7 +10167,7 @@
 ቀይ	ቀይዋ	ADJ;DEF;FEM
 ቀይ	ቀዮቹ	ADJ;DEF;PL
 ቀይ	ቀዮች	ADJ;PL
-ቀደመ	መቅደም	V.MSDR
+ቀደመ	መቅደም	V.MSDR;
 ቀደመ	ቀደመ	V;PFV;NOM(MASC;3,SG)
 ቀደመ	ቀድሞ	V.CVB;NOM(MASC;3,SG)
 ቀደመ	ቀድሟል	V;PRF;NOM(MASC;3,SG)
@@ -10175,7 +10175,7 @@
 ቀደመ	ይቀድም	V;IPFV;NFIN;NOM(MASC;3,SG)
 ቀደመ	ይቅደም	V;IMP;NOM(MASC;3,SG)
 ቀደሰ	ልቀድስ	V;IMP;NOM(1,SG)
-ቀደሰ	መቀደስ	V.MSDR
+ቀደሰ	መቀደስ	V.MSDR;
 ቀደሰ	ቀደሰ	V;PFV;NOM(MASC;3,SG)
 ቀደሰ	ቀደሰች	V;PFV;NOM(FEM;3,SG)
 ቀደሰ	ቀደሱ	V;PFV;NOM(3,PL)
@@ -10234,7 +10234,7 @@
 ቀዳዳ	ቀዳዳዎች	N;PL
 ቀዳዳ	ቀዳዶቹ	N;DEF;PL;LGSPEC1
 ቀጠለ	ልቀጥል	V;IMP;NOM(1,SG)
-ቀጠለ	መቀጠል	V.MSDR
+ቀጠለ	መቀጠል	V.MSDR;
 ቀጠለ	ቀጠለ	V;PFV;NOM(MASC;3,SG)
 ቀጠለ	ቀጠለች	V;PFV;NOM(FEM;3,SG)
 ቀጠለ	ቀጠሉ	V;PFV;NOM(3,PL)
@@ -10283,7 +10283,7 @@
 ቀጠለ	ይቀጥል	V;IMP;NOM(MASC;3,SG)
 ቀጠለ	ይቀጥል	V;IPFV;NFIN;NOM(MASC;3,SG)
 ቀጠረ	ልቅጠር	V;IMP;NOM(1,SG)
-ቀጠረ	መቅጠር	V.MSDR
+ቀጠረ	መቅጠር	V.MSDR;
 ቀጠረ	ቀጠረ	V;PFV;NOM(MASC;3,SG)
 ቀጠረ	ቀጠረች	V;PFV;NOM(FEM;3,SG)
 ቀጠረ	ቀጠሩ	V;PFV;NOM(3,PL)
@@ -10361,7 +10361,7 @@
 ቀጠና	ቀጠናዎቹ	N;DEF;PL
 ቀጠና	ቀጠናዎች	N;PL
 ቀጣ	ልቅጣ	V;IMP;NOM(1,SG)
-ቀጣ	መቅጣት	V.MSDR
+ቀጣ	መቅጣት	V.MSDR;
 ቀጣ	ቀጡ	V;PFV;NOM(3,PL)
 ቀጣ	ቀጣ	V;PFV;NOM(MASC;3,SG)
 ቀጣ	ቀጣሁ	V;PFV;NOM(1,SG)
@@ -10578,7 +10578,7 @@
 ቃል	ቃሏ	N;DEF;FEM
 ቃል	ቃሏ	N;PSS(3,SG,FEM)
 ቃኘ	ልቃኝ	V;IMP;NOM(1,SG)
-ቃኘ	መቃኘት	V.MSDR
+ቃኘ	መቃኘት	V.MSDR;
 ቃኘ	ቃኘ	V;PFV;NOM(MASC;3,SG)
 ቃኘ	ቃኘሁ	V;PFV;NOM(1,SG)
 ቃኘ	ቃኘህ	V;PFV;NOM(MASC;2,SG)
@@ -10896,7 +10896,7 @@
 ቆላ	ቆላ	N
 ቆላ	ቆላው	N;DEF;MASC
 ቆመ	ልቁም	V;IMP;NOM(1,SG)
-ቆመ	መቆም	V.MSDR
+ቆመ	መቆም	V.MSDR;
 ቆመ	ቁሙ	V;IMP;NOM(2,PL)
 ቆመ	ቁሚ	V;IMP;NOM(FEM;2,SG)
 ቆመ	ቁም	V;IMP;NOM(MASC;2,SG)
@@ -10945,7 +10945,7 @@
 ቆመ	ይቆማል	V;IPFV;NOM(MASC;3,SG)
 ቆመ	ይቆም	V;IPFV;NFIN;NOM(MASC;3,SG)
 ቆረጠ	ልቁረጥ	V;IMP;NOM(1,SG)
-ቆረጠ	መቁረጥ	V.MSDR
+ቆረጠ	መቁረጥ	V.MSDR;
 ቆረጠ	ቁረጡ	V;IMP;NOM(2,PL)
 ቆረጠ	ቁረጥ	V;IMP;NOM(MASC;2,SG)
 ቆረጠ	ቁረጪ	V;IMP;NOM(FEM;2,SG)
@@ -11037,7 +11037,7 @@
 ቆንጆ	ቆንጆዎች	ADJ;PL
 ቆንጆ	ቆንጆይቱ	ADJ;DEF;FEM;LGSPEC1
 ቆየ	ልቆይ	V;IMP;NOM(1,SG)
-ቆየ	መቆየት	V.MSDR
+ቆየ	መቆየት	V.MSDR;
 ቆየ	ቆየ	V;PFV;NOM(MASC;3,SG)
 ቆየ	ቆየሁ	V;PFV;NOM(1,SG)
 ቆየ	ቆየህ	V;PFV;NOM(MASC;2,SG)
@@ -11130,7 +11130,7 @@
 ቆዳ	ቆዶችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 ቆዳ	ቆዶቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
 ቆጠረ	ልቁጠር	V;IMP;NOM(1,SG)
-ቆጠረ	መቁጠር	V.MSDR
+ቆጠረ	መቁጠር	V.MSDR;
 ቆጠረ	ቁጠሩ	V;IMP;NOM(2,PL)
 ቆጠረ	ቁጠሪ	V;IMP;NOM(FEM;2,SG)
 ቆጠረ	ቁጠር	V;IMP;NOM(MASC;2,SG)
@@ -11192,7 +11192,7 @@
 ቋንቋ	ቋንቋዎች	N;PL
 ቋንቋ	ቋንቋዬ	N;PSS(1,SG)
 ቋጨ	ልቋጭ	V;IMP;NOM(1,SG)
-ቋጨ	መቋጨት	V.MSDR
+ቋጨ	መቋጨት	V.MSDR;
 ቋጨ	ቋጨ	V;PFV;NOM(MASC;3,SG)
 ቋጨ	ቋጨሁ	V;PFV;NOM(1,SG)
 ቋጨ	ቋጨህ	V;PFV;NOM(MASC;2,SG)
@@ -11243,7 +11243,7 @@
 በለስ	በለሱ	N;DEF;MASC
 በለስ	በለስ	N
 በለጠ	ልብለጥ	V;IMP;NOM(1,SG)
-በለጠ	መብለጥ	V.MSDR
+በለጠ	መብለጥ	V.MSDR;
 በለጠ	በለጠ	V;PFV;NOM(MASC;3,SG)
 በለጠ	በለጠች	V;PFV;NOM(FEM;3,SG)
 በለጠ	በለጡ	V;PFV;NOM(3,PL)
@@ -11292,7 +11292,7 @@
 በለጠ	ይብለጡ	V;IMP;NOM(3,PL)
 በለጠ	ይብለጥ	V;IMP;NOM(MASC;3,SG)
 በላ	ልብላ	V;IMP;NOM(1,SG)
-በላ	መብላት	V.MSDR
+በላ	መብላት	V.MSDR;
 በላ	በሉ	V;PFV;NOM(3,PL)
 በላ	በላ	V;PFV;NOM(MASC;3,SG)
 በላ	በላሁ	V;PFV;NOM(1,SG)
@@ -11347,7 +11347,7 @@
 በረሀ	በረሀዎቹ	N;DEF;PL
 በረሀ	በረሀዎች	N;PL
 በረሀ	በረሆቹ	N;DEF;PL;LGSPEC1
-በረረ	መብረር	V.MSDR
+በረረ	መብረር	V.MSDR;
 በረረ	በረረ	V;PFV;NOM(MASC;3,SG)
 በረረ	በሮ	V.CVB;NOM(MASC;3,SG)
 በረረ	በሯል	V;PRF;NOM(MASC;3,SG)
@@ -11358,7 +11358,7 @@
 በረራ	በረራው	N;DEF;MASC
 በረራ	በረራዎቹ	N;DEF;PL
 በረራ	በረራዎች	N;PL
-በረታ	መበርታት	V.MSDR
+በረታ	መበርታት	V.MSDR;
 በረታ	በረታ	V;PFV;NOM(MASC;3,SG)
 በረታ	በርትቶ	V.CVB;NOM(MASC;3,SG)
 በረታ	በርትቷል	V;PRF;NOM(MASC;3,SG)
@@ -11397,7 +11397,7 @@
 በረከት	በረከቶችዎ	N;PL;PSS(2,SG,FORM)
 በረከት	በረከቶቿ	N;PL;PSS(3,SG,FEM)
 በረከት	በረከቷ	N;PSS(3,SG,FEM)
-በራ	መብራት	V.MSDR
+በራ	መብራት	V.MSDR;
 በራ	በራ	V;PFV;NOM(MASC;3,SG)
 በራ	በርቶ	V.CVB;NOM(MASC;3,SG)
 በራ	በርቷል	V;PRF;NOM(MASC;3,SG)
@@ -11489,7 +11489,7 @@
 በሽታ	በሽቶችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 በሽታ	በሽቶቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
 በቀለ	ልብቀል	V;IMP;NOM(1,SG)
-በቀለ	መብቀል	V.MSDR
+በቀለ	መብቀል	V.MSDR;
 በቀለ	በቀለ	V;PFV;NOM(MASC;3,SG)
 በቀለ	በቀለች	V;PFV;NOM(FEM;3,SG)
 በቀለ	በቀሉ	V;PFV;NOM(3,PL)
@@ -11556,7 +11556,7 @@
 በቂ	በቂዋ	ADJ;DEF;FEM
 በቂ	በቂው	ADJ;DEF;MASC
 በቃ	ልብቃ	V;IMP;NOM(1,SG)
-በቃ	መብቃት	V.MSDR
+በቃ	መብቃት	V.MSDR;
 በቃ	በቁ	V;PFV;NOM(3,PL)
 በቃ	በቃ	V;PFV;NOM(MASC;3,SG)
 በቃ	በቃሁ	V;PFV;NOM(1,SG)
@@ -11631,7 +11631,7 @@
 በቅሎ	በቅሎዎቿ	N;PL;PSS(3,SG,FEM)
 በቅሎ	በቅሎዬ	N;PSS(1,SG)
 በተነ	ልበትን	V;IMP;NOM(1,SG)
-በተነ	መበተን	V.MSDR
+በተነ	መበተን	V.MSDR;
 በተነ	በተነ	V;PFV;NOM(MASC;3,SG)
 በተነ	በተነች	V;PFV;NOM(FEM;3,SG)
 በተነ	በተኑ	V;PFV;NOM(3,PL)
@@ -11725,7 +11725,7 @@
 በዓል	በዓሎቹ	N;DEF;PL;LGSPEC1
 በዓል	በዓሏ	N;PSS(3,SG,FEM)
 በዛ	ልብዛ	V;IMP;NOM(1,SG)
-በዛ	መብዛት	V.MSDR
+በዛ	መብዛት	V.MSDR;
 በዛ	በዙ	V;PFV;NOM(3,PL)
 በዛ	በዛ	V;PFV;NOM(MASC;3,SG)
 በዛ	በዛሁ	V;PFV;NOM(1,SG)
@@ -11774,7 +11774,7 @@
 በዛ	ይብዙ	V;IMP;NOM(3,PL)
 በዛ	ይብዛ	V;IMP;NOM(MASC;3,SG)
 በየነ	ልበይን	V;IMP;NOM(1,SG)
-በየነ	መበየን	V.MSDR
+በየነ	መበየን	V.MSDR;
 በየነ	በየነ	V;PFV;NOM(MASC;3,SG)
 በየነ	በየነች	V;PFV;NOM(FEM;3,SG)
 በየነ	በየኑ	V;PFV;NOM(3,PL)
@@ -11823,7 +11823,7 @@
 በየነ	ይበይን	V;IMP;NOM(MASC;3,SG)
 በየነ	ይበይን	V;IPFV;NFIN;NOM(MASC;3,SG)
 በደለ	ልበድል	V;IMP;NOM(1,SG)
-በደለ	መበደል	V.MSDR
+በደለ	መበደል	V.MSDR;
 በደለ	በደለ	V;PFV;NOM(MASC;3,SG)
 በደለ	በደለች	V;PFV;NOM(FEM;3,SG)
 በደለ	በደሉ	V;PFV;NOM(3,PL)
@@ -12410,7 +12410,7 @@
 ባሕርይ	ባሕርይዋ	N;PSS(3,SG,FEM)
 ባሕርይ	ባሕርይዎ	N;LGSPEC1;PSS(2,SG,FORM)
 ባረከ	ልባርክ	V;IMP;NOM(1,SG)
-ባረከ	መባረክ	V.MSDR
+ባረከ	መባረክ	V.MSDR;
 ባረከ	ባረከ	V;PFV;NOM(MASC;3,SG)
 ባረከ	ባረከች	V;PFV;NOM(FEM;3,SG)
 ባረከ	ባረኩ	V;PFV;NOM(1,SG)
@@ -12512,7 +12512,7 @@
 ባር	ባሮቿ	N;PL;PSS(3,SG,FEM)
 ባር	ባሯ	N;PSS(3,SG,FEM)
 ባሰ	ልባስ	V;IMP;NOM(1,SG)
-ባሰ	መባስ	V.MSDR
+ባሰ	መባስ	V.MSDR;
 ባሰ	ባሰ	V;PFV;NOM(MASC;3,SG)
 ባሰ	ባሰች	V;PFV;NOM(FEM;3,SG)
 ባሰ	ባሱ	V;IMP;NOM(2,PL)
@@ -12624,7 +12624,7 @@
 ባንዲራ	ባንዲሮችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 ባንዲራ	ባንዲሮቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
 ባከነ	ልባክን	V;IMP;NOM(1,SG)
-ባከነ	መባከን	V.MSDR
+ባከነ	መባከን	V.MSDR;
 ባከነ	ባከነ	V;PFV;NOM(MASC;3,SG)
 ባከነ	ባከነች	V;PFV;NOM(FEM;3,SG)
 ባከነ	ባከኑ	V;PFV;NOM(3,PL)
@@ -13073,21 +13073,21 @@
 ቦይ	ቦይ	N
 ቦይ	ቦዮቹ	N;DEF;PL
 ቦይ	ቦዮች	N;PL
-ተለቀቀ	መለቀቅ	V.MSDR
+ተለቀቀ	መለቀቅ	V.MSDR;
 ተለቀቀ	ተለቀቀ	V;PFV;NOM(MASC;3,SG)
 ተለቀቀ	ተለቆ	V.CVB;NOM(MASC;3,SG)
 ተለቀቀ	ተለቋል	V;PRF;NOM(MASC;3,SG)
 ተለቀቀ	ይለቀቃል	V;IPFV;NOM(MASC;3,SG)
 ተለቀቀ	ይለቀቅ	V;IMP;NOM(MASC;3,SG)
 ተለቀቀ	ይለቀቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተለወጠ	መለወጥ	V.MSDR
+ተለወጠ	መለወጥ	V.MSDR;
 ተለወጠ	ተለወጠ	V;PFV;NOM(MASC;3,SG)
 ተለወጠ	ተለውጦ	V.CVB;NOM(MASC;3,SG)
 ተለወጠ	ተለውጧል	V;PRF;NOM(MASC;3,SG)
 ተለወጠ	ይለወጣል	V;IPFV;NOM(MASC;3,SG)
 ተለወጠ	ይለወጥ	V;IMP;NOM(MASC;3,SG)
 ተለወጠ	ይለወጥ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተለዋወጠ	መለዋወጥ	V.MSDR
+ተለዋወጠ	መለዋወጥ	V.MSDR;
 ተለዋወጠ	ተለዋወጡ	V;IMP;NOM(2,PL)
 ተለዋወጠ	ተለዋወጡ	V;PFV;NOM(3,PL)
 ተለዋወጠ	ተለዋወጣችሁ	V;PFV;NOM(2,PL)
@@ -13106,14 +13106,14 @@
 ተለዋወጠ	ይለዋወጡ	V;IMP;NOM(3,PL)
 ተለዋወጠ	ይለዋወጡ	V;IPFV;NFIN;NOM(3,PL)
 ተለዋወጠ	ይለዋወጣሉ	V;IPFV;NOM(3,PL)
-ተለየ	መለየት	V.MSDR
+ተለየ	መለየት	V.MSDR;
 ተለየ	ተለየ	V;PFV;NOM(MASC;3,SG)
 ተለየ	ተለይቶ	V.CVB;NOM(MASC;3,SG)
 ተለየ	ተለይቷል	V;PRF;NOM(MASC;3,SG)
 ተለየ	ይለያል	V;IPFV;NOM(MASC;3,SG)
 ተለየ	ይለይ	V;IMP;NOM(MASC;3,SG)
 ተለየ	ይለይ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተለያየ	መለያየት	V.MSDR
+ተለያየ	መለያየት	V.MSDR;
 ተለያየ	ተለያየ	V;PFV;NOM(MASC;3,SG)
 ተለያየ	ተለያይቶ	V.CVB;NOM(MASC;3,SG)
 ተለያየ	ተለያይቷል	V;PRF;NOM(MASC;3,SG)
@@ -13124,7 +13124,7 @@
 ተለጣፊ	ተለጣፊው	N;DEF;MASC
 ተለጣፊ	ተለጣፊዎቹ	N;DEF;PL
 ተለጣፊ	ተለጣፊዎች	N;PL
-ተላለፈ	መተላለፍ	V.MSDR
+ተላለፈ	መተላለፍ	V.MSDR;
 ተላለፈ	ተላለፈ	V;PFV;NOM(MASC;3,SG)
 ተላለፈ	ተላልፎ	V.CVB;NOM(MASC;3,SG)
 ተላለፈ	ተላልፏል	V;PRF;NOM(MASC;3,SG)
@@ -13135,7 +13135,7 @@
 ተላላፊ	ተላላፊዋ	ADJ;DEF;FEM
 ተላላፊ	ተላላፊው	ADJ;DEF;MASC
 ተላከ	ልላክ	V;IMP;NOM(1,SG)
-ተላከ	መላክ	V.MSDR
+ተላከ	መላክ	V.MSDR;
 ተላከ	ተላከ	V;PFV;NOM(MASC;3,SG)
 ተላከ	ተላከች	V;PFV;NOM(FEM;3,SG)
 ተላከ	ተላኩ	V;IMP;NOM(2,PL)
@@ -13184,7 +13184,7 @@
 ተላከ	ይላክ	V;IMP;NOM(MASC;3,SG)
 ተላከ	ይላክ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተመለሰ	ልመለስ	V;IMP;NOM(1,SG)
-ተመለሰ	መመለስ	V.MSDR
+ተመለሰ	መመለስ	V.MSDR;
 ተመለሰ	ተመለሰ	V;PFV;NOM(MASC;3,SG)
 ተመለሰ	ተመለሰች	V;PFV;NOM(FEM;3,SG)
 ተመለሰ	ተመለሱ	V;IMP;NOM(2,PL)
@@ -13233,7 +13233,7 @@
 ተመለሰ	ይመለስ	V;IMP;NOM(MASC;3,SG)
 ተመለሰ	ይመለስ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተመለከተ	ልመልከት	V;IMP;NOM(1,SG)
-ተመለከተ	መመልከት	V.MSDR
+ተመለከተ	መመልከት	V.MSDR;
 ተመለከተ	ተመለከተ	V;PFV;NOM(MASC;3,SG)
 ተመለከተ	ተመለከተች	V;PFV;NOM(FEM;3,SG)
 ተመለከተ	ተመለከቱ	V;PFV;NOM(3,PL)
@@ -13282,7 +13282,7 @@
 ተመለከተ	ይመልከቱ	V;IMP;NOM(3,PL)
 ተመለከተ	ይመልከት	V;IMP;NOM(MASC;3,SG)
 ተመላለሰ	ልመላለስ	V;IMP;NOM(1,SG)
-ተመላለሰ	መመላለስ	V.MSDR
+ተመላለሰ	መመላለስ	V.MSDR;
 ተመላለሰ	ተመላለሰ	V;PFV;NOM(MASC;3,SG)
 ተመላለሰ	ተመላለሰች	V;PFV;NOM(FEM;3,SG)
 ተመላለሰ	ተመላለሱ	V;IMP;NOM(2,PL)
@@ -13334,7 +13334,7 @@
 ተመልካች	ተመልካች	N
 ተመልካች	ተመልካቾቹ	N;DEF;PL
 ተመልካች	ተመልካቾች	N;PL
-ተመረመረ	መመርመር	V.MSDR
+ተመረመረ	መመርመር	V.MSDR;
 ተመረመረ	ተመረመረ	V;PFV;NOM(MASC;3,SG)
 ተመረመረ	ተመርምሮ	V.CVB;NOM(MASC;3,SG)
 ተመረመረ	ተመርምሯል	V;PRF;NOM(MASC;3,SG)
@@ -13342,7 +13342,7 @@
 ተመረመረ	ይመረመር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተመረመረ	ይመርመር	V;IMP;NOM(MASC;3,SG)
 ተመረቀ	ልመረቅ	V;IMP;NOM(1,SG)
-ተመረቀ	መመረቅ	V.MSDR
+ተመረቀ	መመረቅ	V.MSDR;
 ተመረቀ	ተመረቀ	V;PFV;NOM(MASC;3,SG)
 ተመረቀ	ተመረቀች	V;PFV;NOM(FEM;3,SG)
 ተመረቀ	ተመረቁ	V;IMP;NOM(2,PL)
@@ -13390,7 +13390,7 @@
 ተመረቀ	ይመረቃል	V;IPFV;NOM(MASC;3,SG)
 ተመረቀ	ይመረቅ	V;IMP;NOM(MASC;3,SG)
 ተመረቀ	ይመረቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተመረተ	መመረት	V.MSDR
+ተመረተ	መመረት	V.MSDR;
 ተመረተ	ተመረተ	V;PFV;NOM(MASC;3,SG)
 ተመረተ	ተመርቶ	V.CVB;NOM(MASC;3,SG)
 ተመረተ	ተመርቷል	V;PRF;NOM(MASC;3,SG)
@@ -13398,7 +13398,7 @@
 ተመረተ	ይመረት	V;IMP;NOM(MASC;3,SG)
 ተመረተ	ይመረት	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተመረጠ	ልመረጥ	V;IMP;NOM(1,SG)
-ተመረጠ	መመረጥ	V.MSDR
+ተመረጠ	መመረጥ	V.MSDR;
 ተመረጠ	ተመረጠ	V;PFV;NOM(MASC;3,SG)
 ተመረጠ	ተመረጠች	V;PFV;NOM(FEM;3,SG)
 ተመረጠ	ተመረጡ	V;IMP;NOM(2,PL)
@@ -13447,7 +13447,7 @@
 ተመረጠ	ይመረጥ	V;IMP;NOM(MASC;3,SG)
 ተመረጠ	ይመረጥ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተመራ	ልመራ	V;IMP;NOM(1,SG)
-ተመራ	መመራት	V.MSDR
+ተመራ	መመራት	V.MSDR;
 ተመራ	ተመሩ	V;IMP;NOM(2,PL)
 ተመራ	ተመሩ	V;PFV;NOM(3,PL)
 ተመራ	ተመሪ	V;IMP;NOM(FEM;2,SG)
@@ -13506,7 +13506,7 @@
 ተመራጭ	ተመራጭ	N
 ተመራጭ	ተመራጮቹ	N;DEF;PL
 ተመራጭ	ተመራጮች	N;PL
-ተመሰረተ	መመሥረት	V.MSDR
+ተመሰረተ	መመሥረት	V.MSDR;
 ተመሰረተ	ተመሠረተ	V;PFV;NOM(MASC;3,SG)
 ተመሰረተ	ተመሥርቶ	V.CVB;NOM(MASC;3,SG)
 ተመሰረተ	ተመሥርቷል	V;PRF;NOM(MASC;3,SG)
@@ -13514,7 +13514,7 @@
 ተመሰረተ	ይመሠረት	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተመሰረተ	ይመሥረት	V;IMP;NOM(MASC;3,SG)
 ተመታ	ልመታ	V;IMP;NOM(1,SG)
-ተመታ	መመታት	V.MSDR
+ተመታ	መመታት	V.MSDR;
 ተመታ	ተመቱ	V;IMP;NOM(2,PL)
 ተመታ	ተመቱ	V;PFV;NOM(3,PL)
 ተመታ	ተመታ	V;IMP;NOM(MASC;2,SG)
@@ -13562,14 +13562,14 @@
 ተመታ	ይመታ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተመታ	ይመታሉ	V;IPFV;NOM(3,PL)
 ተመታ	ይመታል	V;IPFV;NOM(MASC;3,SG)
-ተመቸ	መመቸት	V.MSDR
+ተመቸ	መመቸት	V.MSDR;
 ተመቸ	ተመቸ	V;PFV;NOM(MASC;3,SG)
 ተመቸ	ተመችቶ	V.CVB;NOM(MASC;3,SG)
 ተመቸ	ተመችቷል	V;PRF;NOM(MASC;3,SG)
 ተመቸ	ይመቻል	V;IPFV;NOM(MASC;3,SG)
 ተመቸ	ይመች	V;IMP;NOM(MASC;3,SG)
 ተመቸ	ይመች	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተመቻቸ	መመቻቸት	V.MSDR
+ተመቻቸ	መመቻቸት	V.MSDR;
 ተመቻቸ	ተመቻቸ	V;PFV;NOM(MASC;3,SG)
 ተመቻቸ	ተመቻችቶ	V.CVB;NOM(MASC;3,SG)
 ተመቻቸ	ተመቻችቷል	V;PRF;NOM(MASC;3,SG)
@@ -13581,7 +13581,7 @@
 ተመን	ተመኖቹ	N;DEF;PL
 ተመን	ተመኖች	N;PL
 ተመኘ	ልመኝ	V;IMP;NOM(1,SG)
-ተመኘ	መመኘት	V.MSDR
+ተመኘ	መመኘት	V.MSDR;
 ተመኘ	ተመኘ	V;PFV;NOM(MASC;3,SG)
 ተመኘ	ተመኘሁ	V;PFV;NOM(1,SG)
 ተመኘ	ተመኘህ	V;PFV;NOM(MASC;2,SG)
@@ -13629,7 +13629,7 @@
 ተመኘ	ይመኛል	V;IPFV;NOM(MASC;3,SG)
 ተመኘ	ይመኝ	V;IMP;NOM(MASC;3,SG)
 ተመኘ	ይመኝ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተመካከረ	መመካከር	V.MSDR
+ተመካከረ	መመካከር	V.MSDR;
 ተመካከረ	ተመካከሩ	V;IMP;NOM(2,PL)
 ተመካከረ	ተመካከሩ	V;PFV;NOM(3,PL)
 ተመካከረ	ተመካከራችሁ	V;PFV;NOM(2,PL)
@@ -13649,7 +13649,7 @@
 ተመካከረ	ይመካከሩ	V;IPFV;NFIN;NOM(3,PL)
 ተመካከረ	ይመካከራሉ	V;IPFV;NOM(3,PL)
 ተመዘገበ	ልመዝገብ	V;IMP;NOM(1,SG)
-ተመዘገበ	መመዝገብ	V.MSDR
+ተመዘገበ	መመዝገብ	V.MSDR;
 ተመዘገበ	ተመዘገበ	V;PFV;NOM(MASC;3,SG)
 ተመዘገበ	ተመዘገበች	V;PFV;NOM(FEM;3,SG)
 ተመዘገበ	ተመዘገቡ	V;PFV;NOM(3,PL)
@@ -13698,7 +13698,7 @@
 ተመዘገበ	ይመዝገቡ	V;IMP;NOM(3,PL)
 ተመዘገበ	ይመዝገብ	V;IMP;NOM(MASC;3,SG)
 ተመደበ	ልመደብ	V;IMP;NOM(1,SG)
-ተመደበ	መመደብ	V.MSDR
+ተመደበ	መመደብ	V.MSDR;
 ተመደበ	ተመደበ	V;PFV;NOM(MASC;3,SG)
 ተመደበ	ተመደበች	V;PFV;NOM(FEM;3,SG)
 ተመደበ	ተመደቡ	V;IMP;NOM(2,PL)
@@ -13746,7 +13746,7 @@
 ተመደበ	ይመደባል	V;IPFV;NOM(MASC;3,SG)
 ተመደበ	ይመደብ	V;IMP;NOM(MASC;3,SG)
 ተመደበ	ይመደብ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተማመነ	መተማመን	V.MSDR
+ተማመነ	መተማመን	V.MSDR;
 ተማመነ	ተማመኑ	V;IMP;NOM(2,PL)
 ተማመነ	ተማመኑ	V;PFV;NOM(3,PL)
 ተማመነ	ተማመናችሁ	V;PFV;NOM(2,PL)
@@ -13766,7 +13766,7 @@
 ተማመነ	ይተማመኑ	V;IPFV;NFIN;NOM(3,PL)
 ተማመነ	ይተማመናሉ	V;IPFV;NOM(3,PL)
 ተማረ	ልማር	V;IMP;NOM(1,SG)
-ተማረ	መማር	V.MSDR
+ተማረ	መማር	V.MSDR;
 ተማረ	ተማረ	V;PFV;NOM(MASC;3,SG)
 ተማረ	ተማረች	V;PFV;NOM(FEM;3,SG)
 ተማረ	ተማሩ	V;IMP;NOM(2,PL)
@@ -13815,7 +13815,7 @@
 ተማረ	ይማር	V;IMP;NOM(MASC;3,SG)
 ተማረ	ይማር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተማረከ	ልማረክ	V;IMP;NOM(1,SG)
-ተማረከ	መማረክ	V.MSDR
+ተማረከ	መማረክ	V.MSDR;
 ተማረከ	ተማረከ	V;PFV;NOM(MASC;3,SG)
 ተማረከ	ተማረከች	V;PFV;NOM(FEM;3,SG)
 ተማረከ	ተማረኩ	V;IMP;NOM(2,PL)
@@ -13890,7 +13890,7 @@
 ተማሪ	ተማርያችሁ	N;LGSPEC1;PSS(2,PL)
 ተማሪ	ተማርያችን	N;LGSPEC1;PSS(1,PL)
 ተሞላ	ልሞላ	V;IMP;NOM(1,SG)
-ተሞላ	መሞላት	V.MSDR
+ተሞላ	መሞላት	V.MSDR;
 ተሞላ	ተሞሉ	V;IMP;NOM(2,PL)
 ተሞላ	ተሞሉ	V;PFV;NOM(3,PL)
 ተሞላ	ተሞላ	V;IMP;NOM(MASC;2,SG)
@@ -13938,7 +13938,7 @@
 ተሞላ	ይሞላ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሞላ	ይሞላሉ	V;IPFV;NOM(3,PL)
 ተሞላ	ይሞላል	V;IPFV;NOM(MASC;3,SG)
-ተሞከረ	መሞከር	V.MSDR
+ተሞከረ	መሞከር	V.MSDR;
 ተሞከረ	ተሞከረ	V;PFV;NOM(MASC;3,SG)
 ተሞከረ	ተሞክሮ	V.CVB;NOM(MASC;3,SG)
 ተሞከረ	ተሞክሯል	V;PRF;NOM(MASC;3,SG)
@@ -14002,7 +14002,7 @@
 ተሥፋ	ተሥፎችሽ	N;PL;LGSPEC1;PSS(2,SG,FEM)
 ተሥፋ	ተሥፎችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 ተሥፋ	ተሥፎቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
-ተረሳ	መረሳት	V.MSDR
+ተረሳ	መረሳት	V.MSDR;
 ተረሳ	ተረሳ	V;PFV;NOM(MASC;3,SG)
 ተረሳ	ተረስቶ	V.CVB;NOM(MASC;3,SG)
 ተረሳ	ተረስቷል	V;PRF;NOM(MASC;3,SG)
@@ -14014,7 +14014,7 @@
 ተረት	ተረቶቹ	N;DEF;PL
 ተረት	ተረቶች	N;PL
 ተረከበ	ልረከብ	V;IMP;NOM(1,SG)
-ተረከበ	መረከብ	V.MSDR
+ተረከበ	መረከብ	V.MSDR;
 ተረከበ	ተረከበ	V;PFV;NOM(MASC;3,SG)
 ተረከበ	ተረከበች	V;PFV;NOM(FEM;3,SG)
 ተረከበ	ተረከቡ	V;IMP;NOM(2,PL)
@@ -14063,7 +14063,7 @@
 ተረከበ	ይረከብ	V;IMP;NOM(MASC;3,SG)
 ተረከበ	ይረከብ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተረዳ	ልረዳ	V;IMP;NOM(1,SG)
-ተረዳ	መረዳት	V.MSDR
+ተረዳ	መረዳት	V.MSDR;
 ተረዳ	ተረዱ	V;IMP;NOM(2,PL)
 ተረዳ	ተረዱ	V;PFV;NOM(3,PL)
 ተረዳ	ተረዳ	V;IMP;NOM(MASC;2,SG)
@@ -14111,14 +14111,14 @@
 ተረዳ	ይረዳ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተረዳ	ይረዳሉ	V;IPFV;NOM(3,PL)
 ተረዳ	ይረዳል	V;IPFV;NOM(MASC;3,SG)
-ተረገጠ	መረገጥ	V.MSDR
+ተረገጠ	መረገጥ	V.MSDR;
 ተረገጠ	ተረገጠ	V;PFV;NOM(MASC;3,SG)
 ተረገጠ	ተረግጦ	V.CVB;NOM(MASC;3,SG)
 ተረገጠ	ተረግጧል	V;PRF;NOM(MASC;3,SG)
 ተረገጠ	ይረገጣል	V;IPFV;NOM(MASC;3,SG)
 ተረገጠ	ይረገጥ	V;IMP;NOM(MASC;3,SG)
 ተረገጠ	ይረገጥ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተረጋገጠ	መረጋገጥ	V.MSDR
+ተረጋገጠ	መረጋገጥ	V.MSDR;
 ተረጋገጠ	ተረጋገጡ	V;IMP;NOM(2,PL)
 ተረጋገጠ	ተረጋገጡ	V;PFV;NOM(3,PL)
 ተረጋገጠ	ተረጋገጣችሁ	V;PFV;NOM(2,PL)
@@ -14138,7 +14138,7 @@
 ተረጋገጠ	ይረጋገጡ	V;IPFV;NFIN;NOM(3,PL)
 ተረጋገጠ	ይረጋገጣሉ	V;IPFV;NOM(3,PL)
 ተረጨ	ልረጭ	V;IMP;NOM(1,SG)
-ተረጨ	መረጨት	V.MSDR
+ተረጨ	መረጨት	V.MSDR;
 ተረጨ	ተረጨ	V;PFV;NOM(MASC;3,SG)
 ተረጨ	ተረጨሁ	V;PFV;NOM(1,SG)
 ተረጨ	ተረጨህ	V;PFV;NOM(MASC;2,SG)
@@ -14187,7 +14187,7 @@
 ተረጨ	ይረጭ	V;IMP;NOM(MASC;3,SG)
 ተረጨ	ይረጭ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተረፈ	ልትረፍ	V;IMP;NOM(1,SG)
-ተረፈ	መትረፍ	V.MSDR
+ተረፈ	መትረፍ	V.MSDR;
 ተረፈ	ተረፈ	V;PFV;NOM(MASC;3,SG)
 ተረፈ	ተረፈች	V;PFV;NOM(FEM;3,SG)
 ተረፈ	ተረፉ	V;PFV;NOM(3,PL)
@@ -14304,7 +14304,7 @@
 ተራራማ	ተራራማዋ	ADJ;DEF;FEM
 ተራራማ	ተራራማው	ADJ;DEF;MASC
 ተራበ	ልራብ	V;IMP;NOM(1,SG)
-ተራበ	መራብ	V.MSDR
+ተራበ	መራብ	V.MSDR;
 ተራበ	ተራበ	V;PFV;NOM(MASC;3,SG)
 ተራበ	ተራበች	V;PFV;NOM(FEM;3,SG)
 ተራበ	ተራቡ	V;IMP;NOM(2,PL)
@@ -14352,7 +14352,7 @@
 ተራበ	ይራባል	V;IPFV;NOM(MASC;3,SG)
 ተራበ	ይራብ	V;IMP;NOM(MASC;3,SG)
 ተራበ	ይራብ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተራዘመ	መራዘም	V.MSDR
+ተራዘመ	መራዘም	V.MSDR;
 ተራዘመ	ተራዘመ	V;PFV;NOM(MASC;3,SG)
 ተራዘመ	ተራዝሞ	V.CVB;NOM(MASC;3,SG)
 ተራዘመ	ተራዝሟል	V;PRF;NOM(MASC;3,SG)
@@ -14364,7 +14364,7 @@
 ተርጓሚ	ተርጓሚዎቹ	N;DEF;PL
 ተርጓሚ	ተርጓሚዎች	N;PL
 ተሰለፈ	ልሰለፍ	V;IMP;NOM(1,SG)
-ተሰለፈ	መሰለፍ	V.MSDR
+ተሰለፈ	መሰለፍ	V.MSDR;
 ተሰለፈ	ተሰለፈ	V;PFV;NOM(MASC;3,SG)
 ተሰለፈ	ተሰለፈች	V;PFV;NOM(FEM;3,SG)
 ተሰለፈ	ተሰለፉ	V;IMP;NOM(2,PL)
@@ -14413,7 +14413,7 @@
 ተሰለፈ	ይሰለፍ	V;IMP;NOM(MASC;3,SG)
 ተሰለፈ	ይሰለፍ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሰማ	ልሰማ	V;IMP;NOM(1,SG)
-ተሰማ	መሰማት	V.MSDR
+ተሰማ	መሰማት	V.MSDR;
 ተሰማ	ተሰሙ	V;IMP;NOM(2,PL)
 ተሰማ	ተሰሙ	V;PFV;NOM(3,PL)
 ተሰማ	ተሰሚ	V;IMP;NOM(FEM;2,SG)
@@ -14461,7 +14461,7 @@
 ተሰማ	ይሰማ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሰማ	ይሰማሉ	V;IPFV;NOM(3,PL)
 ተሰማ	ይሰማል	V;IPFV;NOM(MASC;3,SG)
-ተሰረዘ	መሰረዝ	V.MSDR
+ተሰረዘ	መሰረዝ	V.MSDR;
 ተሰረዘ	ተሰረዘ	V;PFV;NOM(MASC;3,SG)
 ተሰረዘ	ተሰርዞ	V.CVB;NOM(MASC;3,SG)
 ተሰረዘ	ተሰርዟል	V;PRF;NOM(MASC;3,SG)
@@ -14469,7 +14469,7 @@
 ተሰረዘ	ይሰረዝ	V;IMP;NOM(MASC;3,SG)
 ተሰረዘ	ይሰረዝ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሰራ	ልሠራ	V;IMP;NOM(1,SG)
-ተሰራ	መሠራት	V.MSDR
+ተሰራ	መሠራት	V.MSDR;
 ተሰራ	ተሠሩ	V;IMP;NOM(2,PL)
 ተሰራ	ተሠሩ	V;PFV;NOM(3,PL)
 ተሰራ	ተሠሪ	V;IMP;NOM(FEM;2,SG)
@@ -14517,7 +14517,7 @@
 ተሰራ	ይሠራ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሰራ	ይሠራሉ	V;IPFV;NOM(3,PL)
 ተሰራ	ይሠራል	V;IPFV;NOM(MASC;3,SG)
-ተሰራጨ	መሰራጨት	V.MSDR
+ተሰራጨ	መሰራጨት	V.MSDR;
 ተሰራጨ	ተሰራጨ	V;PFV;NOM(MASC;3,SG)
 ተሰራጨ	ተሰራጭቶ	V.CVB;NOM(MASC;3,SG)
 ተሰራጨ	ተሰራጭቷል	V;PRF;NOM(MASC;3,SG)
@@ -14525,7 +14525,7 @@
 ተሰራጨ	ይሰራጭ	V;IMP;NOM(MASC;3,SG)
 ተሰራጨ	ይሰራጭ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሰቀለ	ልሰቀል	V;IMP;NOM(1,SG)
-ተሰቀለ	መሰቀል	V.MSDR
+ተሰቀለ	መሰቀል	V.MSDR;
 ተሰቀለ	ተሰቀለ	V;PFV;NOM(MASC;3,SG)
 ተሰቀለ	ተሰቀለች	V;PFV;NOM(FEM;3,SG)
 ተሰቀለ	ተሰቀሉ	V;IMP;NOM(2,PL)
@@ -14574,7 +14574,7 @@
 ተሰቀለ	ይሰቀል	V;IMP;NOM(MASC;3,SG)
 ተሰቀለ	ይሰቀል	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሰቃየ	ልሰቃይ	V;IMP;NOM(1,SG)
-ተሰቃየ	መሰቃየት	V.MSDR
+ተሰቃየ	መሰቃየት	V.MSDR;
 ተሰቃየ	ተሰቃየ	V;PFV;NOM(MASC;3,SG)
 ተሰቃየ	ተሰቃየሁ	V;PFV;NOM(1,SG)
 ተሰቃየ	ተሰቃየህ	V;PFV;NOM(MASC;2,SG)
@@ -14622,7 +14622,7 @@
 ተሰቃየ	ይሰቃያል	V;IPFV;NOM(MASC;3,SG)
 ተሰቃየ	ይሰቃይ	V;IMP;NOM(MASC;3,SG)
 ተሰቃየ	ይሰቃይ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተሰበረ	መሰበር	V.MSDR
+ተሰበረ	መሰበር	V.MSDR;
 ተሰበረ	ተሰበረ	V;PFV;NOM(MASC;3,SG)
 ተሰበረ	ተሰብሮ	V.CVB;NOM(MASC;3,SG)
 ተሰበረ	ተሰብሯል	V;PRF;NOM(MASC;3,SG)
@@ -14630,7 +14630,7 @@
 ተሰበረ	ይሰበር	V;IMP;NOM(MASC;3,SG)
 ተሰበረ	ይሰበር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሰበሰበ	ልሰብሰብ	V;IMP;NOM(1,SG)
-ተሰበሰበ	መሰብሰብ	V.MSDR
+ተሰበሰበ	መሰብሰብ	V.MSDR;
 ተሰበሰበ	ተሰበሰበ	V;PFV;NOM(MASC;3,SG)
 ተሰበሰበ	ተሰበሰበች	V;PFV;NOM(FEM;3,SG)
 ተሰበሰበ	ተሰበሰቡ	V;PFV;NOM(3,PL)
@@ -14678,7 +14678,7 @@
 ተሰበሰበ	ይሰበሰብ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሰበሰበ	ይሰብሰቡ	V;IMP;NOM(3,PL)
 ተሰበሰበ	ይሰብሰብ	V;IMP;NOM(MASC;3,SG)
-ተሰባሰበ	መሰባሰብ	V.MSDR
+ተሰባሰበ	መሰባሰብ	V.MSDR;
 ተሰባሰበ	ተሰባሰበ	V;PFV;NOM(MASC;3,SG)
 ተሰባሰበ	ተሰባስቦ	V.CVB;NOM(MASC;3,SG)
 ተሰባሰበ	ተሰባስቧል	V;PRF;NOM(MASC;3,SG)
@@ -14690,7 +14690,7 @@
 ተሰብሳቢ	ተሰብሳቢዎቹ	N;DEF;PL
 ተሰብሳቢ	ተሰብሳቢዎች	N;PL
 ተሰነባበተ	ልሰነባበት	V;IMP;NOM(1,SG)
-ተሰነባበተ	መሰነባበት	V.MSDR
+ተሰነባበተ	መሰነባበት	V.MSDR;
 ተሰነባበተ	ተሰነባበተ	V;PFV;NOM(MASC;3,SG)
 ተሰነባበተ	ተሰነባበተች	V;PFV;NOM(FEM;3,SG)
 ተሰነባበተ	ተሰነባበቱ	V;IMP;NOM(2,PL)
@@ -14738,7 +14738,7 @@
 ተሰነባበተ	ይሰነባበታል	V;IPFV;NOM(MASC;3,SG)
 ተሰነባበተ	ይሰነባበት	V;IMP;NOM(MASC;3,SG)
 ተሰነባበተ	ይሰነባበት	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተሰነዘረ	መሰንዘር	V.MSDR
+ተሰነዘረ	መሰንዘር	V.MSDR;
 ተሰነዘረ	ተሰነዘረ	V;PFV;NOM(MASC;3,SG)
 ተሰነዘረ	ተሰንዝሮ	V.CVB;NOM(MASC;3,SG)
 ተሰነዘረ	ተሰንዝሯል	V;PRF;NOM(MASC;3,SG)
@@ -14746,7 +14746,7 @@
 ተሰነዘረ	ይሰነዘር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሰነዘረ	ይሰንዘር	V;IMP;NOM(MASC;3,SG)
 ተሰናከለ	ልሰናከል	V;IMP;NOM(1,SG)
-ተሰናከለ	መሰናከል	V.MSDR
+ተሰናከለ	መሰናከል	V.MSDR;
 ተሰናከለ	ተሰናከለ	V;PFV;NOM(MASC;3,SG)
 ተሰናከለ	ተሰናከለች	V;PFV;NOM(FEM;3,SG)
 ተሰናከለ	ተሰናከሉ	V;IMP;NOM(2,PL)
@@ -14795,7 +14795,7 @@
 ተሰናከለ	ይሰናከል	V;IMP;NOM(MASC;3,SG)
 ተሰናከለ	ይሰናከል	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሰዋ	ልሰዋ	V;IMP;NOM(1,SG)
-ተሰዋ	መሰዋት	V.MSDR
+ተሰዋ	መሰዋት	V.MSDR;
 ተሰዋ	ተሰዉ	V;IMP;NOM(2,PL)
 ተሰዋ	ተሰዉ	V;PFV;NOM(3,PL)
 ተሰዋ	ተሰዊ	V;IMP;NOM(FEM;2,SG)
@@ -14844,7 +14844,7 @@
 ተሰዋ	ይሰዋሉ	V;IPFV;NOM(3,PL)
 ተሰዋ	ይሰዋል	V;IPFV;NOM(MASC;3,SG)
 ተሰየመ	ልሰየም	V;IMP;NOM(1,SG)
-ተሰየመ	መሰየም	V.MSDR
+ተሰየመ	መሰየም	V.MSDR;
 ተሰየመ	ተሰየመ	V;PFV;NOM(MASC;3,SG)
 ተሰየመ	ተሰየመች	V;PFV;NOM(FEM;3,SG)
 ተሰየመ	ተሰየሙ	V;IMP;NOM(2,PL)
@@ -14893,7 +14893,7 @@
 ተሰየመ	ይሰየም	V;IMP;NOM(MASC;3,SG)
 ተሰየመ	ይሰየም	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሰደደ	ልሰደድ	V;IMP;NOM(1,SG)
-ተሰደደ	መሰደድ	V.MSDR
+ተሰደደ	መሰደድ	V.MSDR;
 ተሰደደ	ተሰደሀል	V;PRF;NOM(MASC;2,SG)
 ተሰደደ	ተሰደህ	V.CVB;NOM(MASC;2,SG)
 ተሰደደ	ተሰደሻል	V;PRF;NOM(FEM;2,SG)
@@ -14942,7 +14942,7 @@
 ተሰደደ	ይሰደድ	V;IMP;NOM(MASC;3,SG)
 ተሰደደ	ይሰደድ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሰጠ	ልሰጥ	V;IMP;NOM(1,SG)
-ተሰጠ	መሰጠት	V.MSDR
+ተሰጠ	መሰጠት	V.MSDR;
 ተሰጠ	ተሰጠ	V;PFV;NOM(MASC;3,SG)
 ተሰጠ	ተሰጠሁ	V;PFV;NOM(1,SG)
 ተሰጠ	ተሰጠህ	V;PFV;NOM(MASC;2,SG)
@@ -14991,7 +14991,7 @@
 ተሰጠ	ይሰጥ	V;IMP;NOM(MASC;3,SG)
 ተሰጠ	ይሰጥ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሳሳተ	ልሳሳት	V;IMP;NOM(1,SG)
-ተሳሳተ	መሳሳት	V.MSDR
+ተሳሳተ	መሳሳት	V.MSDR;
 ተሳሳተ	ተሳሳተ	V;PFV;NOM(MASC;3,SG)
 ተሳሳተ	ተሳሳተች	V;PFV;NOM(FEM;3,SG)
 ተሳሳተ	ተሳሳቱ	V;IMP;NOM(2,PL)
@@ -15040,7 +15040,7 @@
 ተሳሳተ	ይሳሳት	V;IMP;NOM(MASC;3,SG)
 ተሳሳተ	ይሳሳት	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሳተፈ	ልሳተፍ	V;IMP;NOM(1,SG)
-ተሳተፈ	መሳተፍ	V.MSDR
+ተሳተፈ	መሳተፍ	V.MSDR;
 ተሳተፈ	ተሳተፈ	V;PFV;NOM(MASC;3,SG)
 ተሳተፈ	ተሳተፈች	V;PFV;NOM(FEM;3,SG)
 ተሳተፈ	ተሳተፉ	V;IMP;NOM(2,PL)
@@ -15114,7 +15114,7 @@
 ተሳታፊ	ተሳታፍያችሁ	N;LGSPEC1;PSS(2,PL)
 ተሳታፊ	ተሳታፍያችን	N;LGSPEC1;PSS(1,PL)
 ተሳነ	ልሳን	V;IMP;NOM(1,SG)
-ተሳነ	መሳን	V.MSDR
+ተሳነ	መሳን	V.MSDR;
 ተሳነ	ተሳነ	V;PFV;NOM(MASC;3,SG)
 ተሳነ	ተሳነች	V;PFV;NOM(FEM;3,SG)
 ተሳነ	ተሳኑ	V;IMP;NOM(2,PL)
@@ -15162,14 +15162,14 @@
 ተሳነ	ይሳናል	V;IPFV;NOM(MASC;3,SG)
 ተሳነ	ይሳን	V;IMP;NOM(MASC;3,SG)
 ተሳነ	ይሳን	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተሳካ	መሳካት	V.MSDR
+ተሳካ	መሳካት	V.MSDR;
 ተሳካ	ተሳካ	V;PFV;NOM(MASC;3,SG)
 ተሳካ	ተሳክቶ	V.CVB;NOM(MASC;3,SG)
 ተሳካ	ተሳክቷል	V;PRF;NOM(MASC;3,SG)
 ተሳካ	ይሳካ	V;IMP;NOM(MASC;3,SG)
 ተሳካ	ይሳካ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሳካ	ይሳካል	V;IPFV;NOM(MASC;3,SG)
-ተስማማ	መስማማት	V.MSDR
+ተስማማ	መስማማት	V.MSDR;
 ተስማማ	ተስማሙ	V;IMP;NOM(2,PL)
 ተስማማ	ተስማሙ	V;PFV;NOM(3,PL)
 ተስማማ	ተስማማችሁ	V;PFV;NOM(2,PL)
@@ -15188,7 +15188,7 @@
 ተስማማ	ይስማሙ	V;IMP;NOM(3,PL)
 ተስማማ	ይስማሙ	V;IPFV;NFIN;NOM(3,PL)
 ተስማማ	ይስማማሉ	V;IPFV;NOM(3,PL)
-ተስተካከለ	መተካከል	V.MSDR
+ተስተካከለ	መተካከል	V.MSDR;
 ተስተካከለ	ተስተካከለ	V;PFV;NOM(MASC;3,SG)
 ተስተካከለ	ተስተካክሎ	V.CVB;NOM(MASC;3,SG)
 ተስተካከለ	ተስተካክሏል	V;PRF;NOM(MASC;3,SG)
@@ -15227,7 +15227,7 @@
 ተስፋ	ተስፎችሽ	N;PL;LGSPEC1;PSS(2,SG,FEM)
 ተስፋ	ተስፎችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 ተስፋ	ተስፎቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
-ተስፋፋ	መስፋፋት	V.MSDR
+ተስፋፋ	መስፋፋት	V.MSDR;
 ተስፋፋ	ተስፋፋ	V;PFV;NOM(MASC;3,SG)
 ተስፋፋ	ተስፋፍቶ	V.CVB;NOM(MASC;3,SG)
 ተስፋፋ	ተስፋፍቷል	V;PRF;NOM(MASC;3,SG)
@@ -15235,7 +15235,7 @@
 ተስፋፋ	ይስፋፋ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተስፋፋ	ይስፋፋል	V;IPFV;NOM(MASC;3,SG)
 ተሸለመ	ልሸለም	V;IMP;NOM(1,SG)
-ተሸለመ	መሸለም	V.MSDR
+ተሸለመ	መሸለም	V.MSDR;
 ተሸለመ	ተሸለመ	V;PFV;NOM(MASC;3,SG)
 ተሸለመ	ተሸለመች	V;PFV;NOM(FEM;3,SG)
 ተሸለመ	ተሸለሙ	V;IMP;NOM(2,PL)
@@ -15284,7 +15284,7 @@
 ተሸለመ	ይሸለም	V;IMP;NOM(MASC;3,SG)
 ተሸለመ	ይሸለም	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሸነፈ	ልሸነፍ	V;IMP;NOM(1,SG)
-ተሸነፈ	መሸነፍ	V.MSDR
+ተሸነፈ	መሸነፍ	V.MSDR;
 ተሸነፈ	ተሸነፈ	V;PFV;NOM(MASC;3,SG)
 ተሸነፈ	ተሸነፈች	V;PFV;NOM(FEM;3,SG)
 ተሸነፈ	ተሸነፉ	V;IMP;NOM(2,PL)
@@ -15336,7 +15336,7 @@
 ተሸናፊ	ተሸናፊው	N;DEF;MASC
 ተሸናፊ	ተሸናፊዎቹ	N;DEF;PL
 ተሸናፊ	ተሸናፊዎች	N;PL
-ተሸኘ	መሸኘት	V.MSDR
+ተሸኘ	መሸኘት	V.MSDR;
 ተሸኘ	ተሸኘ	V;PFV;NOM(MASC;3,SG)
 ተሸኘ	ተሸኝቶ	V.CVB;NOM(MASC;3,SG)
 ተሸኘ	ተሸኝቷል	V;PRF;NOM(MASC;3,SG)
@@ -15344,7 +15344,7 @@
 ተሸኘ	ይሸኝ	V;IMP;NOM(MASC;3,SG)
 ተሸኘ	ይሸኝ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሸከመ	ልሸከም	V;IMP;NOM(1,SG)
-ተሸከመ	መሸከም	V.MSDR
+ተሸከመ	መሸከም	V.MSDR;
 ተሸከመ	ተሸከመ	V;PFV;NOM(MASC;3,SG)
 ተሸከመ	ተሸከመች	V;PFV;NOM(FEM;3,SG)
 ተሸከመ	ተሸከሙ	V;IMP;NOM(2,PL)
@@ -15392,14 +15392,14 @@
 ተሸከመ	ይሸከማል	V;IPFV;NOM(MASC;3,SG)
 ተሸከመ	ይሸከም	V;IMP;NOM(MASC;3,SG)
 ተሸከመ	ይሸከም	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተሸጠ	መሸጥ	V.MSDR
+ተሸጠ	መሸጥ	V.MSDR;
 ተሸጠ	ተሸጠ	V;PFV;NOM(MASC;3,SG)
 ተሸጠ	ተሽጦ	V.CVB;NOM(MASC;3,SG)
 ተሸጠ	ተሽጧል	V;PRF;NOM(MASC;3,SG)
 ተሸጠ	ይሸጣል	V;IPFV;NOM(MASC;3,SG)
 ተሸጠ	ይሸጥ	V;IMP;NOM(MASC;3,SG)
 ተሸጠ	ይሸጥ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተሸፈነ	መሸፈን	V.MSDR
+ተሸፈነ	መሸፈን	V.MSDR;
 ተሸፈነ	ተሸፈነ	V;PFV;NOM(MASC;3,SG)
 ተሸፈነ	ተሸፍኖ	V.CVB;NOM(MASC;3,SG)
 ተሸፈነ	ተሸፍኗል	V;PRF;NOM(MASC;3,SG)
@@ -15407,8 +15407,8 @@
 ተሸፈነ	ይሸፈን	V;IMP;NOM(MASC;3,SG)
 ተሸፈነ	ይሸፈን	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሻለ	ልሻል	V;IMP;NOM(1,SG)
-ተሻለ	መሻል	V.MSDR
-ተሻለ	መሻል	V.MSDR
+ተሻለ	መሻል	V.MSDR;
+ተሻለ	መሻል	V.MSDR;
 ተሻለ	ተሻለ	V;PFV;NOM(MASC;3,SG)
 ተሻለ	ተሻለ	V;PFV;NOM(MASC;3,SG)
 ተሻለ	ተሻለች	V;PFV;NOM(FEM;3,SG)
@@ -15463,7 +15463,7 @@
 ተሻለ	ይሻል	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሻለ	ይሻል	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሻረ	ልሻር	V;IMP;NOM(1,SG)
-ተሻረ	መሻር	V.MSDR
+ተሻረ	መሻር	V.MSDR;
 ተሻረ	ተሻረ	V;PFV;NOM(MASC;3,SG)
 ተሻረ	ተሻረች	V;PFV;NOM(FEM;3,SG)
 ተሻረ	ተሻሩ	V;IMP;NOM(2,PL)
@@ -15513,8 +15513,8 @@
 ተሻረ	ይሻር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሻገረ	ልሻገር	V;IMP;NOM(1,SG)
 ተሻገረ	ልሻገር	V;IMP;NOM(1,SG)
-ተሻገረ	መሻገር	V.MSDR
-ተሻገረ	መሻገር	V.MSDR
+ተሻገረ	መሻገር	V.MSDR;
+ተሻገረ	መሻገር	V.MSDR;
 ተሻገረ	ተሻገረ	V;PFV;NOM(MASC;3,SG)
 ተሻገረ	ተሻገረ	V;PFV;NOM(MASC;3,SG)
 ተሻገረ	ተሻገረች	V;PFV;NOM(FEM;3,SG)
@@ -15610,7 +15610,7 @@
 ተሻገረ	ይሻገር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሻገረ	ይሻገር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተሾመ	ልሾም	V;IMP;NOM(1,SG)
-ተሾመ	መሾም	V.MSDR
+ተሾመ	መሾም	V.MSDR;
 ተሾመ	ተሾመ	V;PFV;NOM(MASC;3,SG)
 ተሾመ	ተሾመሀል	V;PRF;NOM(MASC;2,SG)
 ተሾመ	ተሾመህ	V.CVB;NOM(MASC;2,SG)
@@ -15663,7 +15663,7 @@
 ተሿሚ	ተሿሚዎቹ	N;DEF;PL
 ተሿሚ	ተሿሚዎች	N;PL
 ተቀላቀለ	ልቀላቀል	V;IMP;NOM(1,SG)
-ተቀላቀለ	መቀላቀል	V.MSDR
+ተቀላቀለ	መቀላቀል	V.MSDR;
 ተቀላቀለ	ተቀላቀለ	V;PFV;NOM(MASC;3,SG)
 ተቀላቀለ	ተቀላቀለች	V;PFV;NOM(FEM;3,SG)
 ተቀላቀለ	ተቀላቀሉ	V;IMP;NOM(2,PL)
@@ -15712,7 +15712,7 @@
 ተቀላቀለ	ይቀላቀል	V;IMP;NOM(MASC;3,SG)
 ተቀላቀለ	ይቀላቀል	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተቀመጠ	ልቀመጥ	V;IMP;NOM(1,SG)
-ተቀመጠ	መቀመጥ	V.MSDR
+ተቀመጠ	መቀመጥ	V.MSDR;
 ተቀመጠ	ተቀመጠ	V;PFV;NOM(MASC;3,SG)
 ተቀመጠ	ተቀመጠች	V;PFV;NOM(FEM;3,SG)
 ተቀመጠ	ተቀመጡ	V;IMP;NOM(2,PL)
@@ -15764,14 +15764,14 @@
 ተቀማጭ	ተቀማጭ	N
 ተቀማጭ	ተቀማጮቹ	N;DEF;PL
 ተቀማጭ	ተቀማጮች	N;PL
-ተቀረ	መቀረት	V.MSDR
+ተቀረ	መቀረት	V.MSDR;
 ተቀረ	ተቀረ	V;PFV;NOM(MASC;3,SG)
 ተቀረ	ተቀርቶ	V.CVB;NOM(MASC;3,SG)
 ተቀረ	ተቀርቷል	V;PRF;NOM(MASC;3,SG)
 ተቀረ	ይቀራል	V;IPFV;NOM(MASC;3,SG)
 ተቀረ	ይቀር	V;IMP;NOM(MASC;3,SG)
 ተቀረ	ይቀር	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተቀሰቀሰ	መቀስቀስ	V.MSDR
+ተቀሰቀሰ	መቀስቀስ	V.MSDR;
 ተቀሰቀሰ	ተቀሰቀሰ	V;PFV;NOM(MASC;3,SG)
 ተቀሰቀሰ	ተቀስቅሶ	V.CVB;NOM(MASC;3,SG)
 ተቀሰቀሰ	ተቀስቅሷል	V;PRF;NOM(MASC;3,SG)
@@ -15779,7 +15779,7 @@
 ተቀሰቀሰ	ይቀሰቀስ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተቀሰቀሰ	ይቀስቀስ	V;IMP;NOM(MASC;3,SG)
 ተቀበለ	ልቀበል	V;IMP;NOM(1,SG)
-ተቀበለ	መቀበል	V.MSDR
+ተቀበለ	መቀበል	V.MSDR;
 ተቀበለ	ተቀበለ	V;PFV;NOM(MASC;3,SG)
 ተቀበለ	ተቀበለች	V;PFV;NOM(FEM;3,SG)
 ተቀበለ	ተቀበሉ	V;IMP;NOM(2,PL)
@@ -15828,7 +15828,7 @@
 ተቀበለ	ይቀበል	V;IMP;NOM(MASC;3,SG)
 ተቀበለ	ይቀበል	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተቀበረ	ልቀበር	V;IMP;NOM(1,SG)
-ተቀበረ	መቀበር	V.MSDR
+ተቀበረ	መቀበር	V.MSDR;
 ተቀበረ	ተቀበረ	V;PFV;NOM(MASC;3,SG)
 ተቀበረ	ተቀበረች	V;PFV;NOM(FEM;3,SG)
 ተቀበረ	ተቀበሩ	V;IMP;NOM(2,PL)
@@ -15880,7 +15880,7 @@
 ተቀባይ	ተቀባይ	N
 ተቀባይ	ተቀባዮቹ	N;DEF;PL
 ተቀባይ	ተቀባዮች	N;PL
-ተቀነሰ	መቀነስ	V.MSDR
+ተቀነሰ	መቀነስ	V.MSDR;
 ተቀነሰ	ተቀነሰ	V;PFV;NOM(MASC;3,SG)
 ተቀነሰ	ተቀንሶ	V.CVB;NOM(MASC;3,SG)
 ተቀነሰ	ተቀንሷል	V;PRF;NOM(MASC;3,SG)
@@ -15909,7 +15909,7 @@
 ተቀናቃኝ	ተቀናቃኞችዎ	N;PL;PSS(2,SG,FORM)
 ተቀናቃኝ	ተቀናቃኞቿ	N;PL;PSS(3,SG,FEM)
 ተቀናቃኝ	ተቀናቃኟ	N;PSS(3,SG,FEM)
-ተቀየረ	መቀየር	V.MSDR
+ተቀየረ	መቀየር	V.MSDR;
 ተቀየረ	ተቀየረ	V;PFV;NOM(MASC;3,SG)
 ተቀየረ	ተቀይሮ	V.CVB;NOM(MASC;3,SG)
 ተቀየረ	ተቀይሯል	V;PRF;NOM(MASC;3,SG)
@@ -15917,7 +15917,7 @@
 ተቀየረ	ይቀየር	V;IMP;NOM(MASC;3,SG)
 ተቀየረ	ይቀየር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተቀደሰ	ልቀደስ	V;IMP;NOM(1,SG)
-ተቀደሰ	መቀደስ	V.MSDR
+ተቀደሰ	መቀደስ	V.MSDR;
 ተቀደሰ	ተቀደሰ	V;PFV;NOM(MASC;3,SG)
 ተቀደሰ	ተቀደሰች	V;PFV;NOM(FEM;3,SG)
 ተቀደሰ	ተቀደሱ	V;IMP;NOM(2,PL)
@@ -15968,7 +15968,7 @@
 ተቀዳሚ	ተቀዳሚ	ADJ
 ተቀዳሚ	ተቀዳሚዋ	ADJ;DEF;FEM
 ተቀዳሚ	ተቀዳሚው	ADJ;DEF;MASC
-ተቀጠረ	መቀጠር	V.MSDR
+ተቀጠረ	መቀጠር	V.MSDR;
 ተቀጠረ	ተቀጠረ	V;PFV;NOM(MASC;3,SG)
 ተቀጠረ	ተቀጥሮ	V.CVB;NOM(MASC;3,SG)
 ተቀጠረ	ተቀጥሯል	V;PRF;NOM(MASC;3,SG)
@@ -15976,7 +15976,7 @@
 ተቀጠረ	ይቀጠር	V;IMP;NOM(MASC;3,SG)
 ተቀጠረ	ይቀጠር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተቀጣ	ልቀጣ	V;IMP;NOM(1,SG)
-ተቀጣ	መቀጣት	V.MSDR
+ተቀጣ	መቀጣት	V.MSDR;
 ተቀጣ	ተቀጡ	V;IMP;NOM(2,PL)
 ተቀጣ	ተቀጡ	V;PFV;NOM(3,PL)
 ተቀጣ	ተቀጣ	V;IMP;NOM(MASC;2,SG)
@@ -16034,7 +16034,7 @@
 ተቃራኒ	ተቃራኒዎቹ	N;DEF;PL
 ተቃራኒ	ተቃራኒዎች	N;PL
 ተቃወመ	ልቃወም	V;IMP;NOM(1,SG)
-ተቃወመ	መቃወም	V.MSDR
+ተቃወመ	መቃወም	V.MSDR;
 ተቃወመ	ተቃወመ	V;PFV;NOM(MASC;3,SG)
 ተቃወመ	ተቃወመች	V;PFV;NOM(FEM;3,SG)
 ተቃወመ	ተቃወሙ	V;IMP;NOM(2,PL)
@@ -16133,7 +16133,7 @@
 ተቃውሞ	ተቃውሞዎቿ	N;PL;PSS(3,SG,FEM)
 ተቃውሞ	ተቃውሞዬ	N;PSS(1,SG)
 ተቃጠለ	ልቃጠል	V;IMP;NOM(1,SG)
-ተቃጠለ	መቃጠል	V.MSDR
+ተቃጠለ	መቃጠል	V.MSDR;
 ተቃጠለ	ተቃጠለ	V;PFV;NOM(MASC;3,SG)
 ተቃጠለ	ተቃጠለች	V;PFV;NOM(FEM;3,SG)
 ተቃጠለ	ተቃጠሉ	V;IMP;NOM(2,PL)
@@ -16182,7 +16182,7 @@
 ተቃጠለ	ይቃጠል	V;IMP;NOM(MASC;3,SG)
 ተቃጠለ	ይቃጠል	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተቆመ	ልቆም	V;IMP;NOM(1,SG)
-ተቆመ	መቆም	V.MSDR
+ተቆመ	መቆም	V.MSDR;
 ተቆመ	ተቆመ	V;PFV;NOM(MASC;3,SG)
 ተቆመ	ተቆመሀል	V;PRF;NOM(MASC;2,SG)
 ተቆመ	ተቆመህ	V.CVB;NOM(MASC;2,SG)
@@ -16230,14 +16230,14 @@
 ተቆመ	ይቆማል	V;IPFV;NOM(MASC;3,SG)
 ተቆመ	ይቆም	V;IMP;NOM(MASC;3,SG)
 ተቆመ	ይቆም	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተቆረጠ	መቆረጥ	V.MSDR
+ተቆረጠ	መቆረጥ	V.MSDR;
 ተቆረጠ	ተቆረጠ	V;PFV;NOM(MASC;3,SG)
 ተቆረጠ	ተቆርጦ	V.CVB;NOM(MASC;3,SG)
 ተቆረጠ	ተቆርጧል	V;PRF;NOM(MASC;3,SG)
 ተቆረጠ	ይቆረጣል	V;IPFV;NOM(MASC;3,SG)
 ተቆረጠ	ይቆረጥ	V;IMP;NOM(MASC;3,SG)
 ተቆረጠ	ይቆረጥ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተቆጠረ	መቆጠር	V.MSDR
+ተቆጠረ	መቆጠር	V.MSDR;
 ተቆጠረ	ተቆጠረ	V;PFV;NOM(MASC;3,SG)
 ተቆጠረ	ተቆጥሮ	V.CVB;NOM(MASC;3,SG)
 ተቆጠረ	ተቆጥሯል	V;PRF;NOM(MASC;3,SG)
@@ -16245,7 +16245,7 @@
 ተቆጠረ	ይቆጠር	V;IMP;NOM(MASC;3,SG)
 ተቆጠረ	ይቆጠር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተቆጠበ	ልቆጠብ	V;IMP;NOM(1,SG)
-ተቆጠበ	መቆጠብ	V.MSDR
+ተቆጠበ	መቆጠብ	V.MSDR;
 ተቆጠበ	ተቆጠበ	V;PFV;NOM(MASC;3,SG)
 ተቆጠበ	ተቆጠበች	V;PFV;NOM(FEM;3,SG)
 ተቆጠበ	ተቆጠቡ	V;IMP;NOM(2,PL)
@@ -16293,7 +16293,7 @@
 ተቆጠበ	ይቆጠባል	V;IPFV;NOM(MASC;3,SG)
 ተቆጠበ	ይቆጠብ	V;IMP;NOM(MASC;3,SG)
 ተቆጠበ	ይቆጠብ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተቆጣ	መቆጣት	V.MSDR
+ተቆጣ	መቆጣት	V.MSDR;
 ተቆጣ	ተቆጣ	V;PFV;NOM(MASC;3,SG)
 ተቆጣ	ተቆጥቶ	V.CVB;NOM(MASC;3,SG)
 ተቆጣ	ተቆጥቷል	V;PRF;NOM(MASC;3,SG)
@@ -16301,7 +16301,7 @@
 ተቆጣ	ይቆጣ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተቆጣ	ይቆጣል	V;IPFV;NOM(MASC;3,SG)
 ተቆጣጠረ	ልቆጣጠር	V;IMP;NOM(1,SG)
-ተቆጣጠረ	መቆጣጠር	V.MSDR
+ተቆጣጠረ	መቆጣጠር	V.MSDR;
 ተቆጣጠረ	ተቆጣጠረ	V;PFV;NOM(MASC;3,SG)
 ተቆጣጠረ	ተቆጣጠረች	V;PFV;NOM(FEM;3,SG)
 ተቆጣጠረ	ተቆጣጠሩ	V;IMP;NOM(2,PL)
@@ -16349,14 +16349,14 @@
 ተቆጣጠረ	ይቆጣጠራል	V;IPFV;NOM(MASC;3,SG)
 ተቆጣጠረ	ይቆጣጠር	V;IMP;NOM(MASC;3,SG)
 ተቆጣጠረ	ይቆጣጠር	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተቋረጠ	መቋረጥ	V.MSDR
+ተቋረጠ	መቋረጥ	V.MSDR;
 ተቋረጠ	ተቋረጠ	V;PFV;NOM(MASC;3,SG)
 ተቋረጠ	ተቋርጦ	V.CVB;NOM(MASC;3,SG)
 ተቋረጠ	ተቋርጧል	V;PRF;NOM(MASC;3,SG)
 ተቋረጠ	ይቋረጣል	V;IPFV;NOM(MASC;3,SG)
 ተቋረጠ	ይቋረጥ	V;IMP;NOM(MASC;3,SG)
 ተቋረጠ	ይቋረጥ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተቋቋመ	መቋቋም	V.MSDR
+ተቋቋመ	መቋቋም	V.MSDR;
 ተቋቋመ	ተቋቁሞ	V.CVB;NOM(MASC;3,SG)
 ተቋቋመ	ተቋቁሟል	V;PRF;NOM(MASC;3,SG)
 ተቋቋመ	ተቋቋመ	V;PFV;NOM(MASC;3,SG)
@@ -16364,7 +16364,7 @@
 ተቋቋመ	ይቋቋም	V;IMP;NOM(MASC;3,SG)
 ተቋቋመ	ይቋቋም	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተቋጨ	ልቋጭ	V;IMP;NOM(1,SG)
-ተቋጨ	መቋጨት	V.MSDR
+ተቋጨ	መቋጨት	V.MSDR;
 ተቋጨ	ተቋጨ	V;PFV;NOM(MASC;3,SG)
 ተቋጨ	ተቋጨሁ	V;PFV;NOM(1,SG)
 ተቋጨ	ተቋጨህ	V;PFV;NOM(MASC;2,SG)
@@ -16413,7 +16413,7 @@
 ተቋጨ	ይቋጭ	V;IMP;NOM(MASC;3,SG)
 ተቋጨ	ይቋጭ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተበላ	ልበላ	V;IMP;NOM(1,SG)
-ተበላ	መበላት	V.MSDR
+ተበላ	መበላት	V.MSDR;
 ተበላ	ተበሉ	V;IMP;NOM(2,PL)
 ተበላ	ተበሉ	V;PFV;NOM(3,PL)
 ተበላ	ተበላ	V;IMP;NOM(MASC;2,SG)
@@ -16461,7 +16461,7 @@
 ተበላ	ይበላ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተበላ	ይበላሉ	V;IPFV;NOM(3,PL)
 ተበላ	ይበላል	V;IPFV;NOM(MASC;3,SG)
-ተበላሸ	መበላሸት	V.MSDR
+ተበላሸ	መበላሸት	V.MSDR;
 ተበላሸ	ተበላሸ	V;PFV;NOM(MASC;3,SG)
 ተበላሸ	ተበላሽቶ	V.CVB;NOM(MASC;3,SG)
 ተበላሸ	ተበላሽቷል	V;PRF;NOM(MASC;3,SG)
@@ -16469,7 +16469,7 @@
 ተበላሸ	ይበላሽ	V;IMP;NOM(MASC;3,SG)
 ተበላሸ	ይበላሽ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተበሳጨ	ልበሳጭ	V;IMP;NOM(1,SG)
-ተበሳጨ	መበሳጨት	V.MSDR
+ተበሳጨ	መበሳጨት	V.MSDR;
 ተበሳጨ	ተበሳጨ	V;PFV;NOM(MASC;3,SG)
 ተበሳጨ	ተበሳጨሁ	V;PFV;NOM(1,SG)
 ተበሳጨ	ተበሳጨህ	V;PFV;NOM(MASC;2,SG)
@@ -16518,7 +16518,7 @@
 ተበሳጨ	ይበሳጭ	V;IMP;NOM(MASC;3,SG)
 ተበሳጨ	ይበሳጭ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተበተነ	ልበተን	V;IMP;NOM(1,SG)
-ተበተነ	መበተን	V.MSDR
+ተበተነ	መበተን	V.MSDR;
 ተበተነ	ተበተነ	V;PFV;NOM(MASC;3,SG)
 ተበተነ	ተበተነች	V;PFV;NOM(FEM;3,SG)
 ተበተነ	ተበተኑ	V;IMP;NOM(2,PL)
@@ -16566,7 +16566,7 @@
 ተበተነ	ይበተናል	V;IPFV;NOM(MASC;3,SG)
 ተበተነ	ይበተን	V;IMP;NOM(MASC;3,SG)
 ተበተነ	ይበተን	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተበታተነ	መበታተን	V.MSDR
+ተበታተነ	መበታተን	V.MSDR;
 ተበታተነ	ተበታተኑ	V;IMP;NOM(2,PL)
 ተበታተነ	ተበታተኑ	V;PFV;NOM(3,PL)
 ተበታተነ	ተበታተናችሁ	V;PFV;NOM(2,PL)
@@ -16586,7 +16586,7 @@
 ተበታተነ	ይበታተኑ	V;IPFV;NFIN;NOM(3,PL)
 ተበታተነ	ይበታተናሉ	V;IPFV;NOM(3,PL)
 ተበከለ	ልበከል	V;IMP;NOM(1,SG)
-ተበከለ	መበከል	V.MSDR
+ተበከለ	መበከል	V.MSDR;
 ተበከለ	ተበከለ	V;PFV;NOM(MASC;3,SG)
 ተበከለ	ተበከለች	V;PFV;NOM(FEM;3,SG)
 ተበከለ	ተበከሉ	V;IMP;NOM(2,PL)
@@ -16635,7 +16635,7 @@
 ተበከለ	ይበከል	V;IMP;NOM(MASC;3,SG)
 ተበከለ	ይበከል	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተበደለ	ልበደል	V;IMP;NOM(1,SG)
-ተበደለ	መበደል	V.MSDR
+ተበደለ	መበደል	V.MSDR;
 ተበደለ	ተበደለ	V;PFV;NOM(MASC;3,SG)
 ተበደለ	ተበደለች	V;PFV;NOM(FEM;3,SG)
 ተበደለ	ተበደሉ	V;IMP;NOM(2,PL)
@@ -16688,7 +16688,7 @@
 ተበዳሪ	ተበዳሪዎቹ	N;DEF;PL
 ተበዳሪ	ተበዳሪዎች	N;PL
 ተባለ	ልባል	V;IMP;NOM(1,SG)
-ተባለ	መባል	V.MSDR
+ተባለ	መባል	V.MSDR;
 ተባለ	ተባለ	V;PFV;NOM(MASC;3,SG)
 ተባለ	ተባለች	V;PFV;NOM(FEM;3,SG)
 ተባለ	ተባሉ	V;IMP;NOM(2,PL)
@@ -16737,7 +16737,7 @@
 ተባለ	ይባል	V;IMP;NOM(MASC;3,SG)
 ተባለ	ይባል	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተባረረ	ልባረር	V;IMP;NOM(1,SG)
-ተባረረ	መባረር	V.MSDR
+ተባረረ	መባረር	V.MSDR;
 ተባረረ	ተባረሀል	V;PRF;NOM(MASC;2,SG)
 ተባረረ	ተባረህ	V.CVB;NOM(MASC;2,SG)
 ተባረረ	ተባረረ	V;PFV;NOM(MASC;3,SG)
@@ -16786,7 +16786,7 @@
 ተባረረ	ይባረር	V;IMP;NOM(MASC;3,SG)
 ተባረረ	ይባረር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተባረከ	ልባረክ	V;IMP;NOM(1,SG)
-ተባረከ	መባረክ	V.MSDR
+ተባረከ	መባረክ	V.MSDR;
 ተባረከ	ተባረከ	V;PFV;NOM(MASC;3,SG)
 ተባረከ	ተባረከች	V;PFV;NOM(FEM;3,SG)
 ተባረከ	ተባረኩ	V;IMP;NOM(2,PL)
@@ -16838,7 +16838,7 @@
 ተባራሪ	ተባራሪው	N;DEF;MASC
 ተባራሪ	ተባራሪዎቹ	N;DEF;PL
 ተባራሪ	ተባራሪዎች	N;PL
-ተባበረ	መተባበር	V.MSDR
+ተባበረ	መተባበር	V.MSDR;
 ተባበረ	ተባበሩ	V;IMP;NOM(2,PL)
 ተባበረ	ተባበሩ	V;PFV;NOM(3,PL)
 ተባበረ	ተባበራችሁ	V;PFV;NOM(2,PL)
@@ -16862,21 +16862,21 @@
 ተባባሪ	ተባባሪው	N;DEF;MASC
 ተባባሪ	ተባባሪዎቹ	N;DEF;PL
 ተባባሪ	ተባባሪዎች	N;PL
-ተባባሰ	መባባስ	V.MSDR
+ተባባሰ	መባባስ	V.MSDR;
 ተባባሰ	ተባባሰ	V;PFV;NOM(MASC;3,SG)
 ተባባሰ	ተባብሶ	V.CVB;NOM(MASC;3,SG)
 ተባባሰ	ተባብሷል	V;PRF;NOM(MASC;3,SG)
 ተባባሰ	ይባባሳል	V;IPFV;NOM(MASC;3,SG)
 ተባባሰ	ይባባስ	V;IMP;NOM(MASC;3,SG)
 ተባባሰ	ይባባስ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተተቸ	መተቸት	V.MSDR
+ተተቸ	መተቸት	V.MSDR;
 ተተቸ	ተተቸ	V;PFV;NOM(MASC;3,SG)
 ተተቸ	ተተችቶ	V.CVB;NOM(MASC;3,SG)
 ተተቸ	ተተችቷል	V;PRF;NOM(MASC;3,SG)
 ተተቸ	ይተቻል	V;IPFV;NOM(MASC;3,SG)
 ተተቸ	ይተች	V;IMP;NOM(MASC;3,SG)
 ተተቸ	ይተች	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተተከለ	መተከል	V.MSDR
+ተተከለ	መተከል	V.MSDR;
 ተተከለ	ተተከለ	V;PFV;NOM(MASC;3,SG)
 ተተከለ	ተተክሎ	V.CVB;NOM(MASC;3,SG)
 ተተከለ	ተተክሏል	V;PRF;NOM(MASC;3,SG)
@@ -16887,7 +16887,7 @@
 ተተኪ	ተተኪው	N;DEF;MASC
 ተተኪ	ተተኪዎቹ	N;DEF;PL
 ተተኪ	ተተኪዎች	N;PL
-ተተካ	መተካት	V.MSDR
+ተተካ	መተካት	V.MSDR;
 ተተካ	ተተካ	V;PFV;NOM(MASC;3,SG)
 ተተካ	ተተክቶ	V.CVB;NOM(MASC;3,SG)
 ተተካ	ተተክቷል	V;PRF;NOM(MASC;3,SG)
@@ -16895,7 +16895,7 @@
 ተተካ	ይተካ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተተካ	ይተካል	V;IPFV;NOM(MASC;3,SG)
 ተተወ	ልተው	V;IMP;NOM(1,SG)
-ተተወ	መተው	V.MSDR
+ተተወ	መተው	V.MSDR;
 ተተወ	ተተወ	V;PFV;NOM(MASC;3,SG)
 ተተወ	ተተወች	V;PFV;NOM(FEM;3,SG)
 ተተወ	ተተዉ	V;IMP;NOM(2,PL)
@@ -16944,7 +16944,7 @@
 ተተወ	ይተው	V;IMP;NOM(MASC;3,SG)
 ተተወ	ይተው	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተቸ	ልተች	V;IMP;NOM(1,SG)
-ተቸ	መተቸት	V.MSDR
+ተቸ	መተቸት	V.MSDR;
 ተቸ	ተቸ	V;PFV;NOM(MASC;3,SG)
 ተቸ	ተቸሁ	V;PFV;NOM(1,SG)
 ተቸ	ተቸህ	V;PFV;NOM(MASC;2,SG)
@@ -16993,7 +16993,7 @@
 ተቸ	ይተች	V;IMP;NOM(MASC;3,SG)
 ተቸ	ይተች	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተቸገረ	ልቸገር	V;IMP;NOM(1,SG)
-ተቸገረ	መቸገር	V.MSDR
+ተቸገረ	መቸገር	V.MSDR;
 ተቸገረ	ተቸገረ	V;PFV;NOM(MASC;3,SG)
 ተቸገረ	ተቸገረች	V;PFV;NOM(FEM;3,SG)
 ተቸገረ	ተቸገሩ	V;IMP;NOM(2,PL)
@@ -17041,7 +17041,7 @@
 ተቸገረ	ይቸገራል	V;IPFV;NOM(MASC;3,SG)
 ተቸገረ	ይቸገር	V;IMP;NOM(MASC;3,SG)
 ተቸገረ	ይቸገር	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተቻለ	መቻል	V.MSDR
+ተቻለ	መቻል	V.MSDR;
 ተቻለ	ተቻለ	V;PFV;NOM(MASC;3,SG)
 ተቻለ	ተችሎ	V.CVB;NOM(MASC;3,SG)
 ተቻለ	ተችሏል	V;PRF;NOM(MASC;3,SG)
@@ -17049,7 +17049,7 @@
 ተቻለ	ይቻል	V;IMP;NOM(MASC;3,SG)
 ተቻለ	ይቻል	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተነሳ	ልነሣ	V;IMP;NOM(1,SG)
-ተነሳ	መነሣት	V.MSDR
+ተነሳ	መነሣት	V.MSDR;
 ተነሳ	ተነሡ	V;IMP;NOM(2,PL)
 ተነሳ	ተነሡ	V;PFV;NOM(3,PL)
 ተነሳ	ተነሣ	V;IMP;NOM(MASC;2,SG)
@@ -17097,7 +17097,7 @@
 ተነሳ	ይነሣ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተነሳ	ይነሣሉ	V;IPFV;NOM(3,PL)
 ተነሳ	ይነሣል	V;IPFV;NOM(MASC;3,SG)
-ተነቀለ	መነቀል	V.MSDR
+ተነቀለ	መነቀል	V.MSDR;
 ተነቀለ	ተነቀለ	V;PFV;NOM(MASC;3,SG)
 ተነቀለ	ተነቅሎ	V.CVB;NOM(MASC;3,SG)
 ተነቀለ	ተነቅሏል	V;PRF;NOM(MASC;3,SG)
@@ -17105,7 +17105,7 @@
 ተነቀለ	ይነቀል	V;IMP;NOM(MASC;3,SG)
 ተነቀለ	ይነቀል	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተነተነ	ልተንትን	V;IMP;NOM(1,SG)
-ተነተነ	መተንተን	V.MSDR
+ተነተነ	መተንተን	V.MSDR;
 ተነተነ	ተነተነ	V;PFV;NOM(MASC;3,SG)
 ተነተነ	ተነተነች	V;PFV;NOM(FEM;3,SG)
 ተነተነ	ተነተኑ	V;PFV;NOM(3,PL)
@@ -17154,7 +17154,7 @@
 ተነተነ	ይተንትኑ	V;IMP;NOM(3,PL)
 ተነተነ	ይተንትን	V;IMP;NOM(MASC;3,SG)
 ተነካ	ልነካ	V;IMP;NOM(1,SG)
-ተነካ	መነካት	V.MSDR
+ተነካ	መነካት	V.MSDR;
 ተነካ	ተነኩ	V;IMP;NOM(2,PL)
 ተነካ	ተነኩ	V;PFV;NOM(3,PL)
 ተነካ	ተነኪ	V;IMP;NOM(FEM;2,SG)
@@ -17203,7 +17203,7 @@
 ተነካ	ይነካሉ	V;IPFV;NOM(3,PL)
 ተነካ	ይነካል	V;IPFV;NOM(MASC;3,SG)
 ተነዛ	ልነዛ	V;IMP;NOM(1,SG)
-ተነዛ	መነዛት	V.MSDR
+ተነዛ	መነዛት	V.MSDR;
 ተነዛ	ተነዙ	V;IMP;NOM(2,PL)
 ተነዛ	ተነዙ	V;PFV;NOM(3,PL)
 ተነዛ	ተነዛ	V;IMP;NOM(MASC;2,SG)
@@ -17251,14 +17251,14 @@
 ተነዛ	ይነዛ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተነዛ	ይነዛሉ	V;IPFV;NOM(3,PL)
 ተነዛ	ይነዛል	V;IPFV;NOM(MASC;3,SG)
-ተነገረ	መነገር	V.MSDR
+ተነገረ	መነገር	V.MSDR;
 ተነገረ	ተነገረ	V;PFV;NOM(MASC;3,SG)
 ተነገረ	ተነግሮ	V.CVB;NOM(MASC;3,SG)
 ተነገረ	ተነግሯል	V;PRF;NOM(MASC;3,SG)
 ተነገረ	ይነገራል	V;IPFV;NOM(MASC;3,SG)
 ተነገረ	ይነገር	V;IMP;NOM(MASC;3,SG)
 ተነገረ	ይነገር	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተነጋገረ	መነጋገር	V.MSDR
+ተነጋገረ	መነጋገር	V.MSDR;
 ተነጋገረ	ተነጋገሩ	V;IMP;NOM(2,PL)
 ተነጋገረ	ተነጋገሩ	V;PFV;NOM(3,PL)
 ተነጋገረ	ተነጋገራችሁ	V;PFV;NOM(2,PL)
@@ -17278,7 +17278,7 @@
 ተነጋገረ	ይነጋገሩ	V;IPFV;NFIN;NOM(3,PL)
 ተነጋገረ	ይነጋገራሉ	V;IPFV;NOM(3,PL)
 ተነጠቀ	ልነጠቅ	V;IMP;NOM(1,SG)
-ተነጠቀ	መነጠቅ	V.MSDR
+ተነጠቀ	መነጠቅ	V.MSDR;
 ተነጠቀ	ተነጠቀ	V;PFV;NOM(MASC;3,SG)
 ተነጠቀ	ተነጠቀች	V;PFV;NOM(FEM;3,SG)
 ተነጠቀ	ተነጠቁ	V;IMP;NOM(2,PL)
@@ -17327,7 +17327,7 @@
 ተነጠቀ	ይነጠቅ	V;IMP;NOM(MASC;3,SG)
 ተነጠቀ	ይነጠቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተነፈሰ	ልተንፍስ	V;IMP;NOM(1,SG)
-ተነፈሰ	መተንፈስ	V.MSDR
+ተነፈሰ	መተንፈስ	V.MSDR;
 ተነፈሰ	ተነፈሰ	V;PFV;NOM(MASC;3,SG)
 ተነፈሰ	ተነፈሰች	V;PFV;NOM(FEM;3,SG)
 ተነፈሰ	ተነፈሱ	V;PFV;NOM(3,PL)
@@ -17376,7 +17376,7 @@
 ተነፈሰ	ይተንፍሱ	V;IMP;NOM(3,PL)
 ተነፈሰ	ይተንፍስ	V;IMP;NOM(MASC;3,SG)
 ተነፋ	ልነፋ	V;IMP;NOM(1,SG)
-ተነፋ	መነፋት	V.MSDR
+ተነፋ	መነፋት	V.MSDR;
 ተነፋ	ተነፉ	V;IMP;NOM(2,PL)
 ተነፋ	ተነፉ	V;PFV;NOM(3,PL)
 ተነፋ	ተነፊ	V;IMP;NOM(FEM;2,SG)
@@ -17425,7 +17425,7 @@
 ተነፋ	ይነፋሉ	V;IPFV;NOM(3,PL)
 ተነፋ	ይነፋል	V;IPFV;NOM(MASC;3,SG)
 ተናገረ	ልናገር	V;IMP;NOM(1,SG)
-ተናገረ	መናገር	V.MSDR
+ተናገረ	መናገር	V.MSDR;
 ተናገረ	ተናገረ	V;PFV;NOM(MASC;3,SG)
 ተናገረ	ተናገረች	V;PFV;NOM(FEM;3,SG)
 ተናገረ	ተናገሩ	V;IMP;NOM(2,PL)
@@ -17479,7 +17479,7 @@
 ተናጋሪ	ተናጋሪዎቹ	N;DEF;PL
 ተናጋሪ	ተናጋሪዎች	N;PL
 ተንቀሳቀሰ	ልንቀሳቀስ	V;IMP;NOM(1,SG)
-ተንቀሳቀሰ	መንቀሳቀስ	V.MSDR
+ተንቀሳቀሰ	መንቀሳቀስ	V.MSDR;
 ተንቀሳቀሰ	ተንቀሳቀሰ	V;PFV;NOM(MASC;3,SG)
 ተንቀሳቀሰ	ተንቀሳቀሰች	V;PFV;NOM(FEM;3,SG)
 ተንቀሳቀሰ	ተንቀሳቀሱ	V;IMP;NOM(2,PL)
@@ -17537,7 +17537,7 @@
 ተንኮል	ተንኮሉ	N;DEF;MASC
 ተንኮል	ተንኮል	N
 ተንገላታ	ልንገላታ	V;IMP;NOM(1,SG)
-ተንገላታ	መንገላታት	V.MSDR
+ተንገላታ	መንገላታት	V.MSDR;
 ተንገላታ	ተንገላቱ	V;IMP;NOM(2,PL)
 ተንገላታ	ተንገላቱ	V;PFV;NOM(3,PL)
 ተንገላታ	ተንገላታ	V;IMP;NOM(MASC;2,SG)
@@ -17585,7 +17585,7 @@
 ተንገላታ	ይንገላታ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተንገላታ	ይንገላታሉ	V;IPFV;NOM(3,PL)
 ተንገላታ	ይንገላታል	V;IPFV;NOM(MASC;3,SG)
-ተንጸባረቀ	መንጸባረቅ	V.MSDR
+ተንጸባረቀ	መንጸባረቅ	V.MSDR;
 ተንጸባረቀ	ተንጸባረቀ	V;PFV;NOM(MASC;3,SG)
 ተንጸባረቀ	ተንጸባርቆ	V.CVB;NOM(MASC;3,SG)
 ተንጸባረቀ	ተንጸባርቋል	V;PRF;NOM(MASC;3,SG)
@@ -17593,7 +17593,7 @@
 ተንጸባረቀ	ይንጸባረቅ	V;IMP;NOM(MASC;3,SG)
 ተንጸባረቀ	ይንጸባረቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተኛ	ልተኛ	V;IMP;NOM(1,SG)
-ተኛ	መተኛት	V.MSDR
+ተኛ	መተኛት	V.MSDR;
 ተኛ	ተኙ	V;IMP;NOM(2,PL)
 ተኛ	ተኙ	V;PFV;NOM(3,PL)
 ተኛ	ተኚ	V;IMP;NOM(FEM;2,SG)
@@ -17646,7 +17646,7 @@
 ተአምር	ተአምራት	N;PL
 ተአምር	ተአምር	N
 ተከለ	ልትከል	V;IMP;NOM(1,SG)
-ተከለ	መትከል	V.MSDR
+ተከለ	መትከል	V.MSDR;
 ተከለ	ተከለ	V;PFV;NOM(MASC;3,SG)
 ተከለ	ተከለች	V;PFV;NOM(FEM;3,SG)
 ተከለ	ተከሉ	V;PFV;NOM(3,PL)
@@ -17695,7 +17695,7 @@
 ተከለ	ይትከሉ	V;IMP;NOM(3,PL)
 ተከለ	ይትከል	V;IMP;NOM(MASC;3,SG)
 ተከለከለ	ልከልከል	V;IMP;NOM(1,SG)
-ተከለከለ	መከልከል	V.MSDR
+ተከለከለ	መከልከል	V.MSDR;
 ተከለከለ	ተከለከለ	V;PFV;NOM(MASC;3,SG)
 ተከለከለ	ተከለከለች	V;PFV;NOM(FEM;3,SG)
 ተከለከለ	ተከለከሉ	V;PFV;NOM(3,PL)
@@ -17744,7 +17744,7 @@
 ተከለከለ	ይከልከሉ	V;IMP;NOM(3,PL)
 ተከለከለ	ይከልከል	V;IMP;NOM(MASC;3,SG)
 ተከላከለ	ልከላከል	V;IMP;NOM(1,SG)
-ተከላከለ	መከላከል	V.MSDR
+ተከላከለ	መከላከል	V.MSDR;
 ተከላከለ	ተከላከለ	V;PFV;NOM(MASC;3,SG)
 ተከላከለ	ተከላከለች	V;PFV;NOM(FEM;3,SG)
 ተከላከለ	ተከላከሉ	V;IMP;NOM(2,PL)
@@ -17792,7 +17792,7 @@
 ተከላከለ	ይከላከላል	V;IPFV;NOM(MASC;3,SG)
 ተከላከለ	ይከላከል	V;IMP;NOM(MASC;3,SG)
 ተከላከለ	ይከላከል	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተከማቸ	መከማቸት	V.MSDR
+ተከማቸ	መከማቸት	V.MSDR;
 ተከማቸ	ተከማቸ	V;PFV;NOM(MASC;3,SG)
 ተከማቸ	ተከማችቶ	V.CVB;NOM(MASC;3,SG)
 ተከማቸ	ተከማችቷል	V;PRF;NOM(MASC;3,SG)
@@ -17800,7 +17800,7 @@
 ተከማቸ	ይከማች	V;IMP;NOM(MASC;3,SG)
 ተከማቸ	ይከማች	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተከራከረ	ልከራከር	V;IMP;NOM(1,SG)
-ተከራከረ	መከራከር	V.MSDR
+ተከራከረ	መከራከር	V.MSDR;
 ተከራከረ	ተከራከረ	V;PFV;NOM(MASC;3,SG)
 ተከራከረ	ተከራከረች	V;PFV;NOM(FEM;3,SG)
 ተከራከረ	ተከራከሩ	V;IMP;NOM(2,PL)
@@ -17849,7 +17849,7 @@
 ተከራከረ	ይከራከር	V;IMP;NOM(MASC;3,SG)
 ተከራከረ	ይከራከር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተከራየ	ልከራይ	V;IMP;NOM(1,SG)
-ተከራየ	መከራየት	V.MSDR
+ተከራየ	መከራየት	V.MSDR;
 ተከራየ	ተከራየ	V;PFV;NOM(MASC;3,SG)
 ተከራየ	ተከራየሁ	V;PFV;NOM(1,SG)
 ተከራየ	ተከራየህ	V;PFV;NOM(MASC;2,SG)
@@ -17898,7 +17898,7 @@
 ተከራየ	ይከራይ	V;IMP;NOM(MASC;3,SG)
 ተከራየ	ይከራይ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተከሰሰ	ልከሰስ	V;IMP;NOM(1,SG)
-ተከሰሰ	መከሰስ	V.MSDR
+ተከሰሰ	መከሰስ	V.MSDR;
 ተከሰሰ	ተከሰሀል	V;PRF;NOM(MASC;2,SG)
 ተከሰሰ	ተከሰህ	V.CVB;NOM(MASC;2,SG)
 ተከሰሰ	ተከሰሰ	V;PFV;NOM(MASC;3,SG)
@@ -17946,7 +17946,7 @@
 ተከሰሰ	ይከሰሳል	V;IPFV;NOM(MASC;3,SG)
 ተከሰሰ	ይከሰስ	V;IMP;NOM(MASC;3,SG)
 ተከሰሰ	ይከሰስ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተከሰተ	መከሰት	V.MSDR
+ተከሰተ	መከሰት	V.MSDR;
 ተከሰተ	ተከሰተ	V;PFV;NOM(MASC;3,SG)
 ተከሰተ	ተከስቶ	V.CVB;NOM(MASC;3,SG)
 ተከሰተ	ተከስቷል	V;PRF;NOM(MASC;3,SG)
@@ -17959,7 +17959,7 @@
 ተከሳሽ	ተከሳሾች	N;PL
 ተከሳሽ	ተከሳሿ	N;DEF;FEM
 ተከበረ	ልከበር	V;IMP;NOM(1,SG)
-ተከበረ	መከበር	V.MSDR
+ተከበረ	መከበር	V.MSDR;
 ተከበረ	ተከበረ	V;PFV;NOM(MASC;3,SG)
 ተከበረ	ተከበረች	V;PFV;NOM(FEM;3,SG)
 ተከበረ	ተከበሩ	V;IMP;NOM(2,PL)
@@ -18008,7 +18008,7 @@
 ተከበረ	ይከበር	V;IMP;NOM(MASC;3,SG)
 ተከበረ	ይከበር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተከተለ	ልከተል	V;IMP;NOM(1,SG)
-ተከተለ	መከተል	V.MSDR
+ተከተለ	መከተል	V.MSDR;
 ተከተለ	ተከተለ	V;PFV;NOM(MASC;3,SG)
 ተከተለ	ተከተለች	V;PFV;NOM(FEM;3,SG)
 ተከተለ	ተከተሉ	V;IMP;NOM(2,PL)
@@ -18056,7 +18056,7 @@
 ተከተለ	ይከተላል	V;IPFV;NOM(MASC;3,SG)
 ተከተለ	ይከተል	V;IMP;NOM(MASC;3,SG)
 ተከተለ	ይከተል	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተከታተለ	መከታተል	V.MSDR
+ተከታተለ	መከታተል	V.MSDR;
 ተከታተለ	ተከታተሉ	V;IMP;NOM(2,PL)
 ተከታተለ	ተከታተሉ	V;PFV;NOM(3,PL)
 ተከታተለ	ተከታተላችሁ	V;PFV;NOM(2,PL)
@@ -18085,7 +18085,7 @@
 ተከታይ	ተከታዮቹ	N;DEF;PL
 ተከታይ	ተከታዮች	N;PL
 ተከናወነ	ልከናወን	V;IMP;NOM(1,SG)
-ተከናወነ	መከናወን	V.MSDR
+ተከናወነ	መከናወን	V.MSDR;
 ተከናወነ	ተከናወነ	V;PFV;NOM(MASC;3,SG)
 ተከናወነ	ተከናወነች	V;PFV;NOM(FEM;3,SG)
 ተከናወነ	ተከናወኑ	V;IMP;NOM(2,PL)
@@ -18133,21 +18133,21 @@
 ተከናወነ	ይከናወናል	V;IPFV;NOM(MASC;3,SG)
 ተከናወነ	ይከናወን	V;IMP;NOM(MASC;3,SG)
 ተከናወነ	ይከናወን	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተከፈለ	መከፈል	V.MSDR
+ተከፈለ	መከፈል	V.MSDR;
 ተከፈለ	ተከፈለ	V;PFV;NOM(MASC;3,SG)
 ተከፈለ	ተከፍሎ	V.CVB;NOM(MASC;3,SG)
 ተከፈለ	ተከፍሏል	V;PRF;NOM(MASC;3,SG)
 ተከፈለ	ይከፈላል	V;IPFV;NOM(MASC;3,SG)
 ተከፈለ	ይከፈል	V;IMP;NOM(MASC;3,SG)
 ተከፈለ	ይከፈል	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተከፈተ	መከፈት	V.MSDR
+ተከፈተ	መከፈት	V.MSDR;
 ተከፈተ	ተከፈተ	V;PFV;NOM(MASC;3,SG)
 ተከፈተ	ተከፍቶ	V.CVB;NOM(MASC;3,SG)
 ተከፈተ	ተከፍቷል	V;PRF;NOM(MASC;3,SG)
 ተከፈተ	ይከፈታል	V;IPFV;NOM(MASC;3,SG)
 ተከፈተ	ይከፈት	V;IMP;NOM(MASC;3,SG)
 ተከፈተ	ይከፈት	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተከፋፈለ	መከፋፈል	V.MSDR
+ተከፋፈለ	መከፋፈል	V.MSDR;
 ተከፋፈለ	ተከፋፈሉ	V;IMP;NOM(2,PL)
 ተከፋፈለ	ተከፋፈሉ	V;PFV;NOM(3,PL)
 ተከፋፈለ	ተከፋፈላችሁ	V;PFV;NOM(2,PL)
@@ -18166,14 +18166,14 @@
 ተከፋፈለ	ይከፋፈሉ	V;IMP;NOM(3,PL)
 ተከፋፈለ	ይከፋፈሉ	V;IPFV;NFIN;NOM(3,PL)
 ተከፋፈለ	ይከፋፈላሉ	V;IPFV;NOM(3,PL)
-ተካ	መተካት	V.MSDR
+ተካ	መተካት	V.MSDR;
 ተካ	ተካ	V;PFV;NOM(MASC;3,SG)
 ተካ	ተክቶ	V.CVB;NOM(MASC;3,SG)
 ተካ	ተክቷል	V;PRF;NOM(MASC;3,SG)
 ተካ	ይተካ	V;IMP;NOM(MASC;3,SG)
 ተካ	ይተካ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተካ	ይተካል	V;IPFV;NOM(MASC;3,SG)
-ተካተተ	መካተት	V.MSDR
+ተካተተ	መካተት	V.MSDR;
 ተካተተ	ተካተተ	V;PFV;NOM(MASC;3,SG)
 ተካተተ	ተካቶ	V.CVB;NOM(MASC;3,SG)
 ተካተተ	ተካቷል	V;PRF;NOM(MASC;3,SG)
@@ -18181,7 +18181,7 @@
 ተካተተ	ይካተት	V;IMP;NOM(MASC;3,SG)
 ተካተተ	ይካተት	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተካፈለ	ልካፈል	V;IMP;NOM(1,SG)
-ተካፈለ	መካፈል	V.MSDR
+ተካፈለ	መካፈል	V.MSDR;
 ተካፈለ	ተካፈለ	V;PFV;NOM(MASC;3,SG)
 ተካፈለ	ተካፈለች	V;PFV;NOM(FEM;3,SG)
 ተካፈለ	ተካፈሉ	V;IMP;NOM(2,PL)
@@ -18235,7 +18235,7 @@
 ተካፋይ	ተካፋዮቹ	N;DEF;PL
 ተካፋይ	ተካፋዮች	N;PL
 ተኮሰ	ልተኩስ	V;IMP;NOM(1,SG)
-ተኮሰ	መተኮስ	V.MSDR
+ተኮሰ	መተኮስ	V.MSDR;
 ተኮሰ	ተኩሰሀል	V;PRF;NOM(MASC;2,SG)
 ተኮሰ	ተኩሰህ	V.CVB;NOM(MASC;2,SG)
 ተኮሰ	ተኩሰሻል	V;PRF;NOM(FEM;2,SG)
@@ -18284,7 +18284,7 @@
 ተኮሰ	ይተኩስ	V;IMP;NOM(MASC;3,SG)
 ተኮሰ	ይተኩስ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተወ	ልተው	V;IMP;NOM(1,SG)
-ተወ	መተው	V.MSDR
+ተወ	መተው	V.MSDR;
 ተወ	ተወ	V;PFV;NOM(MASC;3,SG)
 ተወ	ተወች	V;PFV;NOM(FEM;3,SG)
 ተወ	ተዉ	V;IMP;NOM(2,PL)
@@ -18333,7 +18333,7 @@
 ተወ	ይተው	V;IMP;NOM(MASC;3,SG)
 ተወ	ይተው	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተወለደ	ልወለድ	V;IMP;NOM(1,SG)
-ተወለደ	መወለድ	V.MSDR
+ተወለደ	መወለድ	V.MSDR;
 ተወለደ	ተወለደ	V;PFV;NOM(MASC;3,SG)
 ተወለደ	ተወለደች	V;PFV;NOM(FEM;3,SG)
 ተወለደ	ተወለዱ	V;IMP;NOM(2,PL)
@@ -18386,21 +18386,21 @@
 ተወላጅ	ተወላጆቹ	N;DEF;PL
 ተወላጅ	ተወላጆች	N;PL
 ተወላጅ	ተወላጇ	N;DEF;FEM
-ተወረሰ	መወረስ	V.MSDR
+ተወረሰ	መወረስ	V.MSDR;
 ተወረሰ	ተወረሰ	V;PFV;NOM(MASC;3,SG)
 ተወረሰ	ተወርሶ	V.CVB;NOM(MASC;3,SG)
 ተወረሰ	ተወርሷል	V;PRF;NOM(MASC;3,SG)
 ተወረሰ	ይወረሳል	V;IPFV;NOM(MASC;3,SG)
 ተወረሰ	ይወረስ	V;IMP;NOM(MASC;3,SG)
 ተወረሰ	ይወረስ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተወራ	መወራት	V.MSDR
+ተወራ	መወራት	V.MSDR;
 ተወራ	ተወራ	V;PFV;NOM(MASC;3,SG)
 ተወራ	ተወርቶ	V.CVB;NOM(MASC;3,SG)
 ተወራ	ተወርቷል	V;PRF;NOM(MASC;3,SG)
 ተወራ	ይወራ	V;IMP;NOM(MASC;3,SG)
 ተወራ	ይወራ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተወራ	ይወራል	V;IPFV;NOM(MASC;3,SG)
-ተወሰነ	መወሰን	V.MSDR
+ተወሰነ	መወሰን	V.MSDR;
 ተወሰነ	ተወሰነ	V;PFV;NOM(MASC;3,SG)
 ተወሰነ	ተወስኖ	V.CVB;NOM(MASC;3,SG)
 ተወሰነ	ተወስኗል	V;PRF;NOM(MASC;3,SG)
@@ -18408,7 +18408,7 @@
 ተወሰነ	ይወሰን	V;IMP;NOM(MASC;3,SG)
 ተወሰነ	ይወሰን	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተወሰደ	ልወሰድ	V;IMP;NOM(1,SG)
-ተወሰደ	መወሰድ	V.MSDR
+ተወሰደ	መወሰድ	V.MSDR;
 ተወሰደ	ተወሰደ	V;PFV;NOM(MASC;3,SG)
 ተወሰደ	ተወሰደች	V;PFV;NOM(FEM;3,SG)
 ተወሰደ	ተወሰዱ	V;IMP;NOM(2,PL)
@@ -18456,7 +18456,7 @@
 ተወሰደ	ይወሰዳል	V;IPFV;NOM(MASC;3,SG)
 ተወሰደ	ይወሰድ	V;IMP;NOM(MASC;3,SG)
 ተወሰደ	ይወሰድ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተወሳ	መወሳት	V.MSDR
+ተወሳ	መወሳት	V.MSDR;
 ተወሳ	ተወሳ	V;PFV;NOM(MASC;3,SG)
 ተወሳ	ተወስቶ	V.CVB;NOM(MASC;3,SG)
 ተወሳ	ተወስቷል	V;PRF;NOM(MASC;3,SG)
@@ -18464,7 +18464,7 @@
 ተወሳ	ይወሳ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተወሳ	ይወሳል	V;IPFV;NOM(MASC;3,SG)
 ተወቀሰ	ልወቀስ	V;IMP;NOM(1,SG)
-ተወቀሰ	መወቀስ	V.MSDR
+ተወቀሰ	መወቀስ	V.MSDR;
 ተወቀሰ	ተወቀሰ	V;PFV;NOM(MASC;3,SG)
 ተወቀሰ	ተወቀሰች	V;PFV;NOM(FEM;3,SG)
 ተወቀሰ	ተወቀሱ	V;IMP;NOM(2,PL)
@@ -18513,7 +18513,7 @@
 ተወቀሰ	ይወቀስ	V;IMP;NOM(MASC;3,SG)
 ተወቀሰ	ይወቀስ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተወነጀለ	ልወንጀል	V;IMP;NOM(1,SG)
-ተወነጀለ	መወንጀል	V.MSDR
+ተወነጀለ	መወንጀል	V.MSDR;
 ተወነጀለ	ተወነጀለ	V;PFV;NOM(MASC;3,SG)
 ተወነጀለ	ተወነጀለች	V;PFV;NOM(FEM;3,SG)
 ተወነጀለ	ተወነጀሉ	V;PFV;NOM(3,PL)
@@ -18584,7 +18584,7 @@
 ተወካይ	ተወካዮችሽ	N;PL;PSS(2,SG,FEM)
 ተወካይ	ተወካዮችዎ	N;PL;PSS(2,SG,FORM)
 ተወካይ	ተወካዮቿ	N;PL;PSS(3,SG,FEM)
-ተወያየ	መወያየት	V.MSDR
+ተወያየ	መወያየት	V.MSDR;
 ተወያየ	ተወያየን	V;PFV;NOM(1,PL)
 ተወያየ	ተወያዩ	V;IMP;NOM(2,PL)
 ተወያየ	ተወያዩ	V;PFV;NOM(3,PL)
@@ -18603,7 +18603,7 @@
 ተወያየ	ይወያዩ	V;IMP;NOM(3,PL)
 ተወያየ	ይወያዩ	V;IPFV;NFIN;NOM(3,PL)
 ተወያየ	ይወያያሉ	V;IPFV;NOM(3,PL)
-ተወዳደረ	መወዳደር	V.MSDR
+ተወዳደረ	መወዳደር	V.MSDR;
 ተወዳደረ	ተወዳደሩ	V;IMP;NOM(2,PL)
 ተወዳደረ	ተወዳደሩ	V;PFV;NOM(3,PL)
 ተወዳደረ	ተወዳደራችሁ	V;PFV;NOM(2,PL)
@@ -18647,7 +18647,7 @@
 ተወዳዳሪ	ተወዳዳርያቸው	N;LGSPEC1;PSS(3,PL)
 ተወዳዳሪ	ተወዳዳርያችሁ	N;LGSPEC1;PSS(2,PL)
 ተወዳዳሪ	ተወዳዳርያችን	N;LGSPEC1;PSS(1,PL)
-ተወገደ	መወገድ	V.MSDR
+ተወገደ	መወገድ	V.MSDR;
 ተወገደ	ተወገደ	V;PFV;NOM(MASC;3,SG)
 ተወገደ	ተወግዶ	V.CVB;NOM(MASC;3,SG)
 ተወገደ	ተወግዷል	V;PRF;NOM(MASC;3,SG)
@@ -18655,7 +18655,7 @@
 ተወገደ	ይወገድ	V;IMP;NOM(MASC;3,SG)
 ተወገደ	ይወገድ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተወጋ	ልወጋ	V;IMP;NOM(1,SG)
-ተወጋ	መወጋት	V.MSDR
+ተወጋ	መወጋት	V.MSDR;
 ተወጋ	ተወጉ	V;IMP;NOM(2,PL)
 ተወጋ	ተወጉ	V;PFV;NOM(3,PL)
 ተወጋ	ተወጊ	V;IMP;NOM(FEM;2,SG)
@@ -18704,7 +18704,7 @@
 ተወጋ	ይወጋሉ	V;IPFV;NOM(3,PL)
 ተወጋ	ይወጋል	V;IPFV;NOM(MASC;3,SG)
 ተወጣ	ልወጣ	V;IMP;NOM(1,SG)
-ተወጣ	መወጣት	V.MSDR
+ተወጣ	መወጣት	V.MSDR;
 ተወጣ	ተወጡ	V;IMP;NOM(2,PL)
 ተወጣ	ተወጡ	V;PFV;NOM(3,PL)
 ተወጣ	ተወጣ	V;IMP;NOM(MASC;2,SG)
@@ -18753,7 +18753,7 @@
 ተወጣ	ይወጣሉ	V;IPFV;NOM(3,PL)
 ተወጣ	ይወጣል	V;IPFV;NOM(MASC;3,SG)
 ተዋረደ	ልዋረድ	V;IMP;NOM(1,SG)
-ተዋረደ	መዋረድ	V.MSDR
+ተዋረደ	መዋረድ	V.MSDR;
 ተዋረደ	ተዋረደ	V;PFV;NOM(MASC;3,SG)
 ተዋረደ	ተዋረደች	V;PFV;NOM(FEM;3,SG)
 ተዋረደ	ተዋረዱ	V;IMP;NOM(2,PL)
@@ -18801,14 +18801,14 @@
 ተዋረደ	ይዋረዳል	V;IPFV;NOM(MASC;3,SG)
 ተዋረደ	ይዋረድ	V;IMP;NOM(MASC;3,SG)
 ተዋረደ	ይዋረድ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተዋቀረ	መዋቀር	V.MSDR
+ተዋቀረ	መዋቀር	V.MSDR;
 ተዋቀረ	ተዋቀረ	V;PFV;NOM(MASC;3,SG)
 ተዋቀረ	ተዋቅሮ	V.CVB;NOM(MASC;3,SG)
 ተዋቀረ	ተዋቅሯል	V;PRF;NOM(MASC;3,SG)
 ተዋቀረ	ይዋቀራል	V;IPFV;NOM(MASC;3,SG)
 ተዋቀረ	ይዋቀር	V;IMP;NOM(MASC;3,SG)
 ተዋቀረ	ይዋቀር	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተዋወቀ	መተዋወቅ	V.MSDR
+ተዋወቀ	መተዋወቅ	V.MSDR;
 ተዋወቀ	ተዋወቁ	V;IMP;NOM(2,PL)
 ተዋወቀ	ተዋወቁ	V;PFV;NOM(3,PL)
 ተዋወቀ	ተዋወቃችሁ	V;PFV;NOM(2,PL)
@@ -18832,7 +18832,7 @@
 ተዋጊ	ተዋጊዎቹ	N;DEF;PL
 ተዋጊ	ተዋጊዎች	N;PL
 ተዋጋ	ልዋጋ	V;IMP;NOM(1,SG)
-ተዋጋ	መዋጋት	V.MSDR
+ተዋጋ	መዋጋት	V.MSDR;
 ተዋጋ	ተዋጉ	V;IMP;NOM(2,PL)
 ተዋጋ	ተዋጉ	V;PFV;NOM(3,PL)
 ተዋጋ	ተዋጊ	V;IMP;NOM(FEM;2,SG)
@@ -18884,7 +18884,7 @@
 ተዓምር	ተዓምራቱ	N;DEF;PL
 ተዓምር	ተዓምራት	N;PL
 ተዓምር	ተዓምር	N
-ተዘረዘረ	መዘርዘር	V.MSDR
+ተዘረዘረ	መዘርዘር	V.MSDR;
 ተዘረዘረ	ተዘረዘረ	V;PFV;NOM(MASC;3,SG)
 ተዘረዘረ	ተዘርዝሮ	V.CVB;NOM(MASC;3,SG)
 ተዘረዘረ	ተዘርዝሯል	V;PRF;NOM(MASC;3,SG)
@@ -18892,7 +18892,7 @@
 ተዘረዘረ	ይዘረዘር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተዘረዘረ	ይዘርዘር	V;IMP;NOM(MASC;3,SG)
 ተዘረጋ	ልዘርጋ	V;IMP;NOM(1,SG)
-ተዘረጋ	መዘርጋት	V.MSDR
+ተዘረጋ	መዘርጋት	V.MSDR;
 ተዘረጋ	ተዘረጉ	V;PFV;NOM(3,PL)
 ተዘረጋ	ተዘረጋ	V;PFV;NOM(MASC;3,SG)
 ተዘረጋ	ተዘረጋሁ	V;PFV;NOM(1,SG)
@@ -18940,14 +18940,14 @@
 ተዘረጋ	ይዘረጋል	V;IPFV;NOM(MASC;3,SG)
 ተዘረጋ	ይዘርጉ	V;IMP;NOM(3,PL)
 ተዘረጋ	ይዘርጋ	V;IMP;NOM(MASC;3,SG)
-ተዘራ	መዘራት	V.MSDR
+ተዘራ	መዘራት	V.MSDR;
 ተዘራ	ተዘራ	V;PFV;NOM(MASC;3,SG)
 ተዘራ	ተዘርቶ	V.CVB;NOM(MASC;3,SG)
 ተዘራ	ተዘርቷል	V;PRF;NOM(MASC;3,SG)
 ተዘራ	ይዘራ	V;IMP;NOM(MASC;3,SG)
 ተዘራ	ይዘራ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተዘራ	ይዘራል	V;IPFV;NOM(MASC;3,SG)
-ተዘዋወረ	መዘዋወር	V.MSDR
+ተዘዋወረ	መዘዋወር	V.MSDR;
 ተዘዋወረ	ተዘዋወረ	V;PFV;NOM(MASC;3,SG)
 ተዘዋወረ	ተዘዋውሮ	V.CVB;NOM(MASC;3,SG)
 ተዘዋወረ	ተዘዋውሯል	V;PRF;NOM(MASC;3,SG)
@@ -18957,14 +18957,14 @@
 ተዘዋዋሪ	ተዘዋዋሪ	ADJ
 ተዘዋዋሪ	ተዘዋዋሪዋ	ADJ;DEF;FEM
 ተዘዋዋሪ	ተዘዋዋሪው	ADJ;DEF;MASC
-ተዘገበ	መዘገብ	V.MSDR
+ተዘገበ	መዘገብ	V.MSDR;
 ተዘገበ	ተዘገበ	V;PFV;NOM(MASC;3,SG)
 ተዘገበ	ተዘግቦ	V.CVB;NOM(MASC;3,SG)
 ተዘገበ	ተዘግቧል	V;PRF;NOM(MASC;3,SG)
 ተዘገበ	ይዘገባል	V;IPFV;NOM(MASC;3,SG)
 ተዘገበ	ይዘገብ	V;IMP;NOM(MASC;3,SG)
 ተዘገበ	ይዘገብ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተዘጋ	መዘጋት	V.MSDR
+ተዘጋ	መዘጋት	V.MSDR;
 ተዘጋ	ተዘጋ	V;PFV;NOM(MASC;3,SG)
 ተዘጋ	ተዘግቶ	V.CVB;NOM(MASC;3,SG)
 ተዘጋ	ተዘግቷል	V;PRF;NOM(MASC;3,SG)
@@ -18972,7 +18972,7 @@
 ተዘጋ	ይዘጋ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተዘጋ	ይዘጋል	V;IPFV;NOM(MASC;3,SG)
 ተዘጋጀ	ልዘጋጅ	V;IMP;NOM(1,SG)
-ተዘጋጀ	መዘጋጀት	V.MSDR
+ተዘጋጀ	መዘጋጀት	V.MSDR;
 ተዘጋጀ	ተዘጋጀ	V;PFV;NOM(MASC;3,SG)
 ተዘጋጀ	ተዘጋጀሁ	V;PFV;NOM(1,SG)
 ተዘጋጀ	ተዘጋጀህ	V;PFV;NOM(MASC;2,SG)
@@ -19020,21 +19020,21 @@
 ተዘጋጀ	ይዘጋጃል	V;IPFV;NOM(MASC;3,SG)
 ተዘጋጀ	ይዘጋጅ	V;IMP;NOM(MASC;3,SG)
 ተዘጋጀ	ይዘጋጅ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተዛመተ	መዛመት	V.MSDR
+ተዛመተ	መዛመት	V.MSDR;
 ተዛመተ	ተዛመተ	V;PFV;NOM(MASC;3,SG)
 ተዛመተ	ተዛምቶ	V.CVB;NOM(MASC;3,SG)
 ተዛመተ	ተዛምቷል	V;PRF;NOM(MASC;3,SG)
 ተዛመተ	ይዛመታል	V;IPFV;NOM(MASC;3,SG)
 ተዛመተ	ይዛመት	V;IMP;NOM(MASC;3,SG)
 ተዛመተ	ይዛመት	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተዛባ	መዛባት	V.MSDR
+ተዛባ	መዛባት	V.MSDR;
 ተዛባ	ተዛባ	V;PFV;NOM(MASC;3,SG)
 ተዛባ	ተዛብቶ	V.CVB;NOM(MASC;3,SG)
 ተዛባ	ተዛብቷል	V;PRF;NOM(MASC;3,SG)
 ተዛባ	ይዛባ	V;IMP;NOM(MASC;3,SG)
 ተዛባ	ይዛባ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተዛባ	ይዛባል	V;IPFV;NOM(MASC;3,SG)
-ተዛወረ	መዛወር	V.MSDR
+ተዛወረ	መዛወር	V.MSDR;
 ተዛወረ	ተዛወረ	V;PFV;NOM(MASC;3,SG)
 ተዛወረ	ተዛውሮ	V.CVB;NOM(MASC;3,SG)
 ተዛወረ	ተዛውሯል	V;PRF;NOM(MASC;3,SG)
@@ -19042,7 +19042,7 @@
 ተዛወረ	ይዛወር	V;IMP;NOM(MASC;3,SG)
 ተዛወረ	ይዛወር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተያዘ	ልያዝ	V;IMP;NOM(1,SG)
-ተያዘ	መያዝ	V.MSDR
+ተያዘ	መያዝ	V.MSDR;
 ተያዘ	ተያዘ	V;PFV;NOM(MASC;3,SG)
 ተያዘ	ተያዘች	V;PFV;NOM(FEM;3,SG)
 ተያዘ	ተያዙ	V;IMP;NOM(2,PL)
@@ -19090,7 +19090,7 @@
 ተያዘ	ይያዛል	V;IPFV;NOM(MASC;3,SG)
 ተያዘ	ይያዝ	V;IMP;NOM(MASC;3,SG)
 ተያዘ	ይያዝ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተያየ	መተያየት	V.MSDR
+ተያየ	መተያየት	V.MSDR;
 ተያየ	ተያየን	V;PFV;NOM(1,PL)
 ተያየ	ተያዩ	V;IMP;NOM(2,PL)
 ተያየ	ተያዩ	V;PFV;NOM(3,PL)
@@ -19109,21 +19109,21 @@
 ተያየ	ይተያዩ	V;IMP;NOM(3,PL)
 ተያየ	ይተያዩ	V;IPFV;NFIN;NOM(3,PL)
 ተያየ	ይተያያሉ	V;IPFV;NOM(3,PL)
-ተያያዘ	መያያዝ	V.MSDR
+ተያያዘ	መያያዝ	V.MSDR;
 ተያያዘ	ተያያዘ	V;PFV;NOM(MASC;3,SG)
 ተያያዘ	ተያይዞ	V.CVB;NOM(MASC;3,SG)
 ተያያዘ	ተያይዟል	V;PRF;NOM(MASC;3,SG)
 ተያያዘ	ይያያዛል	V;IPFV;NOM(MASC;3,SG)
 ተያያዘ	ይያያዝ	V;IMP;NOM(MASC;3,SG)
 ተያያዘ	ይያያዝ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተደመደመ	መደምደም	V.MSDR
+ተደመደመ	መደምደም	V.MSDR;
 ተደመደመ	ተደመደመ	V;PFV;NOM(MASC;3,SG)
 ተደመደመ	ተደምድሞ	V.CVB;NOM(MASC;3,SG)
 ተደመደመ	ተደምድሟል	V;PRF;NOM(MASC;3,SG)
 ተደመደመ	ይደመደማል	V;IPFV;NOM(MASC;3,SG)
 ተደመደመ	ይደመደም	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተደመደመ	ይደምደም	V;IMP;NOM(MASC;3,SG)
-ተደረሰ	መደረስ	V.MSDR
+ተደረሰ	መደረስ	V.MSDR;
 ተደረሰ	ተደረሰ	V;PFV;NOM(MASC;3,SG)
 ተደረሰ	ተደርሶ	V.CVB;NOM(MASC;3,SG)
 ተደረሰ	ተደርሷል	V;PRF;NOM(MASC;3,SG)
@@ -19131,7 +19131,7 @@
 ተደረሰ	ይደረስ	V;IMP;NOM(MASC;3,SG)
 ተደረሰ	ይደረስ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተደረገ	ልደረግ	V;IMP;NOM(1,SG)
-ተደረገ	መደረግ	V.MSDR
+ተደረገ	መደረግ	V.MSDR;
 ተደረገ	ተደረገ	V;PFV;NOM(MASC;3,SG)
 ተደረገ	ተደረገች	V;PFV;NOM(FEM;3,SG)
 ተደረገ	ተደረጉ	V;IMP;NOM(2,PL)
@@ -19180,7 +19180,7 @@
 ተደረገ	ይደረግ	V;IMP;NOM(MASC;3,SG)
 ተደረገ	ይደረግ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተደራደረ	ልደራደር	V;IMP;NOM(1,SG)
-ተደራደረ	መደራደር	V.MSDR
+ተደራደረ	መደራደር	V.MSDR;
 ተደራደረ	ተደራደረ	V;PFV;NOM(MASC;3,SG)
 ተደራደረ	ተደራደረች	V;PFV;NOM(FEM;3,SG)
 ተደራደረ	ተደራደሩ	V;IMP;NOM(2,PL)
@@ -19228,7 +19228,7 @@
 ተደራደረ	ይደራደራል	V;IPFV;NOM(MASC;3,SG)
 ተደራደረ	ይደራደር	V;IMP;NOM(MASC;3,SG)
 ተደራደረ	ይደራደር	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተደራጀ	መደራጀት	V.MSDR
+ተደራጀ	መደራጀት	V.MSDR;
 ተደራጀ	ተደራጀ	V;PFV;NOM(MASC;3,SG)
 ተደራጀ	ተደራጅቶ	V.CVB;NOM(MASC;3,SG)
 ተደራጀ	ተደራጅቷል	V;PRF;NOM(MASC;3,SG)
@@ -19236,7 +19236,7 @@
 ተደራጀ	ይደራጅ	V;IMP;NOM(MASC;3,SG)
 ተደራጀ	ይደራጅ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተደሰተ	ልደሰት	V;IMP;NOM(1,SG)
-ተደሰተ	መደሰት	V.MSDR
+ተደሰተ	መደሰት	V.MSDR;
 ተደሰተ	ተደሰተ	V;PFV;NOM(MASC;3,SG)
 ተደሰተ	ተደሰተች	V;PFV;NOM(FEM;3,SG)
 ተደሰተ	ተደሰቱ	V;IMP;NOM(2,PL)
@@ -19285,7 +19285,7 @@
 ተደሰተ	ይደሰት	V;IMP;NOM(MASC;3,SG)
 ተደሰተ	ይደሰት	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተደቀነ	ልደቀን	V;IMP;NOM(1,SG)
-ተደቀነ	መደቀን	V.MSDR
+ተደቀነ	መደቀን	V.MSDR;
 ተደቀነ	ተደቀነ	V;PFV;NOM(MASC;3,SG)
 ተደቀነ	ተደቀነች	V;PFV;NOM(FEM;3,SG)
 ተደቀነ	ተደቀኑ	V;IMP;NOM(2,PL)
@@ -19333,7 +19333,7 @@
 ተደቀነ	ይደቀናል	V;IPFV;NOM(MASC;3,SG)
 ተደቀነ	ይደቀን	V;IMP;NOM(MASC;3,SG)
 ተደቀነ	ይደቀን	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተደበቀ	መደበቅ	V.MSDR
+ተደበቀ	መደበቅ	V.MSDR;
 ተደበቀ	ተደበቀ	V;PFV;NOM(MASC;3,SG)
 ተደበቀ	ተደብቆ	V.CVB;NOM(MASC;3,SG)
 ተደበቀ	ተደብቋል	V;PRF;NOM(MASC;3,SG)
@@ -19341,7 +19341,7 @@
 ተደበቀ	ይደበቅ	V;IMP;NOM(MASC;3,SG)
 ተደበቀ	ይደበቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተደበደበ	ልደብደብ	V;IMP;NOM(1,SG)
-ተደበደበ	መደብደብ	V.MSDR
+ተደበደበ	መደብደብ	V.MSDR;
 ተደበደበ	ተደበደበ	V;PFV;NOM(MASC;3,SG)
 ተደበደበ	ተደበደበች	V;PFV;NOM(FEM;3,SG)
 ተደበደበ	ተደበደቡ	V;PFV;NOM(3,PL)
@@ -19389,21 +19389,21 @@
 ተደበደበ	ይደበደብ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተደበደበ	ይደብደቡ	V;IMP;NOM(3,PL)
 ተደበደበ	ይደብደብ	V;IMP;NOM(MASC;3,SG)
-ተደነቀ	መደነቅ	V.MSDR
+ተደነቀ	መደነቅ	V.MSDR;
 ተደነቀ	ተደነቀ	V;PFV;NOM(MASC;3,SG)
 ተደነቀ	ተደንቆ	V.CVB;NOM(MASC;3,SG)
 ተደነቀ	ተደንቋል	V;PRF;NOM(MASC;3,SG)
 ተደነቀ	ይደነቃል	V;IPFV;NOM(MASC;3,SG)
 ተደነቀ	ይደነቅ	V;IMP;NOM(MASC;3,SG)
 ተደነቀ	ይደነቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተደገመ	መደገም	V.MSDR
+ተደገመ	መደገም	V.MSDR;
 ተደገመ	ተደገመ	V;PFV;NOM(MASC;3,SG)
 ተደገመ	ተደግሞ	V.CVB;NOM(MASC;3,SG)
 ተደገመ	ተደግሟል	V;PRF;NOM(MASC;3,SG)
 ተደገመ	ይደገማል	V;IPFV;NOM(MASC;3,SG)
 ተደገመ	ይደገም	V;IMP;NOM(MASC;3,SG)
 ተደገመ	ይደገም	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተደገፈ	መደገፍ	V.MSDR
+ተደገፈ	መደገፍ	V.MSDR;
 ተደገፈ	ተደገፈ	V;PFV;NOM(MASC;3,SG)
 ተደገፈ	ተደግፎ	V.CVB;NOM(MASC;3,SG)
 ተደገፈ	ተደግፏል	V;PRF;NOM(MASC;3,SG)
@@ -19414,7 +19414,7 @@
 ተደጋጋሚ	ተደጋጋሚዋ	ADJ;DEF;FEM
 ተደጋጋሚ	ተደጋጋሚው	ADJ;DEF;MASC
 ተደፈረ	ልደፈር	V;IMP;NOM(1,SG)
-ተደፈረ	መደፈር	V.MSDR
+ተደፈረ	መደፈር	V.MSDR;
 ተደፈረ	ተደፈረ	V;PFV;NOM(MASC;3,SG)
 ተደፈረ	ተደፈረች	V;PFV;NOM(FEM;3,SG)
 ተደፈረ	ተደፈሩ	V;IMP;NOM(2,PL)
@@ -19463,7 +19463,7 @@
 ተደፈረ	ይደፈር	V;IMP;NOM(MASC;3,SG)
 ተደፈረ	ይደፈር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተዳረገ	ልዳረግ	V;IMP;NOM(1,SG)
-ተዳረገ	መዳረግ	V.MSDR
+ተዳረገ	መዳረግ	V.MSDR;
 ተዳረገ	ተዳረገ	V;PFV;NOM(MASC;3,SG)
 ተዳረገ	ተዳረገች	V;PFV;NOM(FEM;3,SG)
 ተዳረገ	ተዳረጉ	V;IMP;NOM(2,PL)
@@ -19511,28 +19511,28 @@
 ተዳረገ	ይዳረጋል	V;IPFV;NOM(MASC;3,SG)
 ተዳረገ	ይዳረግ	V;IMP;NOM(MASC;3,SG)
 ተዳረገ	ይዳረግ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተዳደረ	መተዳደር	V.MSDR
+ተዳደረ	መተዳደር	V.MSDR;
 ተዳደረ	ተዳደረ	V;PFV;NOM(MASC;3,SG)
 ተዳደረ	ተዳድሮ	V.CVB;NOM(MASC;3,SG)
 ተዳደረ	ተዳድሯል	V;PRF;NOM(MASC;3,SG)
 ተዳደረ	ይተዳደራል	V;IPFV;NOM(MASC;3,SG)
 ተዳደረ	ይተዳደር	V;IMP;NOM(MASC;3,SG)
 ተዳደረ	ይተዳደር	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተጀመረ	መጀመር	V.MSDR
+ተጀመረ	መጀመር	V.MSDR;
 ተጀመረ	ተጀመረ	V;PFV;NOM(MASC;3,SG)
 ተጀመረ	ተጀምሮ	V.CVB;NOM(MASC;3,SG)
 ተጀመረ	ተጀምሯል	V;PRF;NOM(MASC;3,SG)
 ተጀመረ	ይጀመራል	V;IPFV;NOM(MASC;3,SG)
 ተጀመረ	ይጀመር	V;IMP;NOM(MASC;3,SG)
 ተጀመረ	ይጀመር	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተገለለ	መገለል	V.MSDR
+ተገለለ	መገለል	V.MSDR;
 ተገለለ	ተገለለ	V;PFV;NOM(MASC;3,SG)
 ተገለለ	ተገሎ	V.CVB;NOM(MASC;3,SG)
 ተገለለ	ተገሏል	V;PRF;NOM(MASC;3,SG)
 ተገለለ	ይገለላል	V;IPFV;NOM(MASC;3,SG)
 ተገለለ	ይገለል	V;IMP;NOM(MASC;3,SG)
 ተገለለ	ይገለል	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተገለጸ	መገለፅ	V.MSDR
+ተገለጸ	መገለፅ	V.MSDR;
 ተገለጸ	ተገለፀ	V;PFV;NOM(MASC;3,SG)
 ተገለጸ	ተገልጿል	V;PRF;NOM(MASC;3,SG)
 ተገለጸ	ተገልፆ	V.CVB;NOM(MASC;3,SG)
@@ -19543,14 +19543,14 @@
 ተገልጋይ	ተገልጋይ	N
 ተገልጋይ	ተገልጋዮቹ	N;DEF;PL
 ተገልጋይ	ተገልጋዮች	N;PL
-ተገመተ	መገመት	V.MSDR
+ተገመተ	መገመት	V.MSDR;
 ተገመተ	ተገመተ	V;PFV;NOM(MASC;3,SG)
 ተገመተ	ተገምቶ	V.CVB;NOM(MASC;3,SG)
 ተገመተ	ተገምቷል	V;PRF;NOM(MASC;3,SG)
 ተገመተ	ይገመታል	V;IPFV;NOM(MASC;3,SG)
 ተገመተ	ይገመት	V;IMP;NOM(MASC;3,SG)
 ተገመተ	ይገመት	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተገመገመ	መገምገም	V.MSDR
+ተገመገመ	መገምገም	V.MSDR;
 ተገመገመ	ተገመገመ	V;PFV;NOM(MASC;3,SG)
 ተገመገመ	ተገምግሞ	V.CVB;NOM(MASC;3,SG)
 ተገመገመ	ተገምግሟል	V;PRF;NOM(MASC;3,SG)
@@ -19558,7 +19558,7 @@
 ተገመገመ	ይገመገም	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተገመገመ	ይገምገም	V;IMP;NOM(MASC;3,SG)
 ተገረፈ	ልገረፍ	V;IMP;NOM(1,SG)
-ተገረፈ	መገረፍ	V.MSDR
+ተገረፈ	መገረፍ	V.MSDR;
 ተገረፈ	ተገረፈ	V;PFV;NOM(MASC;3,SG)
 ተገረፈ	ተገረፈች	V;PFV;NOM(FEM;3,SG)
 ተገረፈ	ተገረፉ	V;IMP;NOM(2,PL)
@@ -19611,14 +19611,14 @@
 ተገቢ	ተገቢው	ADJ;DEF;MASC
 ተገቢ	ተገቢዎቹ	ADJ;DEF;PL
 ተገቢ	ተገቢዎች	ADJ;PL
-ተገባ	መገባት	V.MSDR
+ተገባ	መገባት	V.MSDR;
 ተገባ	ተገባ	V;PFV;NOM(MASC;3,SG)
 ተገባ	ተገብቶ	V.CVB;NOM(MASC;3,SG)
 ተገባ	ተገብቷል	V;PRF;NOM(MASC;3,SG)
 ተገባ	ይገባ	V;IMP;NOM(MASC;3,SG)
 ተገባ	ይገባ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተገባ	ይገባል	V;IPFV;NOM(MASC;3,SG)
-ተገታ	መገታት	V.MSDR
+ተገታ	መገታት	V.MSDR;
 ተገታ	ተገታ	V;PFV;NOM(MASC;3,SG)
 ተገታ	ተገትቶ	V.CVB;NOM(MASC;3,SG)
 ተገታ	ተገትቷል	V;PRF;NOM(MASC;3,SG)
@@ -19626,7 +19626,7 @@
 ተገታ	ይገታ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተገታ	ይገታል	V;IPFV;NOM(MASC;3,SG)
 ተገነባ	ልገንባ	V;IMP;NOM(1,SG)
-ተገነባ	መገንባት	V.MSDR
+ተገነባ	መገንባት	V.MSDR;
 ተገነባ	ተገነቡ	V;PFV;NOM(3,PL)
 ተገነባ	ተገነባ	V;PFV;NOM(MASC;3,SG)
 ተገነባ	ተገነባሁ	V;PFV;NOM(1,SG)
@@ -19675,7 +19675,7 @@
 ተገነባ	ይገንቡ	V;IMP;NOM(3,PL)
 ተገነባ	ይገንባ	V;IMP;NOM(MASC;3,SG)
 ተገነዘበ	ልገንዘብ	V;IMP;NOM(1,SG)
-ተገነዘበ	መገንዘብ	V.MSDR
+ተገነዘበ	መገንዘብ	V.MSDR;
 ተገነዘበ	ተገነዘበ	V;PFV;NOM(MASC;3,SG)
 ተገነዘበ	ተገነዘበች	V;PFV;NOM(FEM;3,SG)
 ተገነዘበ	ተገነዘቡ	V;PFV;NOM(3,PL)
@@ -19724,7 +19724,7 @@
 ተገነዘበ	ይገንዘቡ	V;IMP;NOM(3,PL)
 ተገነዘበ	ይገንዘብ	V;IMP;NOM(MASC;3,SG)
 ተገኘ	ልገኝ	V;IMP;NOM(1,SG)
-ተገኘ	መገኘት	V.MSDR
+ተገኘ	መገኘት	V.MSDR;
 ተገኘ	ተገኘ	V;PFV;NOM(MASC;3,SG)
 ተገኘ	ተገኘሁ	V;PFV;NOM(1,SG)
 ተገኘ	ተገኘህ	V;PFV;NOM(MASC;2,SG)
@@ -19773,7 +19773,7 @@
 ተገኘ	ይገኝ	V;IMP;NOM(MASC;3,SG)
 ተገኘ	ይገኝ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተገዛ	ልገዛ	V;IMP;NOM(1,SG)
-ተገዛ	መገዛት	V.MSDR
+ተገዛ	መገዛት	V.MSDR;
 ተገዛ	ተገዙ	V;IMP;NOM(2,PL)
 ተገዛ	ተገዙ	V;PFV;NOM(3,PL)
 ተገዛ	ተገዛ	V;IMP;NOM(MASC;2,SG)
@@ -19821,7 +19821,7 @@
 ተገዛ	ይገዛ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተገዛ	ይገዛሉ	V;IPFV;NOM(3,PL)
 ተገዛ	ይገዛል	V;IPFV;NOM(MASC;3,SG)
-ተገደለ	መገደል	V.MSDR
+ተገደለ	መገደል	V.MSDR;
 ተገደለ	ተገደለ	V;PFV;NOM(MASC;3,SG)
 ተገደለ	ተገድሎ	V.CVB;NOM(MASC;3,SG)
 ተገደለ	ተገድሏል	V;PRF;NOM(MASC;3,SG)
@@ -19829,7 +19829,7 @@
 ተገደለ	ይገደል	V;IMP;NOM(MASC;3,SG)
 ተገደለ	ይገደል	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተገደደ	ልገደድ	V;IMP;NOM(1,SG)
-ተገደደ	መገደድ	V.MSDR
+ተገደደ	መገደድ	V.MSDR;
 ተገደደ	ተገደሀል	V;PRF;NOM(MASC;2,SG)
 ተገደደ	ተገደህ	V.CVB;NOM(MASC;2,SG)
 ተገደደ	ተገደሻል	V;PRF;NOM(FEM;2,SG)
@@ -19878,7 +19878,7 @@
 ተገደደ	ይገደድ	V;IMP;NOM(MASC;3,SG)
 ተገደደ	ይገደድ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተገፋ	ልገፋ	V;IMP;NOM(1,SG)
-ተገፋ	መገፋት	V.MSDR
+ተገፋ	መገፋት	V.MSDR;
 ተገፋ	ተገፉ	V;IMP;NOM(2,PL)
 ተገፋ	ተገፉ	V;PFV;NOM(3,PL)
 ተገፋ	ተገፊ	V;IMP;NOM(FEM;2,SG)
@@ -19927,7 +19927,7 @@
 ተገፋ	ይገፋሉ	V;IPFV;NOM(3,PL)
 ተገፋ	ይገፋል	V;IPFV;NOM(MASC;3,SG)
 ተጋበዘ	ልጋበዝ	V;IMP;NOM(1,SG)
-ተጋበዘ	መጋበዝ	V.MSDR
+ተጋበዘ	መጋበዝ	V.MSDR;
 ተጋበዘ	ተጋበዘ	V;PFV;NOM(MASC;3,SG)
 ተጋበዘ	ተጋበዘች	V;PFV;NOM(FEM;3,SG)
 ተጋበዘ	ተጋበዙ	V;IMP;NOM(2,PL)
@@ -19975,7 +19975,7 @@
 ተጋበዘ	ይጋበዛል	V;IPFV;NOM(MASC;3,SG)
 ተጋበዘ	ይጋበዝ	V;IMP;NOM(MASC;3,SG)
 ተጋበዘ	ይጋበዝ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተጋጠመ	መጋጠም	V.MSDR
+ተጋጠመ	መጋጠም	V.MSDR;
 ተጋጠመ	ተጋጠመ	V;PFV;NOM(MASC;3,SG)
 ተጋጠመ	ተጋጥሞ	V.CVB;NOM(MASC;3,SG)
 ተጋጠመ	ተጋጥሟል	V;PRF;NOM(MASC;3,SG)
@@ -20008,7 +20008,7 @@
 ተጋጣሚ	ተጋጣምያቸው	N;LGSPEC1;PSS(3,PL)
 ተጋጣሚ	ተጋጣምያችሁ	N;LGSPEC1;PSS(2,PL)
 ተጋጣሚ	ተጋጣምያችን	N;LGSPEC1;PSS(1,PL)
-ተጋጨ	መጋጨት	V.MSDR
+ተጋጨ	መጋጨት	V.MSDR;
 ተጋጨ	ተጋጨ	V;PFV;NOM(MASC;3,SG)
 ተጋጨ	ተጋጭቶ	V.CVB;NOM(MASC;3,SG)
 ተጋጨ	ተጋጭቷል	V;PRF;NOM(MASC;3,SG)
@@ -20052,7 +20052,7 @@
 ተግባር	ተግባሮቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
 ተግባር	ተግባሯ	N;PSS(3,SG,FEM)
 ተጎዳ	ልጎዳ	V;IMP;NOM(1,SG)
-ተጎዳ	መጎዳት	V.MSDR
+ተጎዳ	መጎዳት	V.MSDR;
 ተጎዳ	ተጎዱ	V;IMP;NOM(2,PL)
 ተጎዳ	ተጎዱ	V;PFV;NOM(3,PL)
 ተጎዳ	ተጎዳ	V;IMP;NOM(MASC;2,SG)
@@ -20101,7 +20101,7 @@
 ተጎዳ	ይጎዳሉ	V;IPFV;NOM(3,PL)
 ተጎዳ	ይጎዳል	V;IPFV;NOM(MASC;3,SG)
 ተጓዘ	ልጓዝ	V;IMP;NOM(1,SG)
-ተጓዘ	መጓዝ	V.MSDR
+ተጓዘ	መጓዝ	V.MSDR;
 ተጓዘ	ተጉዘሀል	V;PRF;NOM(MASC;2,SG)
 ተጓዘ	ተጉዘህ	V.CVB;NOM(MASC;2,SG)
 ተጓዘ	ተጉዘሻል	V;PRF;NOM(FEM;2,SG)
@@ -20154,7 +20154,7 @@
 ተጓዥ	ተጓዦቹ	N;DEF;PL
 ተጓዥ	ተጓዦች	N;PL
 ተጓጓዘ	ልጓጓዝ	V;IMP;NOM(1,SG)
-ተጓጓዘ	መጓጓዝ	V.MSDR
+ተጓጓዘ	መጓጓዝ	V.MSDR;
 ተጓጓዘ	ተጓጉዘሀል	V;PRF;NOM(MASC;2,SG)
 ተጓጓዘ	ተጓጉዘህ	V.CVB;NOM(MASC;2,SG)
 ተጓጓዘ	ተጓጉዘሻል	V;PRF;NOM(FEM;2,SG)
@@ -20202,7 +20202,7 @@
 ተጓጓዘ	ይጓጓዛል	V;IPFV;NOM(MASC;3,SG)
 ተጓጓዘ	ይጓጓዝ	V;IMP;NOM(MASC;3,SG)
 ተጓጓዘ	ይጓጓዝ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተጠመቀ	መጠመቅ	V.MSDR
+ተጠመቀ	መጠመቅ	V.MSDR;
 ተጠመቀ	ተጠመቀ	V;PFV;NOM(MASC;3,SG)
 ተጠመቀ	ተጠምቆ	V.CVB;NOM(MASC;3,SG)
 ተጠመቀ	ተጠምቋል	V;PRF;NOM(MASC;3,SG)
@@ -20210,7 +20210,7 @@
 ተጠመቀ	ይጠመቅ	V;IMP;NOM(MASC;3,SG)
 ተጠመቀ	ይጠመቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተጠረጠረ	ልጠርጠር	V;IMP;NOM(1,SG)
-ተጠረጠረ	መጠርጠር	V.MSDR
+ተጠረጠረ	መጠርጠር	V.MSDR;
 ተጠረጠረ	ተጠረጠረ	V;PFV;NOM(MASC;3,SG)
 ተጠረጠረ	ተጠረጠረች	V;PFV;NOM(FEM;3,SG)
 ተጠረጠረ	ተጠረጠሩ	V;PFV;NOM(3,PL)
@@ -20264,7 +20264,7 @@
 ተጠሪ	ተጠሪዎቹ	N;DEF;PL
 ተጠሪ	ተጠሪዎች	N;PL
 ተጠራ	ልጠራ	V;IMP;NOM(1,SG)
-ተጠራ	መጠራት	V.MSDR
+ተጠራ	መጠራት	V.MSDR;
 ተጠራ	ተጠሩ	V;IMP;NOM(2,PL)
 ተጠራ	ተጠሩ	V;PFV;NOM(3,PL)
 ተጠራ	ተጠሪ	V;IMP;NOM(FEM;2,SG)
@@ -20313,7 +20313,7 @@
 ተጠራ	ይጠራሉ	V;IPFV;NOM(3,PL)
 ተጠራ	ይጠራል	V;IPFV;NOM(MASC;3,SG)
 ተጠራጠረ	ልጠራጠር	V;IMP;NOM(1,SG)
-ተጠራጠረ	መጠራጠር	V.MSDR
+ተጠራጠረ	መጠራጠር	V.MSDR;
 ተጠራጠረ	ተጠራጠረ	V;PFV;NOM(MASC;3,SG)
 ተጠራጠረ	ተጠራጠረች	V;PFV;NOM(FEM;3,SG)
 ተጠራጠረ	ተጠራጠሩ	V;IMP;NOM(2,PL)
@@ -20362,7 +20362,7 @@
 ተጠራጠረ	ይጠራጠር	V;IMP;NOM(MASC;3,SG)
 ተጠራጠረ	ይጠራጠር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተጠቀመ	ልጠቀም	V;IMP;NOM(1,SG)
-ተጠቀመ	መጠቀም	V.MSDR
+ተጠቀመ	መጠቀም	V.MSDR;
 ተጠቀመ	ተጠቀመ	V;PFV;NOM(MASC;3,SG)
 ተጠቀመ	ተጠቀመች	V;PFV;NOM(FEM;3,SG)
 ተጠቀመ	ተጠቀሙ	V;IMP;NOM(2,PL)
@@ -20410,7 +20410,7 @@
 ተጠቀመ	ይጠቀማል	V;IPFV;NOM(MASC;3,SG)
 ተጠቀመ	ይጠቀም	V;IMP;NOM(MASC;3,SG)
 ተጠቀመ	ይጠቀም	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተጠቀሰ	መጠቀስ	V.MSDR
+ተጠቀሰ	መጠቀስ	V.MSDR;
 ተጠቀሰ	ተጠቀሰ	V;PFV;NOM(MASC;3,SG)
 ተጠቀሰ	ተጠቅሶ	V.CVB;NOM(MASC;3,SG)
 ተጠቀሰ	ተጠቅሷል	V;PRF;NOM(MASC;3,SG)
@@ -20422,7 +20422,7 @@
 ተጠቂ	ተጠቂዎቹ	N;DEF;PL
 ተጠቂ	ተጠቂዎች	N;PL
 ተጠቃ	ልጠቃ	V;IMP;NOM(1,SG)
-ተጠቃ	መጠቃት	V.MSDR
+ተጠቃ	መጠቃት	V.MSDR;
 ተጠቃ	ተጠቁ	V;IMP;NOM(2,PL)
 ተጠቃ	ተጠቁ	V;PFV;NOM(3,PL)
 ተጠቃ	ተጠቂ	V;IMP;NOM(FEM;2,SG)
@@ -20470,7 +20470,7 @@
 ተጠቃ	ይጠቃ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተጠቃ	ይጠቃሉ	V;IPFV;NOM(3,PL)
 ተጠቃ	ይጠቃል	V;IPFV;NOM(MASC;3,SG)
-ተጠቃለለ	መጠቃለል	V.MSDR
+ተጠቃለለ	መጠቃለል	V.MSDR;
 ተጠቃለለ	ተጠቃለለ	V;PFV;NOM(MASC;3,SG)
 ተጠቃለለ	ተጠቃልሎ	V.CVB;NOM(MASC;3,SG)
 ተጠቃለለ	ተጠቃልሏል	V;PRF;NOM(MASC;3,SG)
@@ -20482,15 +20482,15 @@
 ተጠቃሚ	ተጠቃሚው	N;DEF;MASC
 ተጠቃሚ	ተጠቃሚዎቹ	N;DEF;PL
 ተጠቃሚ	ተጠቃሚዎች	N;PL
-ተጠበቀ	መጠበቅ	V.MSDR
+ተጠበቀ	መጠበቅ	V.MSDR;
 ተጠበቀ	ተጠበቀ	V;PFV;NOM(MASC;3,SG)
 ተጠበቀ	ተጠብቆ	V.CVB;NOM(MASC;3,SG)
 ተጠበቀ	ተጠብቋል	V;PRF;NOM(MASC;3,SG)
 ተጠበቀ	ይጠበቃል	V;IPFV;NOM(MASC;3,SG)
 ተጠበቀ	ይጠበቅ	V;IMP;NOM(MASC;3,SG)
 ተጠበቀ	ይጠበቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተጠባበቀ	መጠባበቅ	V.MSDR
-ተጠባበቀ	መጠባበቅ	V.MSDR
+ተጠባበቀ	መጠባበቅ	V.MSDR;
+ተጠባበቀ	መጠባበቅ	V.MSDR;
 ተጠባበቀ	ተጠባበቁ	V;IMP;NOM(2,PL)
 ተጠባበቀ	ተጠባበቁ	V;IMP;NOM(2,PL)
 ተጠባበቀ	ተጠባበቁ	V;PFV;NOM(3,PL)
@@ -20531,21 +20531,21 @@
 ተጠባባቂ	ተጠባባቂው	N;DEF;MASC
 ተጠባባቂ	ተጠባባቂዎቹ	N;DEF;PL
 ተጠባባቂ	ተጠባባቂዎች	N;PL
-ተጠነቀቀ	መጠንቀቅ	V.MSDR
+ተጠነቀቀ	መጠንቀቅ	V.MSDR;
 ተጠነቀቀ	ተጠነቀቀ	V;PFV;NOM(MASC;3,SG)
 ተጠነቀቀ	ተጠንቅቆ	V.CVB;NOM(MASC;3,SG)
 ተጠነቀቀ	ተጠንቅቋል	V;PRF;NOM(MASC;3,SG)
 ተጠነቀቀ	ይጠነቀቃል	V;IPFV;NOM(MASC;3,SG)
 ተጠነቀቀ	ይጠነቀቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተጠነቀቀ	ይጠንቀቅ	V;IMP;NOM(MASC;3,SG)
-ተጠናቀቀ	መጠናቀቅ	V.MSDR
+ተጠናቀቀ	መጠናቀቅ	V.MSDR;
 ተጠናቀቀ	ተጠናቀቀ	V;PFV;NOM(MASC;3,SG)
 ተጠናቀቀ	ተጠናቅቆ	V.CVB;NOM(MASC;3,SG)
 ተጠናቀቀ	ተጠናቅቋል	V;PRF;NOM(MASC;3,SG)
 ተጠናቀቀ	ይጠናቀቃል	V;IPFV;NOM(MASC;3,SG)
 ተጠናቀቀ	ይጠናቀቅ	V;IMP;NOM(MASC;3,SG)
 ተጠናቀቀ	ይጠናቀቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተጠናከረ	መጠናከር	V.MSDR
+ተጠናከረ	መጠናከር	V.MSDR;
 ተጠናከረ	ተጠናከረ	V;PFV;NOM(MASC;3,SG)
 ተጠናከረ	ተጠናክሮ	V.CVB;NOM(MASC;3,SG)
 ተጠናከረ	ተጠናክሯል	V;PRF;NOM(MASC;3,SG)
@@ -20553,7 +20553,7 @@
 ተጠናከረ	ይጠናከር	V;IMP;NOM(MASC;3,SG)
 ተጠናከረ	ይጠናከር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተጠየቀ	ልጠየቅ	V;IMP;NOM(1,SG)
-ተጠየቀ	መጠየቅ	V.MSDR
+ተጠየቀ	መጠየቅ	V.MSDR;
 ተጠየቀ	ተጠየቀ	V;PFV;NOM(MASC;3,SG)
 ተጠየቀ	ተጠየቀች	V;PFV;NOM(FEM;3,SG)
 ተጠየቀ	ተጠየቁ	V;IMP;NOM(2,PL)
@@ -20602,7 +20602,7 @@
 ተጠየቀ	ይጠየቅ	V;IMP;NOM(MASC;3,SG)
 ተጠየቀ	ይጠየቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተጠጋ	ልጠጋ	V;IMP;NOM(1,SG)
-ተጠጋ	መጠጋት	V.MSDR
+ተጠጋ	መጠጋት	V.MSDR;
 ተጠጋ	ተጠጉ	V;IMP;NOM(2,PL)
 ተጠጋ	ተጠጉ	V;PFV;NOM(3,PL)
 ተጠጋ	ተጠጊ	V;IMP;NOM(FEM;2,SG)
@@ -20651,7 +20651,7 @@
 ተጠጋ	ይጠጋሉ	V;IPFV;NOM(3,PL)
 ተጠጋ	ይጠጋል	V;IPFV;NOM(MASC;3,SG)
 ተጣለ	ልጣል	V;IMP;NOM(1,SG)
-ተጣለ	መጣል	V.MSDR
+ተጣለ	መጣል	V.MSDR;
 ተጣለ	ተጣለ	V;PFV;NOM(MASC;3,SG)
 ተጣለ	ተጣለች	V;PFV;NOM(FEM;3,SG)
 ተጣለ	ተጣሉ	V;IMP;NOM(2,PL)
@@ -20700,7 +20700,7 @@
 ተጣለ	ይጣል	V;IMP;NOM(MASC;3,SG)
 ተጣለ	ይጣል	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተጣላ	ልጣላ	V;IMP;NOM(1,SG)
-ተጣላ	መጣላት	V.MSDR
+ተጣላ	መጣላት	V.MSDR;
 ተጣላ	ተጣሉ	V;IMP;NOM(2,PL)
 ተጣላ	ተጣሉ	V;PFV;NOM(3,PL)
 ተጣላ	ተጣላ	V;IMP;NOM(MASC;2,SG)
@@ -20752,14 +20752,14 @@
 ተጣማሪ	ተጣማሪው	N;DEF;MASC
 ተጣማሪ	ተጣማሪዎቹ	N;DEF;PL
 ተጣማሪ	ተጣማሪዎች	N;PL
-ተጣራ	መጣራት	V.MSDR
+ተጣራ	መጣራት	V.MSDR;
 ተጣራ	ተጣራ	V;PFV;NOM(MASC;3,SG)
 ተጣራ	ተጣርቶ	V.CVB;NOM(MASC;3,SG)
 ተጣራ	ተጣርቷል	V;PRF;NOM(MASC;3,SG)
 ተጣራ	ይጣራ	V;IMP;NOM(MASC;3,SG)
 ተጣራ	ይጣራ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተጣራ	ይጣራል	V;IPFV;NOM(MASC;3,SG)
-ተጨመረ	መጨመር	V.MSDR
+ተጨመረ	መጨመር	V.MSDR;
 ተጨመረ	ተጨመረ	V;PFV;NOM(MASC;3,SG)
 ተጨመረ	ተጨምሮ	V.CVB;NOM(MASC;3,SG)
 ተጨመረ	ተጨምሯል	V;PRF;NOM(MASC;3,SG)
@@ -20770,7 +20770,7 @@
 ተጨማሪ	ተጨማሪዋ	ADJ;DEF;FEM
 ተጨማሪ	ተጨማሪው	ADJ;DEF;MASC
 ተጨነቀ	ልጨነቅ	V;IMP;NOM(1,SG)
-ተጨነቀ	መጨነቅ	V.MSDR
+ተጨነቀ	መጨነቅ	V.MSDR;
 ተጨነቀ	ተጨነቀ	V;PFV;NOM(MASC;3,SG)
 ተጨነቀ	ተጨነቀች	V;PFV;NOM(FEM;3,SG)
 ተጨነቀ	ተጨነቁ	V;IMP;NOM(2,PL)
@@ -20819,7 +20819,7 @@
 ተጨነቀ	ይጨነቅ	V;IMP;NOM(MASC;3,SG)
 ተጨነቀ	ይጨነቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተጫነ	ልጫን	V;IMP;NOM(1,SG)
-ተጫነ	መጫን	V.MSDR
+ተጫነ	መጫን	V.MSDR;
 ተጫነ	ተጫነ	V;PFV;NOM(MASC;3,SG)
 ተጫነ	ተጫነች	V;PFV;NOM(FEM;3,SG)
 ተጫነ	ተጫኑ	V;IMP;NOM(2,PL)
@@ -20868,7 +20868,7 @@
 ተጫነ	ይጫን	V;IMP;NOM(MASC;3,SG)
 ተጫነ	ይጫን	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተጫወተ	ልጫወት	V;IMP;NOM(1,SG)
-ተጫወተ	መጫወት	V.MSDR
+ተጫወተ	መጫወት	V.MSDR;
 ተጫወተ	ተጫወተ	V;PFV;NOM(MASC;3,SG)
 ተጫወተ	ተጫወተች	V;PFV;NOM(FEM;3,SG)
 ተጫወተ	ተጫወቱ	V;IMP;NOM(2,PL)
@@ -20916,7 +20916,7 @@
 ተጫወተ	ይጫወታል	V;IPFV;NOM(MASC;3,SG)
 ተጫወተ	ይጫወት	V;IMP;NOM(MASC;3,SG)
 ተጫወተ	ይጫወት	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተጻፈ	መጻፍ	V.MSDR
+ተጻፈ	መጻፍ	V.MSDR;
 ተጻፈ	ተጻፈ	V;PFV;NOM(MASC;3,SG)
 ተጻፈ	ተጽፎ	V.CVB;NOM(MASC;3,SG)
 ተጻፈ	ተጽፏል	V;PRF;NOM(MASC;3,SG)
@@ -20924,7 +20924,7 @@
 ተጻፈ	ይጻፍ	V;IMP;NOM(MASC;3,SG)
 ተጻፈ	ይጻፍ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተፈለገ	ልፈለግ	V;IMP;NOM(1,SG)
-ተፈለገ	መፈለግ	V.MSDR
+ተፈለገ	መፈለግ	V.MSDR;
 ተፈለገ	ተፈለገ	V;PFV;NOM(MASC;3,SG)
 ተፈለገ	ተፈለገች	V;PFV;NOM(FEM;3,SG)
 ተፈለገ	ተፈለጉ	V;IMP;NOM(2,PL)
@@ -20977,14 +20977,14 @@
 ተፈላጊ	ተፈላጊው	ADJ;DEF;MASC
 ተፈላጊ	ተፈላጊዎቹ	ADJ;DEF;PL
 ተፈላጊ	ተፈላጊዎች	ADJ;PL
-ተፈረመ	መፈረም	V.MSDR
+ተፈረመ	መፈረም	V.MSDR;
 ተፈረመ	ተፈረመ	V;PFV;NOM(MASC;3,SG)
 ተፈረመ	ተፈርሞ	V.CVB;NOM(MASC;3,SG)
 ተፈረመ	ተፈርሟል	V;PRF;NOM(MASC;3,SG)
 ተፈረመ	ይፈረማል	V;IPFV;NOM(MASC;3,SG)
 ተፈረመ	ይፈረም	V;IMP;NOM(MASC;3,SG)
 ተፈረመ	ይፈረም	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተፈረደ	መፈረድ	V.MSDR
+ተፈረደ	መፈረድ	V.MSDR;
 ተፈረደ	ተፈረደ	V;PFV;NOM(MASC;3,SG)
 ተፈረደ	ተፈርዶ	V.CVB;NOM(MASC;3,SG)
 ተፈረደ	ተፈርዷል	V;PRF;NOM(MASC;3,SG)
@@ -20992,7 +20992,7 @@
 ተፈረደ	ይፈረድ	V;IMP;NOM(MASC;3,SG)
 ተፈረደ	ይፈረድ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተፈራ	ልፈራ	V;IMP;NOM(1,SG)
-ተፈራ	መፈራት	V.MSDR
+ተፈራ	መፈራት	V.MSDR;
 ተፈራ	ተፈሩ	V;IMP;NOM(2,PL)
 ተፈራ	ተፈሩ	V;PFV;NOM(3,PL)
 ተፈራ	ተፈሪ	V;IMP;NOM(FEM;2,SG)
@@ -21040,7 +21040,7 @@
 ተፈራ	ይፈራ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተፈራ	ይፈራሉ	V;IPFV;NOM(3,PL)
 ተፈራ	ይፈራል	V;IPFV;NOM(MASC;3,SG)
-ተፈራረመ	መፈራረም	V.MSDR
+ተፈራረመ	መፈራረም	V.MSDR;
 ተፈራረመ	ተፈራረሙ	V;IMP;NOM(2,PL)
 ተፈራረመ	ተፈራረሙ	V;PFV;NOM(3,PL)
 ተፈራረመ	ተፈራረማችሁ	V;PFV;NOM(2,PL)
@@ -21059,7 +21059,7 @@
 ተፈራረመ	ይፈራረሙ	V;IMP;NOM(3,PL)
 ተፈራረመ	ይፈራረሙ	V;IPFV;NFIN;NOM(3,PL)
 ተፈራረመ	ይፈራረማሉ	V;IPFV;NOM(3,PL)
-ተፈቀደ	መፈቀድ	V.MSDR
+ተፈቀደ	መፈቀድ	V.MSDR;
 ተፈቀደ	ተፈቀደ	V;PFV;NOM(MASC;3,SG)
 ተፈቀደ	ተፈቅዶ	V.CVB;NOM(MASC;3,SG)
 ተፈቀደ	ተፈቅዷል	V;PRF;NOM(MASC;3,SG)
@@ -21067,7 +21067,7 @@
 ተፈቀደ	ይፈቀድ	V;IMP;NOM(MASC;3,SG)
 ተፈቀደ	ይፈቀድ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተፈታ	ልፈታ	V;IMP;NOM(1,SG)
-ተፈታ	መፈታት	V.MSDR
+ተፈታ	መፈታት	V.MSDR;
 ተፈታ	ተፈቱ	V;IMP;NOM(2,PL)
 ተፈታ	ተፈቱ	V;PFV;NOM(3,PL)
 ተፈታ	ተፈታ	V;IMP;NOM(MASC;2,SG)
@@ -21115,21 +21115,21 @@
 ተፈታ	ይፈታ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ተፈታ	ይፈታሉ	V;IPFV;NOM(3,PL)
 ተፈታ	ይፈታል	V;IPFV;NOM(MASC;3,SG)
-ተፈናቀለ	መፈናቀል	V.MSDR
+ተፈናቀለ	መፈናቀል	V.MSDR;
 ተፈናቀለ	ተፈናቀለ	V;PFV;NOM(MASC;3,SG)
 ተፈናቀለ	ተፈናቅሎ	V.CVB;NOM(MASC;3,SG)
 ተፈናቀለ	ተፈናቅሏል	V;PRF;NOM(MASC;3,SG)
 ተፈናቀለ	ይፈናቀላል	V;IPFV;NOM(MASC;3,SG)
 ተፈናቀለ	ይፈናቀል	V;IMP;NOM(MASC;3,SG)
 ተፈናቀለ	ይፈናቀል	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተፈጀ	መፈጀት	V.MSDR
+ተፈጀ	መፈጀት	V.MSDR;
 ተፈጀ	ተፈጀ	V;PFV;NOM(MASC;3,SG)
 ተፈጀ	ተፈጅቶ	V.CVB;NOM(MASC;3,SG)
 ተፈጀ	ተፈጅቷል	V;PRF;NOM(MASC;3,SG)
 ተፈጀ	ይፈጃል	V;IPFV;NOM(MASC;3,SG)
 ተፈጀ	ይፈጅ	V;IMP;NOM(MASC;3,SG)
 ተፈጀ	ይፈጅ	V;IPFV;NFIN;NOM(MASC;3,SG)
-ተፈጠረ	መፈጠር	V.MSDR
+ተፈጠረ	መፈጠር	V.MSDR;
 ተፈጠረ	ተፈጠረ	V;PFV;NOM(MASC;3,SG)
 ተፈጠረ	ተፈጥሮ	V.CVB;NOM(MASC;3,SG)
 ተፈጠረ	ተፈጥሯል	V;PRF;NOM(MASC;3,SG)
@@ -21150,7 +21150,7 @@
 ተፈጥሮ	ተፈጥሮው	N;PSS(3,SG,MASC)
 ተፈጥሮ	ተፈጥሮዎ	N;PSS(2,SG,FORM)
 ተፈጥሮ	ተፈጥሮዬ	N;PSS(1,SG)
-ተፈጸመ	መፈፀም	V.MSDR
+ተፈጸመ	መፈፀም	V.MSDR;
 ተፈጸመ	ተፈፀመ	V;PFV;NOM(MASC;3,SG)
 ተፈጸመ	ተፈፅሞ	V.CVB;NOM(MASC;3,SG)
 ተፈጸመ	ተፈፅሟል	V;PRF;NOM(MASC;3,SG)
@@ -21206,7 +21206,7 @@
 ታላቅ	ታላቋ	N;DEF;FEM;LGSPEC1
 ታላቅ	ታላቋ	N;PSS(3,SG,FEM)
 ታመመ	ልታመም	V;IMP;NOM(1,SG)
-ታመመ	መታመም	V.MSDR
+ታመመ	መታመም	V.MSDR;
 ታመመ	ታመሀል	V;PRF;NOM(MASC;2,SG)
 ታመመ	ታመህ	V.CVB;NOM(MASC;2,SG)
 ታመመ	ታመመ	V;PFV;NOM(MASC;3,SG)
@@ -21255,7 +21255,7 @@
 ታመመ	ይታመም	V;IMP;NOM(MASC;3,SG)
 ታመመ	ይታመም	V;IPFV;NFIN;NOM(MASC;3,SG)
 ታመነ	ልታመን	V;IMP;NOM(1,SG)
-ታመነ	መታመን	V.MSDR
+ታመነ	መታመን	V.MSDR;
 ታመነ	ታመነ	V;PFV;NOM(MASC;3,SG)
 ታመነ	ታመነች	V;PFV;NOM(FEM;3,SG)
 ታመነ	ታመኑ	V;IMP;NOM(2,PL)
@@ -21313,7 +21313,7 @@
 ታምር	ታምራት	N;PL
 ታምር	ታምር	N
 ታረቀ	ልታረቅ	V;IMP;NOM(1,SG)
-ታረቀ	መታረቅ	V.MSDR
+ታረቀ	መታረቅ	V.MSDR;
 ታረቀ	ታረቀ	V;PFV;NOM(MASC;3,SG)
 ታረቀ	ታረቀች	V;PFV;NOM(FEM;3,SG)
 ታረቀ	ታረቁ	V;IMP;NOM(2,PL)
@@ -21388,7 +21388,7 @@
 ታሪክ	ታሪኳ	N;DEF;FEM
 ታሪክ	ታሪኳ	N;PSS(3,SG,FEM)
 ታሰረ	ልታሰር	V;IMP;NOM(1,SG)
-ታሰረ	መታሰር	V.MSDR
+ታሰረ	መታሰር	V.MSDR;
 ታሰረ	ታሰረ	V;PFV;NOM(MASC;3,SG)
 ታሰረ	ታሰረች	V;PFV;NOM(FEM;3,SG)
 ታሰረ	ታሰሩ	V;IMP;NOM(2,PL)
@@ -21436,7 +21436,7 @@
 ታሰረ	ይታሰራል	V;IPFV;NOM(MASC;3,SG)
 ታሰረ	ይታሰር	V;IMP;NOM(MASC;3,SG)
 ታሰረ	ይታሰር	V;IPFV;NFIN;NOM(MASC;3,SG)
-ታሰበ	መታሰብ	V.MSDR
+ታሰበ	መታሰብ	V.MSDR;
 ታሰበ	ታሰበ	V;PFV;NOM(MASC;3,SG)
 ታሰበ	ታስቦ	V.CVB;NOM(MASC;3,SG)
 ታሰበ	ታስቧል	V;PRF;NOM(MASC;3,SG)
@@ -21481,7 +21481,7 @@
 ታክሲ	ታክሲዎቹ	N;DEF;PL
 ታክሲ	ታክሲዎች	N;PL
 ታወቀ	ልታወቅ	V;IMP;NOM(1,SG)
-ታወቀ	መታወቅ	V.MSDR
+ታወቀ	መታወቅ	V.MSDR;
 ታወቀ	ታወቀ	V;PFV;NOM(MASC;3,SG)
 ታወቀ	ታወቀች	V;PFV;NOM(FEM;3,SG)
 ታወቀ	ታወቁ	V;IMP;NOM(2,PL)
@@ -21530,7 +21530,7 @@
 ታወቀ	ይታወቅ	V;IMP;NOM(MASC;3,SG)
 ታወቀ	ይታወቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ታወከ	ልታወክ	V;IMP;NOM(1,SG)
-ታወከ	መታወክ	V.MSDR
+ታወከ	መታወክ	V.MSDR;
 ታወከ	ታወከ	V;PFV;NOM(MASC;3,SG)
 ታወከ	ታወከች	V;PFV;NOM(FEM;3,SG)
 ታወከ	ታወኩ	V;IMP;NOM(2,PL)
@@ -21584,7 +21584,7 @@
 ታዋቂ	ታዋቂዎቹ	ADJ;DEF;PL
 ታዋቂ	ታዋቂዎች	ADJ;PL
 ታዘዘ	ልታዘዝ	V;IMP;NOM(1,SG)
-ታዘዘ	መታዘዝ	V.MSDR
+ታዘዘ	መታዘዝ	V.MSDR;
 ታዘዘ	ታዘሀል	V;PRF;NOM(MASC;2,SG)
 ታዘዘ	ታዘህ	V.CVB;NOM(MASC;2,SG)
 ታዘዘ	ታዘሻል	V;PRF;NOM(FEM;2,SG)
@@ -21633,7 +21633,7 @@
 ታዘዘ	ይታዘዝ	V;IMP;NOM(MASC;3,SG)
 ታዘዘ	ይታዘዝ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ታየ	ልታይ	V;IMP;NOM(1,SG)
-ታየ	መታየት	V.MSDR
+ታየ	መታየት	V.MSDR;
 ታየ	ታየ	V;PFV;NOM(MASC;3,SG)
 ታየ	ታየሁ	V;PFV;NOM(1,SG)
 ታየ	ታየህ	V;PFV;NOM(MASC;2,SG)
@@ -21682,7 +21682,7 @@
 ታየ	ይታይ	V;IMP;NOM(MASC;3,SG)
 ታየ	ይታይ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ታደለ	ልታደል	V;IMP;NOM(1,SG)
-ታደለ	መታደል	V.MSDR
+ታደለ	መታደል	V.MSDR;
 ታደለ	ታደለ	V;PFV;NOM(MASC;3,SG)
 ታደለ	ታደለች	V;PFV;NOM(FEM;3,SG)
 ታደለ	ታደሉ	V;IMP;NOM(2,PL)
@@ -21730,7 +21730,7 @@
 ታደለ	ይታደላል	V;IPFV;NOM(MASC;3,SG)
 ታደለ	ይታደል	V;IMP;NOM(MASC;3,SG)
 ታደለ	ይታደል	V;IPFV;NFIN;NOM(MASC;3,SG)
-ታደሰ	መታደስ	V.MSDR
+ታደሰ	መታደስ	V.MSDR;
 ታደሰ	ታደሰ	V;PFV;NOM(MASC;3,SG)
 ታደሰ	ታድሶ	V.CVB;NOM(MASC;3,SG)
 ታደሰ	ታድሷል	V;PRF;NOM(MASC;3,SG)
@@ -21743,7 +21743,7 @@
 ታዳጊ	ታዳጊዎቹ	ADJ;DEF;PL
 ታዳጊ	ታዳጊዎች	ADJ;PL
 ታገደ	ልታገድ	V;IMP;NOM(1,SG)
-ታገደ	መታገድ	V.MSDR
+ታገደ	መታገድ	V.MSDR;
 ታገደ	ታገደ	V;PFV;NOM(MASC;3,SG)
 ታገደ	ታገደች	V;PFV;NOM(FEM;3,SG)
 ታገደ	ታገዱ	V;IMP;NOM(2,PL)
@@ -21796,7 +21796,7 @@
 ታጋይ	ታጋዮቹ	N;DEF;PL
 ታጋይ	ታጋዮች	N;PL
 ታጠቀ	ልታጠቅ	V;IMP;NOM(1,SG)
-ታጠቀ	መታጠቅ	V.MSDR
+ታጠቀ	መታጠቅ	V.MSDR;
 ታጠቀ	ታጠቀ	V;PFV;NOM(MASC;3,SG)
 ታጠቀ	ታጠቀች	V;PFV;NOM(FEM;3,SG)
 ታጠቀ	ታጠቁ	V;IMP;NOM(2,PL)
@@ -21845,7 +21845,7 @@
 ታጠቀ	ይታጠቅ	V;IMP;NOM(MASC;3,SG)
 ታጠቀ	ይታጠቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ታጠበ	ልታጠብ	V;IMP;NOM(1,SG)
-ታጠበ	መታጠብ	V.MSDR
+ታጠበ	መታጠብ	V.MSDR;
 ታጠበ	ታጠበ	V;PFV;NOM(MASC;3,SG)
 ታጠበ	ታጠበች	V;PFV;NOM(FEM;3,SG)
 ታጠበ	ታጠቡ	V;IMP;NOM(2,PL)
@@ -22334,7 +22334,7 @@
 ቸርነት	ቸርነትዎ	N;PSS(2,SG,FORM)
 ቸርነት	ቸርነቷ	N;PSS(3,SG,FEM)
 ቻለ	ልቻል	V;IMP;NOM(1,SG)
-ቻለ	መቻል	V.MSDR
+ቻለ	መቻል	V.MSDR;
 ቻለ	ትቻል	V;IMP;NOM(FEM;3,SG)
 ቻለ	ትችሉ	V;IPFV;NFIN;NOM(2,PL)
 ቻለ	ትችላለህ	V;IPFV;NOM(MASC;2,SG)
@@ -22556,7 +22556,7 @@
 ነርስ	ነርሶች	N;PL
 ነርስ	ነርሷ	N;DEF;FEM
 ነሳ	ልንሣ	V;IMP;NOM(1,SG)
-ነሳ	መንሣት	V.MSDR
+ነሳ	መንሣት	V.MSDR;
 ነሳ	ትነሡ	V;IPFV;NFIN;NOM(2,PL)
 ነሳ	ትነሣ	V;IPFV;NFIN;NOM(MASC;2,SG)
 ነሳ	ትነሣ	V;IPFV;NFIN;NOM(FEM;3,SG)
@@ -22607,7 +22607,7 @@
 ነቀርሳ	ነቀርሳ	N
 ነቀርሳ	ነቀርሳው	N;DEF;MASC
 ነቀፈ	ልንቀፍ	V;IMP;NOM(1,SG)
-ነቀፈ	መንቀፍ	V.MSDR
+ነቀፈ	መንቀፍ	V.MSDR;
 ነቀፈ	ትነቅፉ	V;IPFV;NFIN;NOM(2,PL)
 ነቀፈ	ትነቅፊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ነቀፈ	ትነቅፊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -22656,7 +22656,7 @@
 ነቀፈ	ይንቀፉ	V;IMP;NOM(3,PL)
 ነቀፈ	ይንቀፍ	V;IMP;NOM(MASC;3,SG)
 ነቃ	ልንቃ	V;IMP;NOM(1,SG)
-ነቃ	መንቃት	V.MSDR
+ነቃ	መንቃት	V.MSDR;
 ነቃ	ትነቁ	V;IPFV;NFIN;NOM(2,PL)
 ነቃ	ትነቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ነቃ	ትነቂያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -22719,7 +22719,7 @@
 ነብር	ነብሩ	N;DEF;MASC
 ነብር	ነብር	N
 ነካ	ልንካ	V;IMP;NOM(1,SG)
-ነካ	መንካት	V.MSDR
+ነካ	መንካት	V.MSDR;
 ነካ	ትነኩ	V;IPFV;NFIN;NOM(2,PL)
 ነካ	ትነኪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ነካ	ትነኪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -22774,10 +22774,10 @@
 ነው	ነኝ	V;PRS;NOM(1,SG)
 ነው	ነው	V;PRS;NOM(MASC;3,SG)
 ነው	ነዎት	V;PRS;NOM(MASC;2,SG)
-ነው	ናት	V;PRS;NOM(FEM;LGSPEC1;3,SG)
+ነው	ናት	V;PRS;LGSPEC1;NOM(FEM;3,SG)
 ነው	ናቸው	V;PRS;NOM(3,PL)
 ነው	ናችኍ	V;PRS;NOM(2,PL)
-ነደደ	መንደድ	V.MSDR
+ነደደ	መንደድ	V.MSDR;
 ነደደ	ነደደ	V;PFV;NOM(MASC;3,SG)
 ነደደ	ነዶ	V.CVB;NOM(MASC;3,SG)
 ነደደ	ነዷል	V;PRF;NOM(MASC;3,SG)
@@ -22785,7 +22785,7 @@
 ነደደ	ይነድ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ነደደ	ይንደድ	V;IMP;NOM(MASC;3,SG)
 ነደፈ	ልንደፍ	V;IMP;NOM(1,SG)
-ነደፈ	መንደፍ	V.MSDR
+ነደፈ	መንደፍ	V.MSDR;
 ነደፈ	ትነድፉ	V;IPFV;NFIN;NOM(2,PL)
 ነደፈ	ትነድፊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ነደፈ	ትነድፊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -22836,7 +22836,7 @@
 ነገ	ነገ	N
 ነገ	ነገው	N;DEF;MASC
 ነገረ	ልንገር	V;IMP;NOM(1,SG)
-ነገረ	መንገር	V.MSDR
+ነገረ	መንገር	V.MSDR;
 ነገረ	ትነግሩ	V;IPFV;NFIN;NOM(2,PL)
 ነገረ	ትነግሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ነገረ	ትነግሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -22907,7 +22907,7 @@
 ነገር	ነገሮቿ	N;PL;PSS(3,SG,FEM)
 ነገር	ነገሯ	N;DEF;FEM
 ነገር	ነገሯ	N;PSS(3,SG,FEM)
-ነገሰ	መንገሥ	V.MSDR
+ነገሰ	መንገሥ	V.MSDR;
 ነገሰ	ነገሠ	V;PFV;NOM(MASC;3,SG)
 ነገሰ	ነግሦ	V.CVB;NOM(MASC;3,SG)
 ነገሰ	ነግሷል	V;PRF;NOM(MASC;3,SG)
@@ -22915,7 +22915,7 @@
 ነገሰ	ይነግሥ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ነገሰ	ይንገሥ	V;IMP;NOM(MASC;3,SG)
 ነገደ	ልንገድ	V;IMP;NOM(1,SG)
-ነገደ	መንገድ	V.MSDR
+ነገደ	መንገድ	V.MSDR;
 ነገደ	ትነግዱ	V;IPFV;NFIN;NOM(2,PL)
 ነገደ	ትነግዳለህ	V;IPFV;NOM(MASC;2,SG)
 ነገደ	ትነግዳለች	V;IPFV;NOM(FEM;3,SG)
@@ -22963,7 +22963,7 @@
 ነገደ	ይነግድ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ነገደ	ይንገዱ	V;IMP;NOM(3,PL)
 ነገደ	ይንገድ	V;IMP;NOM(MASC;3,SG)
-ነጋ	መንጋት	V.MSDR
+ነጋ	መንጋት	V.MSDR;
 ነጋ	ነጋ	V;PFV;NOM(MASC;3,SG)
 ነጋ	ነግቶ	V.CVB;NOM(MASC;3,SG)
 ነጋ	ነግቷል	V;PRF;NOM(MASC;3,SG)
@@ -23069,7 +23069,7 @@
 ነፃነት	ነፃነቶቿ	N;PL;PSS(3,SG,FEM)
 ነፃነት	ነፃነቷ	N;PSS(3,SG,FEM)
 ነፋ	ልንፋ	V;IMP;NOM(1,SG)
-ነፋ	መንፋት	V.MSDR
+ነፋ	መንፋት	V.MSDR;
 ነፋ	ትነፉ	V;IPFV;NFIN;NOM(2,PL)
 ነፋ	ትነፊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ነፋ	ትነፊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -23184,7 +23184,7 @@
 ናስ	ናሱ	N;DEF;MASC
 ናስ	ናስ	N
 ናቀ	ልናቅ	V;IMP;NOM(1,SG)
-ናቀ	መናቅ	V.MSDR
+ናቀ	መናቅ	V.MSDR;
 ናቀ	ትናቅ	V;IMP;NOM(FEM;3,SG)
 ናቀ	ትንቁ	V;IPFV;NFIN;NOM(2,PL)
 ናቀ	ትንቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
@@ -23233,7 +23233,7 @@
 ናቀ	ይንቃል	V;IPFV;NOM(MASC;3,SG)
 ናቀ	ይንቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ናፈቀ	ልናፍቅ	V;IMP;NOM(1,SG)
-ናፈቀ	መናፈቅ	V.MSDR
+ናፈቀ	መናፈቅ	V.MSDR;
 ናፈቀ	ትናፍቁ	V;IPFV;NFIN;NOM(2,PL)
 ናፈቀ	ትናፍቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ናፈቀ	ትናፍቂያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -23496,7 +23496,7 @@
 ንፋስ	ንፋስ	N
 ንፋስ	ንፋሶቹ	N;DEF;PL
 ኖረ	ልኑር	V;IMP;NOM(1,SG)
-ኖረ	መኖር	V.MSDR
+ኖረ	መኖር	V.MSDR;
 ኖረ	ትኑር	V;IMP;NOM(FEM;3,SG)
 ኖረ	ትኖሩ	V;IPFV;NFIN;NOM(2,PL)
 ኖረ	ትኖሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
@@ -23577,7 +23577,7 @@
 አህያ	አህዮችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 አህያ	አህዮቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
 አለ	ልበል	V;IMP;NOM(1,SG)
-አለ	ማለት	V.MSDR
+አለ	ማለት	V.MSDR;
 አለ	በሉ	V;IMP;NOM(2,PL)
 አለ	በል	V;IMP;NOM(MASC;2,SG)
 አለ	በዪ	V;IMP;NOM(FEM;2,SG)
@@ -23634,7 +23634,7 @@
 አለ	ይበሉ	V;IMP;NOM(3,PL)
 አለ	ይበል	V;IMP;NOM(MASC;3,SG)
 አለቀ	ልለቅ	V;IMP;NOM(1,SG)
-አለቀ	ማለቅ	V.MSDR
+አለቀ	ማለቅ	V.MSDR;
 አለቀ	ታልቁ	V;IPFV;NFIN;NOM(2,PL)
 አለቀ	ታልቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አለቀ	ታልቂያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -23683,7 +23683,7 @@
 አለቀ	ይለቁ	V;IMP;NOM(3,PL)
 አለቀ	ይለቅ	V;IMP;NOM(MASC;3,SG)
 አለቀሰ	ላልቅስ	V;IMP;NOM(1,SG)
-አለቀሰ	ማልቀስ	V.MSDR
+አለቀሰ	ማልቀስ	V.MSDR;
 አለቀሰ	ታለቅሱ	V;IPFV;NFIN;NOM(2,PL)
 አለቀሰ	ታለቅሳለህ	V;IPFV;NOM(MASC;2,SG)
 አለቀሰ	ታለቅሳለች	V;IPFV;NOM(FEM;3,SG)
@@ -23768,7 +23768,7 @@
 አለት	አለቶቹ	N;DEF;PL
 አለት	አለቶች	N;PL
 አለፈ	ልለፍ	V;IMP;NOM(1,SG)
-አለፈ	ማለፍ	V.MSDR
+አለፈ	ማለፍ	V.MSDR;
 አለፈ	ታልፉ	V;IPFV;NFIN;NOM(2,PL)
 አለፈ	ታልፊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አለፈ	ታልፊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -23852,7 +23852,7 @@
 አላማ	አላሞችሽ	N;PL;LGSPEC1;PSS(2,SG,FEM)
 አላማ	አላሞችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 አላማ	አላሞቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
-አላቀ	ማላቅ	V.MSDR
+አላቀ	ማላቅ	V.MSDR;
 አላቀ	አላቀ	V;PFV;NOM(MASC;3,SG)
 አላቀ	አልቆ	V.CVB;NOM(MASC;3,SG)
 አላቀ	አልቋል	V;PRF;NOM(MASC;3,SG)
@@ -23892,7 +23892,7 @@
 አላባ	አላቦችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 አላባ	አላቦቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
 አላፈ	ላልፍ	V;IMP;NOM(1,SG)
-አላፈ	ማላፍ	V.MSDR
+አላፈ	ማላፍ	V.MSDR;
 አላፈ	ታልፉ	V;IPFV;NFIN;NOM(2,PL)
 አላፈ	ታልፊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አላፈ	ታልፊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -23977,7 +23977,7 @@
 አልጋ	አልጎችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 አልጋ	አልጎቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
 አመለከተ	ላመልክት	V;IMP;NOM(1,SG)
-አመለከተ	ማመልከት	V.MSDR
+አመለከተ	ማመልከት	V.MSDR;
 አመለከተ	ታመለክቱ	V;IPFV;NFIN;NOM(2,PL)
 አመለከተ	ታመለክታለህ	V;IPFV;NOM(MASC;2,SG)
 አመለከተ	ታመለክታለች	V;IPFV;NOM(FEM;3,SG)
@@ -24026,7 +24026,7 @@
 አመለከተ	ያመልክቱ	V;IMP;NOM(3,PL)
 አመለከተ	ያመልክት	V;IMP;NOM(MASC;3,SG)
 አመለጠ	ላምልጥ	V;IMP;NOM(1,SG)
-አመለጠ	ማምለጥ	V.MSDR
+አመለጠ	ማምለጥ	V.MSDR;
 አመለጠ	ታመልጡ	V;IPFV;NFIN;NOM(2,PL)
 አመለጠ	ታመልጣለህ	V;IPFV;NOM(MASC;2,SG)
 አመለጠ	ታመልጣለች	V;IPFV;NOM(FEM;3,SG)
@@ -24091,7 +24091,7 @@
 አመልካች	አመልካቾች	N;PL
 አመልካች	አመልካቿ	N;DEF;FEM
 አመመ	ልመም	V;IMP;NOM(1,SG)
-አመመ	ማመም	V.MSDR
+አመመ	ማመም	V.MSDR;
 አመመ	ታሙ	V;IPFV;NFIN;NOM(2,PL)
 አመመ	ታሚ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አመመ	ታሚያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -24140,7 +24140,7 @@
 አመመ	ይመሙ	V;IMP;NOM(3,PL)
 አመመ	ይመም	V;IMP;NOM(MASC;3,SG)
 አመረተ	ላምርት	V;IMP;NOM(1,SG)
-አመረተ	ማምረት	V.MSDR
+አመረተ	ማምረት	V.MSDR;
 አመረተ	ታመርቱ	V;IPFV;NFIN;NOM(2,PL)
 አመረተ	ታመርታለህ	V;IPFV;NOM(MASC;2,SG)
 አመረተ	ታመርታለች	V;IPFV;NOM(FEM;3,SG)
@@ -24189,7 +24189,7 @@
 አመረተ	ያምርቱ	V;IMP;NOM(3,PL)
 አመረተ	ያምርት	V;IMP;NOM(MASC;3,SG)
 አመራ	ላምራ	V;IMP;NOM(1,SG)
-አመራ	ማምራት	V.MSDR
+አመራ	ማምራት	V.MSDR;
 አመራ	ታመሩ	V;IPFV;NFIN;NOM(2,PL)
 አመራ	ታመሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አመራ	ታመሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -24260,7 +24260,7 @@
 አመራር	አመራሮቿ	N;PL;PSS(3,SG,FEM)
 አመራር	አመራሯ	N;PSS(3,SG,FEM)
 አመሰገነ	ላመስግን	V;IMP;NOM(1,SG)
-አመሰገነ	ማመስገን	V.MSDR
+አመሰገነ	ማመስገን	V.MSDR;
 አመሰገነ	ታመሰግኑ	V;IPFV;NFIN;NOM(2,PL)
 አመሰገነ	ታመሰግናለህ	V;IPFV;NOM(MASC;2,SG)
 አመሰገነ	ታመሰግናለች	V;IPFV;NOM(FEM;3,SG)
@@ -24309,7 +24309,7 @@
 አመሰገነ	ያመስግኑ	V;IMP;NOM(3,PL)
 አመሰገነ	ያመስግን	V;IMP;NOM(MASC;3,SG)
 አመሸ	ላምሽ	V;IMP;NOM(1,SG)
-አመሸ	ማምሸት	V.MSDR
+አመሸ	ማምሸት	V.MSDR;
 አመሸ	ታመሹ	V;IPFV;NFIN;NOM(2,PL)
 አመሸ	ታመሺ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አመሸ	ታመሻለህ	V;IPFV;NOM(MASC;2,SG)
@@ -24394,7 +24394,7 @@
 አመት	አመቷ	N;DEF;FEM
 አመት	አመቷ	N;PSS(3,SG,FEM)
 አመቻቸ	ላመቻች	V;IMP;NOM(1,SG)
-አመቻቸ	ማመቻቸት	V.MSDR
+አመቻቸ	ማመቻቸት	V.MSDR;
 አመቻቸ	ታመቻቹ	V;IPFV;NFIN;NOM(2,PL)
 አመቻቸ	ታመቻቺ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አመቻቸ	ታመቻቻለህ	V;IPFV;NOM(MASC;2,SG)
@@ -24443,7 +24443,7 @@
 አመቻቸ	ያመቻች	V;IMP;NOM(MASC;3,SG)
 አመቻቸ	ያመቻች	V;IPFV;NFIN;NOM(MASC;3,SG)
 አመነ	ልመን	V;IMP;NOM(1,SG)
-አመነ	ማመን	V.MSDR
+አመነ	ማመን	V.MSDR;
 አመነ	ታምኑ	V;IPFV;NFIN;NOM(2,PL)
 አመነ	ታምናለህ	V;IPFV;NOM(MASC;2,SG)
 አመነ	ታምናለች	V;IPFV;NOM(FEM;3,SG)
@@ -24492,7 +24492,7 @@
 አመነ	ይመኑ	V;IMP;NOM(3,PL)
 አመነ	ይመን	V;IMP;NOM(MASC;3,SG)
 አመነዘረ	ላመንዝር	V;IMP;NOM(1,SG)
-አመነዘረ	ማመንዘር	V.MSDR
+አመነዘረ	ማመንዘር	V.MSDR;
 አመነዘረ	ታመነዝሩ	V;IPFV;NFIN;NOM(2,PL)
 አመነዘረ	ታመነዝሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አመነዘረ	ታመነዝሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -24558,7 +24558,7 @@
 አመድ	አመድዎ	N;PSS(2,SG,FORM)
 አመድ	አመዷ	N;PSS(3,SG,FEM)
 አመጣ	ላምጣ	V;IMP;NOM(1,SG)
-አመጣ	ማምጣት	V.MSDR
+አመጣ	ማምጣት	V.MSDR;
 አመጣ	ታመጡ	V;IPFV;NFIN;NOM(2,PL)
 አመጣ	ታመጣ	V;IPFV;NFIN;NOM(MASC;2,SG)
 አመጣ	ታመጣ	V;IPFV;NFIN;NOM(FEM;3,SG)
@@ -24639,7 +24639,7 @@
 አማላጅነት	አማላጅነትሽ	N;PSS(2,SG,FEM)
 አማላጅነት	አማላጅነትዎ	N;PSS(2,SG,FORM)
 አማላጅነት	አማላጅነቷ	N;PSS(3,SG,FEM)
-አማረ	ማማር	V.MSDR
+አማረ	ማማር	V.MSDR;
 አማረ	አማረ	V;PFV;NOM(MASC;3,SG)
 አማረ	አምሮ	V.CVB;NOM(MASC;3,SG)
 አማረ	አምሯል	V;PRF;NOM(MASC;3,SG)
@@ -24647,7 +24647,7 @@
 አማረ	ያምር	V;IMP;NOM(MASC;3,SG)
 አማረ	ያምር	V;IPFV;NFIN;NOM(MASC;3,SG)
 አማረረ	ላማርር	V;IMP;NOM(1,SG)
-አማረረ	ማማረር	V.MSDR
+አማረረ	ማማረር	V.MSDR;
 አማረረ	ታማርሩ	V;IPFV;NFIN;NOM(2,PL)
 አማረረ	ታማርሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አማረረ	ታማርሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -24886,7 +24886,7 @@
 አሞራ	አሞራዎች	N;PL
 አሞራ	አሞሮቹ	N;DEF;PL;LGSPEC1
 አሟላ	ላሟላ	V;IMP;NOM(1,SG)
-አሟላ	ማሟላት	V.MSDR
+አሟላ	ማሟላት	V.MSDR;
 አሟላ	ታሟሉ	V;IPFV;NFIN;NOM(2,PL)
 አሟላ	ታሟላ	V;IMP;NOM(FEM;3,SG)
 አሟላ	ታሟላ	V;IPFV;NFIN;NOM(MASC;2,SG)
@@ -25039,7 +25039,7 @@
 አረም	አረሙ	N;DEF;MASC
 አረም	አረም	N
 አረቀ	ላርቅ	V;IMP;NOM(1,SG)
-አረቀ	ማረቅ	V.MSDR
+አረቀ	ማረቅ	V.MSDR;
 አረቀ	ታርቁ	V;IPFV;NFIN;NOM(2,PL)
 አረቀ	ታርቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አረቀ	ታርቂያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -25097,7 +25097,7 @@
 አረንጓዴ	አረንጓዴዎቹ	ADJ;DEF;PL
 አረንጓዴ	አረንጓዴዎች	ADJ;PL
 አረከሰ	ላርክስ	V;IMP;NOM(1,SG)
-አረከሰ	ማርከስ	V.MSDR
+አረከሰ	ማርከስ	V.MSDR;
 አረከሰ	ታረክሱ	V;IPFV;NFIN;NOM(2,PL)
 አረከሰ	ታረክሳለህ	V;IPFV;NOM(MASC;2,SG)
 አረከሰ	ታረክሳለች	V;IPFV;NOM(FEM;3,SG)
@@ -25146,7 +25146,7 @@
 አረከሰ	ያርክሱ	V;IMP;NOM(3,PL)
 አረከሰ	ያርክስ	V;IMP;NOM(MASC;3,SG)
 አረካ	ላርካ	V;IMP;NOM(1,SG)
-አረካ	ማርካት	V.MSDR
+አረካ	ማርካት	V.MSDR;
 አረካ	ታረኩ	V;IPFV;NFIN;NOM(2,PL)
 አረካ	ታረኪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አረካ	ታረኪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -25195,7 +25195,7 @@
 አረካ	ያርኩ	V;IMP;NOM(3,PL)
 አረካ	ያርካ	V;IMP;NOM(MASC;3,SG)
 አረደ	ልረድ	V;IMP;NOM(1,SG)
-አረደ	ማረድ	V.MSDR
+አረደ	ማረድ	V.MSDR;
 አረደ	ታርዱ	V;IPFV;NFIN;NOM(2,PL)
 አረደ	ታርዳለህ	V;IPFV;NOM(MASC;2,SG)
 አረደ	ታርዳለች	V;IPFV;NOM(FEM;3,SG)
@@ -25243,7 +25243,7 @@
 አረደ	ያርድ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አረደ	ይረዱ	V;IMP;NOM(3,PL)
 አረደ	ይረድ	V;IMP;NOM(MASC;3,SG)
-አረጋ	ማርጋት	V.MSDR
+አረጋ	ማርጋት	V.MSDR;
 አረጋ	አረጋ	V;PFV;NOM(MASC;3,SG)
 አረጋ	አርግቶ	V.CVB;NOM(MASC;3,SG)
 አረጋ	አርግቷል	V;PRF;NOM(MASC;3,SG)
@@ -25251,7 +25251,7 @@
 አረጋ	ያረጋል	V;IPFV;NOM(MASC;3,SG)
 አረጋ	ያርጋ	V;IMP;NOM(MASC;3,SG)
 አረጋገጠ	ላረጋግጥ	V;IMP;NOM(1,SG)
-አረጋገጠ	ማረጋገጥ	V.MSDR
+አረጋገጠ	ማረጋገጥ	V.MSDR;
 አረጋገጠ	ታረጋግጡ	V;IPFV;NFIN;NOM(2,PL)
 አረጋገጠ	ታረጋግጣለህ	V;IPFV;NOM(MASC;2,SG)
 አረጋገጠ	ታረጋግጣለች	V;IPFV;NOM(FEM;3,SG)
@@ -25300,7 +25300,7 @@
 አረጋገጠ	ያረጋግጥ	V;IMP;NOM(MASC;3,SG)
 አረጋገጠ	ያረጋግጥ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አረፈ	ልረፍ	V;IMP;NOM(1,SG)
-አረፈ	ማረፍ	V.MSDR
+አረፈ	ማረፍ	V.MSDR;
 አረፈ	ታርፉ	V;IPFV;NFIN;NOM(2,PL)
 አረፈ	ታርፊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አረፈ	ታርፊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -25349,7 +25349,7 @@
 አረፈ	ይረፉ	V;IMP;NOM(3,PL)
 አረፈ	ይረፍ	V;IMP;NOM(MASC;3,SG)
 አራመደ	ላራምድ	V;IMP;NOM(1,SG)
-አራመደ	ማራመድ	V.MSDR
+አራመደ	ማራመድ	V.MSDR;
 አራመደ	ታራምዱ	V;IPFV;NFIN;NOM(2,PL)
 አራመደ	ታራምዳለህ	V;IPFV;NOM(MASC;2,SG)
 አራመደ	ታራምዳለች	V;IPFV;NOM(FEM;3,SG)
@@ -25402,7 +25402,7 @@
 አራሽ	አራሾቹ	N;DEF;PL
 አራሽ	አራሾች	N;PL
 አራቀ	ላርቅ	V;IMP;NOM(1,SG)
-አራቀ	ማራቅ	V.MSDR
+አራቀ	ማራቅ	V.MSDR;
 አራቀ	ታርቁ	V;IPFV;NFIN;NOM(2,PL)
 አራቀ	ታርቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አራቀ	ታርቂያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -25539,7 +25539,7 @@
 አሮጌ	አሮጌዎቹ	N;DEF;PL
 አሮጌ	አሮጌዎች	N;PL
 አሰለፈ	ላሰልፍ	V;IMP;NOM(1,SG)
-አሰለፈ	ማሰለፍ	V.MSDR
+አሰለፈ	ማሰለፍ	V.MSDR;
 አሰለፈ	ታሰልፉ	V;IPFV;NFIN;NOM(2,PL)
 አሰለፈ	ታሰልፊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አሰለፈ	ታሰልፊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -25611,7 +25611,7 @@
 አሰልጣኝ	አሰልጣኟ	N;DEF;FEM
 አሰልጣኝ	አሰልጣኟ	N;PSS(3,SG,FEM)
 አሰማ	ላሰማ	V;IMP;NOM(1,SG)
-አሰማ	ማሰማት	V.MSDR
+አሰማ	ማሰማት	V.MSDR;
 አሰማ	ታሰሙ	V;IPFV;NFIN;NOM(2,PL)
 አሰማ	ታሰሚ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አሰማ	ታሰሚያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -25660,7 +25660,7 @@
 አሰማ	ያሰማሉ	V;IPFV;NOM(3,PL)
 አሰማ	ያሰማል	V;IPFV;NOM(MASC;3,SG)
 አሰረ	ልሰር	V;IMP;NOM(1,SG)
-አሰረ	ማሰር	V.MSDR
+አሰረ	ማሰር	V.MSDR;
 አሰረ	ታስሩ	V;IPFV;NFIN;NOM(2,PL)
 አሰረ	ታስሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አሰረ	ታስሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -25709,7 +25709,7 @@
 አሰረ	ይሰሩ	V;IMP;NOM(3,PL)
 አሰረ	ይሰር	V;IMP;NOM(MASC;3,SG)
 አሰራጨ	ላሰራጭ	V;IMP;NOM(1,SG)
-አሰራጨ	ማሰራጨት	V.MSDR
+አሰራጨ	ማሰራጨት	V.MSDR;
 አሰራጨ	ታሰራጩ	V;IPFV;NFIN;NOM(2,PL)
 አሰራጨ	ታሰራጪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አሰራጨ	ታሰራጫለህ	V;IPFV;NOM(MASC;2,SG)
@@ -25762,7 +25762,7 @@
 አሰቃቂ	አሰቃቂው	ADJ;DEF;MASC
 አሰቃቂ	አሰቃቂዎቹ	ADJ;DEF;PL
 አሰቃቂ	አሰቃቂዎች	ADJ;PL
-አሰቃየ	ማሰቃየት	V.MSDR
+አሰቃየ	ማሰቃየት	V.MSDR;
 አሰቃየ	አሰቃየ	V;PFV;NOM(MASC;3,SG)
 አሰቃየ	አሰቃይቶ	V.CVB;NOM(MASC;3,SG)
 አሰቃየ	አሰቃይቷል	V;PRF;NOM(MASC;3,SG)
@@ -25770,7 +25770,7 @@
 አሰቃየ	ያሰቃይ	V;IMP;NOM(MASC;3,SG)
 አሰቃየ	ያሰቃይ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አሰበ	ላስብ	V;IMP;NOM(1,SG)
-አሰበ	ማሰብ	V.MSDR
+አሰበ	ማሰብ	V.MSDR;
 አሰበ	ታስቡ	V;IPFV;NFIN;NOM(2,PL)
 አሰበ	ታስቢ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አሰበ	ታስቢያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -25819,7 +25819,7 @@
 አሰበ	ያስብ	V;IMP;NOM(MASC;3,SG)
 አሰበ	ያስብ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አሰባሰበ	ላሰባስብ	V;IMP;NOM(1,SG)
-አሰባሰበ	ማሰባሰብ	V.MSDR
+አሰባሰበ	ማሰባሰብ	V.MSDR;
 አሰባሰበ	ታሰባስቡ	V;IPFV;NFIN;NOM(2,PL)
 አሰባሰበ	ታሰባስቢ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አሰባሰበ	ታሰባስቢያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -25867,14 +25867,14 @@
 አሰባሰበ	ያሰባስባል	V;IPFV;NOM(MASC;3,SG)
 አሰባሰበ	ያሰባስብ	V;IMP;NOM(MASC;3,SG)
 አሰባሰበ	ያሰባስብ	V;IPFV;NFIN;NOM(MASC;3,SG)
-አሰኘ	ማሰኘት	V.MSDR
+አሰኘ	ማሰኘት	V.MSDR;
 አሰኘ	አሰኘ	V;PFV;NOM(MASC;3,SG)
 አሰኘ	አሰኝቶ	V.CVB;NOM(MASC;3,SG)
 አሰኘ	አሰኝቷል	V;PRF;NOM(MASC;3,SG)
 አሰኘ	ያሰኛል	V;IPFV;NOM(MASC;3,SG)
 አሰኘ	ያሰኝ	V;IMP;NOM(MASC;3,SG)
 አሰኘ	ያሰኝ	V;IPFV;NFIN;NOM(MASC;3,SG)
-አሰጋ	ማሰጋት	V.MSDR
+አሰጋ	ማሰጋት	V.MSDR;
 አሰጋ	አሰጋ	V;PFV;NOM(MASC;3,SG)
 አሰጋ	አሰግቶ	V.CVB;NOM(MASC;3,SG)
 አሰጋ	አሰግቷል	V;PRF;NOM(MASC;3,SG)
@@ -25913,7 +25913,7 @@
 አሳ	አሶችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 አሳ	አሶቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
 አሳለፈ	ላሳልፍ	V;IMP;NOM(1,SG)
-አሳለፈ	ማሳለፍ	V.MSDR
+አሳለፈ	ማሳለፍ	V.MSDR;
 አሳለፈ	ታሳልፉ	V;IPFV;NFIN;NOM(2,PL)
 አሳለፈ	ታሳልፊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አሳለፈ	ታሳልፊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -25961,7 +25961,7 @@
 አሳለፈ	ያሳልፋል	V;IPFV;NOM(MASC;3,SG)
 አሳለፈ	ያሳልፍ	V;IMP;NOM(MASC;3,SG)
 አሳለፈ	ያሳልፍ	V;IPFV;NFIN;NOM(MASC;3,SG)
-አሳረፈ	ማሳረፍ	V.MSDR
+አሳረፈ	ማሳረፍ	V.MSDR;
 አሳረፈ	አሳረፈ	V;PFV;NOM(MASC;3,SG)
 አሳረፈ	አሳርፎ	V.CVB;NOM(MASC;3,SG)
 አሳረፈ	አሳርፏል	V;PRF;NOM(MASC;3,SG)
@@ -25994,7 +25994,7 @@
 አሳሪ	አሳርያችሁ	N;LGSPEC1;PSS(2,PL)
 አሳሪ	አሳርያችን	N;LGSPEC1;PSS(1,PL)
 አሳሰበ	ላሳስብ	V;IMP;NOM(1,SG)
-አሳሰበ	ማሳሰብ	V.MSDR
+አሳሰበ	ማሳሰብ	V.MSDR;
 አሳሰበ	ታሳስቡ	V;IPFV;NFIN;NOM(2,PL)
 አሳሰበ	ታሳስቢ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አሳሰበ	ታሳስቢያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -26043,7 +26043,7 @@
 አሳሰበ	ያሳስብ	V;IMP;NOM(MASC;3,SG)
 አሳሰበ	ያሳስብ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አሳሳበ	ላሳስብ	V;IMP;NOM(1,SG)
-አሳሳበ	ማሳሳብ	V.MSDR
+አሳሳበ	ማሳሳብ	V.MSDR;
 አሳሳበ	ታሳስቡ	V;IPFV;NFIN;NOM(2,PL)
 አሳሳበ	ታሳስቢ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አሳሳበ	ታሳስቢያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -26092,7 +26092,7 @@
 አሳሳበ	ያሳስብ	V;IMP;NOM(MASC;3,SG)
 አሳሳበ	ያሳስብ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አሳበ	ላስብ	V;IMP;NOM(1,SG)
-አሳበ	ማሳብ	V.MSDR
+አሳበ	ማሳብ	V.MSDR;
 አሳበ	ታስቡ	V;IPFV;NFIN;NOM(2,PL)
 አሳበ	ታስቢ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አሳበ	ታስቢያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -26163,7 +26163,7 @@
 አሳብ	አሳቦቿ	N;PL;PSS(3,SG,FEM)
 አሳብ	አሳቧ	N;DEF;FEM
 አሳብ	አሳቧ	N;PSS(3,SG,FEM)
-አሳተ	ማሳት	V.MSDR
+አሳተ	ማሳት	V.MSDR;
 አሳተ	አሳተ	V;PFV;NOM(MASC;3,SG)
 አሳተ	አስቶ	V.CVB;NOM(MASC;3,SG)
 አሳተ	አስቷል	V;PRF;NOM(MASC;3,SG)
@@ -26175,7 +26175,7 @@
 አሳታሚ	አሳታሚዎቹ	N;DEF;PL
 አሳታሚ	አሳታሚዎች	N;PL
 አሳወቀ	ላሳውቅ	V;IMP;NOM(1,SG)
-አሳወቀ	ማሳወቅ	V.MSDR
+አሳወቀ	ማሳወቅ	V.MSDR;
 አሳወቀ	ታሳውቁ	V;IPFV;NFIN;NOM(2,PL)
 አሳወቀ	ታሳውቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አሳወቀ	ታሳውቂያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -26224,7 +26224,7 @@
 አሳወቀ	ያሳውቅ	V;IMP;NOM(MASC;3,SG)
 አሳወቀ	ያሳውቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አሳዘነ	ላሳዝን	V;IMP;NOM(1,SG)
-አሳዘነ	ማሳዘን	V.MSDR
+አሳዘነ	ማሳዘን	V.MSDR;
 አሳዘነ	ታሳዝኑ	V;IPFV;NFIN;NOM(2,PL)
 አሳዘነ	ታሳዝናለህ	V;IPFV;NOM(MASC;2,SG)
 አሳዘነ	ታሳዝናለች	V;IPFV;NOM(FEM;3,SG)
@@ -26278,7 +26278,7 @@
 አሳዛኝ	አሳዛኞች	ADJ;PL
 አሳዛኝ	አሳዛኟ	ADJ;DEF;FEM
 አሳየ	ላሳይ	V;IMP;NOM(1,SG)
-አሳየ	ማሳየት	V.MSDR
+አሳየ	ማሳየት	V.MSDR;
 አሳየ	ታሳዩ	V;IPFV;NFIN;NOM(2,PL)
 አሳየ	ታሳዪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አሳየ	ታሳያለህ	V;IPFV;NOM(MASC;2,SG)
@@ -26326,28 +26326,28 @@
 አሳየ	ያሳያል	V;IPFV;NOM(MASC;3,SG)
 አሳየ	ያሳይ	V;IMP;NOM(MASC;3,SG)
 አሳየ	ያሳይ	V;IPFV;NFIN;NOM(MASC;3,SG)
-አሳደረ	ማሳደር	V.MSDR
+አሳደረ	ማሳደር	V.MSDR;
 አሳደረ	አሳደረ	V;PFV;NOM(MASC;3,SG)
 አሳደረ	አሳድሮ	V.CVB;NOM(MASC;3,SG)
 አሳደረ	አሳድሯል	V;PRF;NOM(MASC;3,SG)
 አሳደረ	ያሳድራል	V;IPFV;NOM(MASC;3,SG)
 አሳደረ	ያሳድር	V;IMP;NOM(MASC;3,SG)
 አሳደረ	ያሳድር	V;IPFV;NFIN;NOM(MASC;3,SG)
-አሳደገ	ማሳደግ	V.MSDR
+አሳደገ	ማሳደግ	V.MSDR;
 አሳደገ	አሳደገ	V;PFV;NOM(MASC;3,SG)
 አሳደገ	አሳድጎ	V.CVB;NOM(MASC;3,SG)
 አሳደገ	አሳድጓል	V;PRF;NOM(MASC;3,SG)
 አሳደገ	ያሳድጋል	V;IPFV;NOM(MASC;3,SG)
 አሳደገ	ያሳድግ	V;IMP;NOM(MASC;3,SG)
 አሳደገ	ያሳድግ	V;IPFV;NFIN;NOM(MASC;3,SG)
-አሳጣ	ማሳጣት	V.MSDR
+አሳጣ	ማሳጣት	V.MSDR;
 አሳጣ	አሳጣ	V;PFV;NOM(MASC;3,SG)
 አሳጣ	አሳጥቶ	V.CVB;NOM(MASC;3,SG)
 አሳጣ	አሳጥቷል	V;PRF;NOM(MASC;3,SG)
 አሳጣ	ያሳጣ	V;IMP;NOM(MASC;3,SG)
 አሳጣ	ያሳጣ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አሳጣ	ያሳጣል	V;IPFV;NOM(MASC;3,SG)
-አስመሰለ	ማስመሰል	V.MSDR
+አስመሰለ	ማስመሰል	V.MSDR;
 አስመሰለ	አስመሰለ	V;PFV;NOM(MASC;3,SG)
 አስመሰለ	አስመስሎ	V.CVB;NOM(MASC;3,SG)
 አስመሰለ	አስመስሏል	V;PRF;NOM(MASC;3,SG)
@@ -26355,7 +26355,7 @@
 አስመሰለ	ያስመስል	V;IMP;NOM(MASC;3,SG)
 አስመሰለ	ያስመስል	V;IPFV;NFIN;NOM(MASC;3,SG)
 አስመዘነ	ላስመዝን	V;IMP;NOM(1,SG)
-አስመዘነ	ማስመዘን	V.MSDR
+አስመዘነ	ማስመዘን	V.MSDR;
 አስመዘነ	ታስመዝኑ	V;IPFV;NFIN;NOM(2,PL)
 አስመዘነ	ታስመዝናለህ	V;IPFV;NOM(MASC;2,SG)
 አስመዘነ	ታስመዝናለች	V;IPFV;NOM(FEM;3,SG)
@@ -26405,8 +26405,8 @@
 አስመዘነ	ያስመዝን	V;IPFV;NFIN;NOM(MASC;3,SG)
 አስመዘገበ	ላስመዝግብ	V;IMP;NOM(1,SG)
 አስመዘገበ	ላስመዝግብ	V;IMP;NOM(1,SG)
-አስመዘገበ	ማስመዝገብ	V.MSDR
-አስመዘገበ	ማስመዝገብ	V.MSDR
+አስመዘገበ	ማስመዝገብ	V.MSDR;
+አስመዘገበ	ማስመዝገብ	V.MSDR;
 አስመዘገበ	ታስመዘግቡ	V;IPFV;NFIN;NOM(2,PL)
 አስመዘገበ	ታስመዘግቡ	V;IPFV;NFIN;NOM(2,PL)
 አስመዘገበ	ታስመዘግቢ	V;IPFV;NFIN;NOM(FEM;2,SG)
@@ -26502,7 +26502,7 @@
 አስመዘገበ	ያስመዝግብ	V;IMP;NOM(MASC;3,SG)
 አስመዘገበ	ያስመዝግብ	V;IMP;NOM(MASC;3,SG)
 አስመጣ	ላስመጣ	V;IMP;NOM(1,SG)
-አስመጣ	ማስመጣት	V.MSDR
+አስመጣ	ማስመጣት	V.MSDR;
 አስመጣ	ታስመጡ	V;IPFV;NFIN;NOM(2,PL)
 አስመጣ	ታስመጣ	V;IMP;NOM(FEM;3,SG)
 አስመጣ	ታስመጣ	V;IPFV;NFIN;NOM(MASC;2,SG)
@@ -26580,7 +26580,7 @@
 አስረኛ	አስረኛዋ	ADJ;DEF;FEM
 አስረኛ	አስረኛው	ADJ;DEF;MASC
 አስረከበ	ላስረክብ	V;IMP;NOM(1,SG)
-አስረከበ	ማስረከብ	V.MSDR
+አስረከበ	ማስረከብ	V.MSDR;
 አስረከበ	ታስረክቡ	V;IPFV;NFIN;NOM(2,PL)
 አስረከበ	ታስረክቢ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አስረከበ	ታስረክቢያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -26629,7 +26629,7 @@
 አስረከበ	ያስረክብ	V;IMP;NOM(MASC;3,SG)
 አስረከበ	ያስረክብ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አስረዳ	ላስረዳ	V;IMP;NOM(1,SG)
-አስረዳ	ማስረዳት	V.MSDR
+አስረዳ	ማስረዳት	V.MSDR;
 አስረዳ	ታስረዱ	V;IPFV;NFIN;NOM(2,PL)
 አስረዳ	ታስረዳ	V;IMP;NOM(FEM;3,SG)
 አስረዳ	ታስረዳ	V;IPFV;NFIN;NOM(MASC;2,SG)
@@ -26678,7 +26678,7 @@
 አስረዳ	ያስረዳሉ	V;IPFV;NOM(3,PL)
 አስረዳ	ያስረዳል	V;IPFV;NOM(MASC;3,SG)
 አስቀመጠ	ላስቀምጥ	V;IMP;NOM(1,SG)
-አስቀመጠ	ማስቀመጥ	V.MSDR
+አስቀመጠ	ማስቀመጥ	V.MSDR;
 አስቀመጠ	ታስቀምጡ	V;IPFV;NFIN;NOM(2,PL)
 አስቀመጠ	ታስቀምጣለህ	V;IPFV;NOM(MASC;2,SG)
 አስቀመጠ	ታስቀምጣለች	V;IPFV;NOM(FEM;3,SG)
@@ -26726,7 +26726,7 @@
 አስቀመጠ	ያስቀምጣል	V;IPFV;NOM(MASC;3,SG)
 አስቀመጠ	ያስቀምጥ	V;IMP;NOM(MASC;3,SG)
 አስቀመጠ	ያስቀምጥ	V;IPFV;NFIN;NOM(MASC;3,SG)
-አስቀረ	ማስቀረት	V.MSDR
+አስቀረ	ማስቀረት	V.MSDR;
 አስቀረ	አስቀረ	V;PFV;NOM(MASC;3,SG)
 አስቀረ	አስቀርቶ	V.CVB;NOM(MASC;3,SG)
 አስቀረ	አስቀርቷል	V;PRF;NOM(MASC;3,SG)
@@ -26734,7 +26734,7 @@
 አስቀረ	ያስቀር	V;IMP;NOM(MASC;3,SG)
 አስቀረ	ያስቀር	V;IPFV;NFIN;NOM(MASC;3,SG)
 አስቀበለ	ላስቀብል	V;IMP;NOM(1,SG)
-አስቀበለ	ማስቀበል	V.MSDR
+አስቀበለ	ማስቀበል	V.MSDR;
 አስቀበለ	ታስቀብሉ	V;IPFV;NFIN;NOM(2,PL)
 አስቀበለ	ታስቀብላለህ	V;IPFV;NOM(MASC;2,SG)
 አስቀበለ	ታስቀብላለች	V;IPFV;NOM(FEM;3,SG)
@@ -26782,7 +26782,7 @@
 አስቀበለ	ያስቀብላል	V;IPFV;NOM(MASC;3,SG)
 አስቀበለ	ያስቀብል	V;IMP;NOM(MASC;3,SG)
 አስቀበለ	ያስቀብል	V;IPFV;NFIN;NOM(MASC;3,SG)
-አስቀደመ	ማስቀደም	V.MSDR
+አስቀደመ	ማስቀደም	V.MSDR;
 አስቀደመ	አስቀደመ	V;PFV;NOM(MASC;3,SG)
 አስቀደመ	አስቀድሞ	V.CVB;NOM(MASC;3,SG)
 አስቀደመ	አስቀድሟል	V;PRF;NOM(MASC;3,SG)
@@ -26790,7 +26790,7 @@
 አስቀደመ	ያስቀድም	V;IMP;NOM(MASC;3,SG)
 አስቀደመ	ያስቀድም	V;IPFV;NFIN;NOM(MASC;3,SG)
 አስቆጠረ	ላስቆጥር	V;IMP;NOM(1,SG)
-አስቆጠረ	ማስቆጠር	V.MSDR
+አስቆጠረ	ማስቆጠር	V.MSDR;
 አስቆጠረ	ታስቆጥሩ	V;IPFV;NFIN;NOM(2,PL)
 አስቆጠረ	ታስቆጥሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አስቆጠረ	ታስቆጥሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -26838,7 +26838,7 @@
 አስቆጠረ	ያስቆጥራል	V;IPFV;NOM(MASC;3,SG)
 አስቆጠረ	ያስቆጥር	V;IMP;NOM(MASC;3,SG)
 አስቆጠረ	ያስቆጥር	V;IPFV;NFIN;NOM(MASC;3,SG)
-አስቆጣ	ማስቆጣት	V.MSDR
+አስቆጣ	ማስቆጣት	V.MSDR;
 አስቆጣ	አስቆጣ	V;PFV;NOM(MASC;3,SG)
 አስቆጣ	አስቆጥቶ	V.CVB;NOM(MASC;3,SG)
 አስቆጣ	አስቆጥቷል	V;PRF;NOM(MASC;3,SG)
@@ -26846,7 +26846,7 @@
 አስቆጣ	ያስቆጣ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አስቆጣ	ያስቆጣል	V;IPFV;NOM(MASC;3,SG)
 አስተላለፈ	ላስተላልፍ	V;IMP;NOM(1,SG)
-አስተላለፈ	ማስተላለፍ	V.MSDR
+አስተላለፈ	ማስተላለፍ	V.MSDR;
 አስተላለፈ	ታስተላልፉ	V;IPFV;NFIN;NOM(2,PL)
 አስተላለፈ	ታስተላልፊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አስተላለፈ	ታስተላልፊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -26900,7 +26900,7 @@
 አስተማሪ	አስተማሪዎቹ	N;DEF;PL
 አስተማሪ	አስተማሪዎች	N;PL
 አስተባበለ	ላስተባብል	V;IMP;NOM(1,SG)
-አስተባበለ	ማስተባበል	V.MSDR
+አስተባበለ	ማስተባበል	V.MSDR;
 አስተባበለ	ታስተባብሉ	V;IPFV;NFIN;NOM(2,PL)
 አስተባበለ	ታስተባብላለህ	V;IPFV;NOM(MASC;2,SG)
 አስተባበለ	ታስተባብላለች	V;IPFV;NOM(FEM;3,SG)
@@ -26959,7 +26959,7 @@
 አስተናጋጅ	አስተናጋጆች	N;PL
 አስተናጋጅ	አስተናጋጇ	N;DEF;FEM
 አስተካከለ	ላስተካክል	V;IMP;NOM(1,SG)
-አስተካከለ	ማስተካከል	V.MSDR
+አስተካከለ	ማስተካከል	V.MSDR;
 አስተካከለ	ታስተካክሉ	V;IPFV;NFIN;NOM(2,PL)
 አስተካከለ	ታስተካክላለህ	V;IPFV;NOM(MASC;2,SG)
 አስተካከለ	ታስተካክላለች	V;IPFV;NOM(FEM;3,SG)
@@ -27008,7 +27008,7 @@
 አስተካከለ	ያስተካክል	V;IMP;NOM(MASC;3,SG)
 አስተካከለ	ያስተካክል	V;IPFV;NFIN;NOM(MASC;3,SG)
 አስተዋወቀ	ላስተዋውቅ	V;IMP;NOM(1,SG)
-አስተዋወቀ	ማስተዋወቅ	V.MSDR
+አስተዋወቀ	ማስተዋወቅ	V.MSDR;
 አስተዋወቀ	ታስተዋውቁ	V;IPFV;NFIN;NOM(2,PL)
 አስተዋወቀ	ታስተዋውቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አስተዋወቀ	ታስተዋውቂያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -27056,7 +27056,7 @@
 አስተዋወቀ	ያስተዋውቃል	V;IPFV;NOM(MASC;3,SG)
 አስተዋወቀ	ያስተዋውቅ	V;IMP;NOM(MASC;3,SG)
 አስተዋወቀ	ያስተዋውቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
-አስተዳደረ	ማስተዳደር	V.MSDR
+አስተዳደረ	ማስተዳደር	V.MSDR;
 አስተዳደረ	አስተዳደረ	V;PFV;NOM(MASC;3,SG)
 አስተዳደረ	አስተዳድሮ	V.CVB;NOM(MASC;3,SG)
 አስተዳደረ	አስተዳድሯል	V;PRF;NOM(MASC;3,SG)
@@ -27068,7 +27068,7 @@
 አስታራቂ	አስታራቂዎቹ	N;DEF;PL
 አስታራቂ	አስታራቂዎች	N;PL
 አስታወሰ	ላስታውስ	V;IMP;NOM(1,SG)
-አስታወሰ	ማስታወስ	V.MSDR
+አስታወሰ	ማስታወስ	V.MSDR;
 አስታወሰ	ታስታውሱ	V;IPFV;NFIN;NOM(2,PL)
 አስታወሰ	ታስታውሳለህ	V;IPFV;NOM(MASC;2,SG)
 አስታወሰ	ታስታውሳለች	V;IPFV;NOM(FEM;3,SG)
@@ -27117,7 +27117,7 @@
 አስታወሰ	ያስታውስ	V;IMP;NOM(MASC;3,SG)
 አስታወሰ	ያስታውስ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አስታወቀ	ላስታውቅ	V;IMP;NOM(1,SG)
-አስታወቀ	ማስታወቅ	V.MSDR
+አስታወቀ	ማስታወቅ	V.MSDR;
 አስታወቀ	ታስታውቁ	V;IPFV;NFIN;NOM(2,PL)
 አስታወቀ	ታስታውቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አስታወቀ	ታስታውቂያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -27165,7 +27165,7 @@
 አስታወቀ	ያስታውቃል	V;IPFV;NOM(MASC;3,SG)
 አስታወቀ	ያስታውቅ	V;IMP;NOM(MASC;3,SG)
 አስታወቀ	ያስታውቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
-አስቸገረ	ማስቸገር	V.MSDR
+አስቸገረ	ማስቸገር	V.MSDR;
 አስቸገረ	አስቸገረ	V;PFV;NOM(MASC;3,SG)
 አስቸገረ	አስቸግሮ	V.CVB;NOM(MASC;3,SG)
 አስቸገረ	አስቸግሯል	V;PRF;NOM(MASC;3,SG)
@@ -27177,7 +27177,7 @@
 አስቸጋሪ	አስቸጋሪው	ADJ;DEF;MASC
 አስቸጋሪ	አስቸጋሪዎቹ	ADJ;DEF;PL
 አስቸጋሪ	አስቸጋሪዎች	ADJ;PL
-አስቻለ	ማስቻል	V.MSDR
+አስቻለ	ማስቻል	V.MSDR;
 አስቻለ	አስቻለ	V;PFV;NOM(MASC;3,SG)
 አስቻለ	አስችሎ	V.CVB;NOM(MASC;3,SG)
 አስቻለ	አስችሏል	V;PRF;NOM(MASC;3,SG)
@@ -27206,7 +27206,7 @@
 አስከሬን	አስከሬኖችዎ	N;PL;PSS(2,SG,FORM)
 አስከሬን	አስከሬኖቿ	N;PL;PSS(3,SG,FEM)
 አስከሬን	አስከሬኗ	N;PSS(3,SG,FEM)
-አስከተለ	ማስከተል	V.MSDR
+አስከተለ	ማስከተል	V.MSDR;
 አስከተለ	አስከተለ	V;PFV;NOM(MASC;3,SG)
 አስከተለ	አስከትሎ	V.CVB;NOM(MASC;3,SG)
 አስከተለ	አስከትሏል	V;PRF;NOM(MASC;3,SG)
@@ -27219,7 +27219,7 @@
 አስከፊ	አስከፊዎቹ	ADJ;DEF;PL
 አስከፊ	አስከፊዎች	ADJ;PL
 አስወገደ	ላስወግድ	V;IMP;NOM(1,SG)
-አስወገደ	ማስወገድ	V.MSDR
+አስወገደ	ማስወገድ	V.MSDR;
 አስወገደ	ታስወግዱ	V;IPFV;NFIN;NOM(2,PL)
 አስወገደ	ታስወግዳለህ	V;IPFV;NOM(MASC;2,SG)
 አስወገደ	ታስወግዳለች	V;IPFV;NOM(FEM;3,SG)
@@ -27268,7 +27268,7 @@
 አስወገደ	ያስወግድ	V;IMP;NOM(MASC;3,SG)
 አስወገደ	ያስወግድ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አስወጣ	ላስወጣ	V;IMP;NOM(1,SG)
-አስወጣ	ማስወጣት	V.MSDR
+አስወጣ	ማስወጣት	V.MSDR;
 አስወጣ	ታስወጡ	V;IPFV;NFIN;NOM(2,PL)
 አስወጣ	ታስወጣ	V;IMP;NOM(FEM;3,SG)
 አስወጣ	ታስወጣ	V;IPFV;NFIN;NOM(MASC;2,SG)
@@ -27317,7 +27317,7 @@
 አስወጣ	ያስወጣሉ	V;IPFV;NOM(3,PL)
 አስወጣ	ያስወጣል	V;IPFV;NOM(MASC;3,SG)
 አስያዘ	ላስይዝ	V;IMP;NOM(1,SG)
-አስያዘ	ማስያዝ	V.MSDR
+አስያዘ	ማስያዝ	V.MSDR;
 አስያዘ	ታስይዙ	V;IPFV;NFIN;NOM(2,PL)
 አስያዘ	ታስይዛለህ	V;IPFV;NOM(MASC;2,SG)
 አስያዘ	ታስይዛለች	V;IPFV;NOM(FEM;3,SG)
@@ -27365,21 +27365,21 @@
 አስያዘ	ያስይዛል	V;IPFV;NOM(MASC;3,SG)
 አስያዘ	ያስይዝ	V;IMP;NOM(MASC;3,SG)
 አስያዘ	ያስይዝ	V;IPFV;NFIN;NOM(MASC;3,SG)
-አስደሰተ	ማስደሰት	V.MSDR
+አስደሰተ	ማስደሰት	V.MSDR;
 አስደሰተ	አስደሰተ	V;PFV;NOM(MASC;3,SG)
 አስደሰተ	አስደስቶ	V.CVB;NOM(MASC;3,SG)
 አስደሰተ	አስደስቷል	V;PRF;NOM(MASC;3,SG)
 አስደሰተ	ያስደስታል	V;IPFV;NOM(MASC;3,SG)
 አስደሰተ	ያስደስት	V;IMP;NOM(MASC;3,SG)
 አስደሰተ	ያስደስት	V;IPFV;NFIN;NOM(MASC;3,SG)
-አስደነቀ	ማስደነቅ	V.MSDR
+አስደነቀ	ማስደነቅ	V.MSDR;
 አስደነቀ	አስደነቀ	V;PFV;NOM(MASC;3,SG)
 አስደነቀ	አስደንቆ	V.CVB;NOM(MASC;3,SG)
 አስደነቀ	አስደንቋል	V;PRF;NOM(MASC;3,SG)
 አስደነቀ	ያስደንቃል	V;IPFV;NOM(MASC;3,SG)
 አስደነቀ	ያስደንቅ	V;IMP;NOM(MASC;3,SG)
 አስደነቀ	ያስደንቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
-አስገረመ	ማስገረም	V.MSDR
+አስገረመ	ማስገረም	V.MSDR;
 አስገረመ	አስገረመ	V;PFV;NOM(MASC;3,SG)
 አስገረመ	አስገርሞ	V.CVB;NOM(MASC;3,SG)
 አስገረመ	አስገርሟል	V;PRF;NOM(MASC;3,SG)
@@ -27392,7 +27392,7 @@
 አስገራሚ	አስገራሚዎቹ	ADJ;DEF;PL
 አስገራሚ	አስገራሚዎች	ADJ;PL
 አስገባ	ላስገባ	V;IMP;NOM(1,SG)
-አስገባ	ማስገባት	V.MSDR
+አስገባ	ማስገባት	V.MSDR;
 አስገባ	ታስገቡ	V;IPFV;NFIN;NOM(2,PL)
 አስገባ	ታስገቢ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አስገባ	ታስገቢያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -27441,7 +27441,7 @@
 አስገባ	ያስገባሉ	V;IPFV;NOM(3,PL)
 አስገባ	ያስገባል	V;IPFV;NOM(MASC;3,SG)
 አስገነዘበ	ላስገንዝብ	V;IMP;NOM(1,SG)
-አስገነዘበ	ማስገንዘብ	V.MSDR
+አስገነዘበ	ማስገንዘብ	V.MSDR;
 አስገነዘበ	ታስገነዝቡ	V;IPFV;NFIN;NOM(2,PL)
 አስገነዘበ	ታስገነዝቢ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አስገነዘበ	ታስገነዝቢያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -27490,7 +27490,7 @@
 አስገነዘበ	ያስገንዝቡ	V;IMP;NOM(3,PL)
 አስገነዘበ	ያስገንዝብ	V;IMP;NOM(MASC;3,SG)
 አስገኘ	ላስገኝ	V;IMP;NOM(1,SG)
-አስገኘ	ማስገኘት	V.MSDR
+አስገኘ	ማስገኘት	V.MSDR;
 አስገኘ	ታስገኙ	V;IPFV;NFIN;NOM(2,PL)
 አስገኘ	ታስገኚ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አስገኘ	ታስገኛለህ	V;IPFV;NOM(MASC;2,SG)
@@ -27539,7 +27539,7 @@
 አስገኘ	ያስገኝ	V;IMP;NOM(MASC;3,SG)
 አስገኘ	ያስገኝ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አስገደደ	ላስገድድ	V;IMP;NOM(1,SG)
-አስገደደ	ማስገደድ	V.MSDR
+አስገደደ	ማስገደድ	V.MSDR;
 አስገደደ	ታስገድዱ	V;IPFV;NFIN;NOM(2,PL)
 አስገደደ	ታስገድዳለህ	V;IPFV;NOM(MASC;2,SG)
 አስገደደ	ታስገድዳለች	V;IPFV;NOM(FEM;3,SG)
@@ -27588,7 +27588,7 @@
 አስገደደ	ያስገድድ	V;IMP;NOM(MASC;3,SG)
 አስገደደ	ያስገድድ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አስጠራ	ላስጠራ	V;IMP;NOM(1,SG)
-አስጠራ	ማስጠራት	V.MSDR
+አስጠራ	ማስጠራት	V.MSDR;
 አስጠራ	ታስጠሩ	V;IPFV;NFIN;NOM(2,PL)
 አስጠራ	ታስጠሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አስጠራ	ታስጠሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -27637,7 +27637,7 @@
 አስጠራ	ያስጠራሉ	V;IPFV;NOM(3,PL)
 አስጠራ	ያስጠራል	V;IPFV;NOM(MASC;3,SG)
 አስጠነቀቀ	ላስጠንቅቅ	V;IMP;NOM(1,SG)
-አስጠነቀቀ	ማስጠንቀቅ	V.MSDR
+አስጠነቀቀ	ማስጠንቀቅ	V.MSDR;
 አስጠነቀቀ	ታስጠነቅቁ	V;IPFV;NFIN;NOM(2,PL)
 አስጠነቀቀ	ታስጠነቅቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አስጠነቀቀ	ታስጠነቅቂያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -27686,7 +27686,7 @@
 አስጠነቀቀ	ያስጠንቅቁ	V;IMP;NOM(3,PL)
 አስጠነቀቀ	ያስጠንቅቅ	V;IMP;NOM(MASC;3,SG)
 አስጠጣ	ላስጠጣ	V;IMP;NOM(1,SG)
-አስጠጣ	ማስጠጣት	V.MSDR
+አስጠጣ	ማስጠጣት	V.MSDR;
 አስጠጣ	ታስጠጡ	V;IPFV;NFIN;NOM(2,PL)
 አስጠጣ	ታስጠጣ	V;IMP;NOM(FEM;3,SG)
 አስጠጣ	ታስጠጣ	V;IPFV;NFIN;NOM(MASC;2,SG)
@@ -27734,21 +27734,21 @@
 አስጠጣ	ያስጠጣ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አስጠጣ	ያስጠጣሉ	V;IPFV;NOM(3,PL)
 አስጠጣ	ያስጠጣል	V;IPFV;NOM(MASC;3,SG)
-አስጨለመ	ማስጨለም	V.MSDR
+አስጨለመ	ማስጨለም	V.MSDR;
 አስጨለመ	አስጨለመ	V;PFV;NOM(MASC;3,SG)
 አስጨለመ	አስጨልሞ	V.CVB;NOM(MASC;3,SG)
 አስጨለመ	አስጨልሟል	V;PRF;NOM(MASC;3,SG)
 አስጨለመ	ያስጨልማል	V;IPFV;NOM(MASC;3,SG)
 አስጨለመ	ያስጨልም	V;IMP;NOM(MASC;3,SG)
 አስጨለመ	ያስጨልም	V;IPFV;NFIN;NOM(MASC;3,SG)
-አስጨነቀ	ማስጨነቅ	V.MSDR
+አስጨነቀ	ማስጨነቅ	V.MSDR;
 አስጨነቀ	አስጨነቀ	V;PFV;NOM(MASC;3,SG)
 አስጨነቀ	አስጨንቆ	V.CVB;NOM(MASC;3,SG)
 አስጨነቀ	አስጨንቋል	V;PRF;NOM(MASC;3,SG)
 አስጨነቀ	ያስጨንቃል	V;IPFV;NOM(MASC;3,SG)
 አስጨነቀ	ያስጨንቅ	V;IMP;NOM(MASC;3,SG)
 አስጨነቀ	ያስጨንቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
-አስፈለገ	ማስፈለግ	V.MSDR
+አስፈለገ	ማስፈለግ	V.MSDR;
 አስፈለገ	አስፈለገ	V;PFV;NOM(MASC;3,SG)
 አስፈለገ	አስፈልጎ	V.CVB;NOM(MASC;3,SG)
 አስፈለገ	አስፈልጓል	V;PRF;NOM(MASC;3,SG)
@@ -27760,8 +27760,8 @@
 አስፈላጊ	አስፈላጊው	ADJ;DEF;MASC
 አስፈላጊ	አስፈላጊዎቹ	ADJ;DEF;PL
 አስፈላጊ	አስፈላጊዎች	ADJ;PL
-አስፈራ	ማስፈራት	V.MSDR
-አስፈራ	ማስፈራት	V.MSDR
+አስፈራ	ማስፈራት	V.MSDR;
+አስፈራ	ማስፈራት	V.MSDR;
 አስፈራ	አስፈራ	V;PFV;NOM(MASC;3,SG)
 አስፈራ	አስፈራ	V;PFV;NOM(MASC;3,SG)
 አስፈራ	አስፈርቶ	V.CVB;NOM(MASC;3,SG)
@@ -27785,7 +27785,7 @@
 አስፋልት	አስፋልቱ	N;DEF;MASC
 አስፋልት	አስፋልት	N
 አሸ	ልሽ	V;IMP;NOM(1,SG)
-አሸ	ማሸት	V.MSDR
+አሸ	ማሸት	V.MSDR;
 አሸ	ታሹ	V;IPFV;NFIN;NOM(2,PL)
 አሸ	ታሺ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አሸ	ታሻለህ	V;IPFV;NOM(MASC;2,SG)
@@ -27838,7 +27838,7 @@
 አሸባሪ	አሸባሪዎቹ	N;DEF;PL
 አሸባሪ	አሸባሪዎች	N;PL
 አሸነፈ	ላሸንፍ	V;IMP;NOM(1,SG)
-አሸነፈ	ማሸነፍ	V.MSDR
+አሸነፈ	ማሸነፍ	V.MSDR;
 አሸነፈ	ታሸንፉ	V;IPFV;NFIN;NOM(2,PL)
 አሸነፈ	ታሸንፊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አሸነፈ	ታሸንፊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -27891,7 +27891,7 @@
 አሸናፊ	አሸናፊዎቹ	N;DEF;PL
 አሸናፊ	አሸናፊዎች	N;PL
 አሻለ	ላሽል	V;IMP;NOM(1,SG)
-አሻለ	ማሻል	V.MSDR
+አሻለ	ማሻል	V.MSDR;
 አሻለ	ታሽሉ	V;IPFV;NFIN;NOM(2,PL)
 አሻለ	ታሽላለህ	V;IPFV;NOM(MASC;2,SG)
 አሻለ	ታሽላለች	V;IPFV;NOM(FEM;3,SG)
@@ -27942,7 +27942,7 @@
 አሻራ	አሻራ	N
 አሻራ	አሻራው	N;DEF;MASC
 አሻሻለ	ላሻሽል	V;IMP;NOM(1,SG)
-አሻሻለ	ማሻሻል	V.MSDR
+አሻሻለ	ማሻሻል	V.MSDR;
 አሻሻለ	ታሻሽሉ	V;IPFV;NFIN;NOM(2,PL)
 አሻሻለ	ታሻሽላለህ	V;IPFV;NOM(MASC;2,SG)
 አሻሻለ	ታሻሽላለች	V;IPFV;NOM(FEM;3,SG)
@@ -27990,7 +27990,7 @@
 አሻሻለ	ያሻሽላል	V;IPFV;NOM(MASC;3,SG)
 አሻሻለ	ያሻሽል	V;IMP;NOM(MASC;3,SG)
 አሻሻለ	ያሻሽል	V;IPFV;NFIN;NOM(MASC;3,SG)
-አሻገረ	ማሻገር	V.MSDR
+አሻገረ	ማሻገር	V.MSDR;
 አሻገረ	አሻገረ	V;PFV;NOM(MASC;3,SG)
 አሻገረ	አሻግሮ	V.CVB;NOM(MASC;3,SG)
 አሻገረ	አሻግሯል	V;PRF;NOM(MASC;3,SG)
@@ -28036,7 +28036,7 @@
 አሽከርካሪ	አሽከርካሪዎቹ	N;DEF;PL
 አሽከርካሪ	አሽከርካሪዎች	N;PL
 አቀረበ	ላቅርብ	V;IMP;NOM(1,SG)
-አቀረበ	ማቅረብ	V.MSDR
+አቀረበ	ማቅረብ	V.MSDR;
 አቀረበ	ታቀርቡ	V;IPFV;NFIN;NOM(2,PL)
 አቀረበ	ታቀርቢ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አቀረበ	ታቀርቢያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -28087,7 +28087,7 @@
 አቀበት	አቀበቱ	N;DEF;MASC
 አቀበት	አቀበት	N
 አቀና	ላቅና	V;IMP;NOM(1,SG)
-አቀና	ማቅናት	V.MSDR
+አቀና	ማቅናት	V.MSDR;
 አቀና	ታቀኑ	V;IPFV;NFIN;NOM(2,PL)
 አቀና	ታቀና	V;IPFV;NFIN;NOM(MASC;2,SG)
 አቀና	ታቀና	V;IPFV;NFIN;NOM(FEM;3,SG)
@@ -28136,7 +28136,7 @@
 አቀና	ያቅኑ	V;IMP;NOM(3,PL)
 አቀና	ያቅና	V;IMP;NOM(MASC;3,SG)
 አቀደ	ላቅድ	V;IMP;NOM(1,SG)
-አቀደ	ማቀድ	V.MSDR
+አቀደ	ማቀድ	V.MSDR;
 አቀደ	ታቅዱ	V;IPFV;NFIN;NOM(2,PL)
 አቀደ	ታቅዳለህ	V;IPFV;NOM(MASC;2,SG)
 አቀደ	ታቅዳለች	V;IPFV;NOM(FEM;3,SG)
@@ -28185,7 +28185,7 @@
 አቀደ	ያቅድ	V;IMP;NOM(MASC;3,SG)
 አቀደ	ያቅድ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አቀጠለ	ላቀጥል	V;IMP;NOM(1,SG)
-አቀጠለ	ማቀጠል	V.MSDR
+አቀጠለ	ማቀጠል	V.MSDR;
 አቀጠለ	ታቀጥሉ	V;IPFV;NFIN;NOM(2,PL)
 አቀጠለ	ታቀጥላለህ	V;IPFV;NOM(MASC;2,SG)
 አቀጠለ	ታቀጥላለች	V;IPFV;NOM(FEM;3,SG)
@@ -28239,7 +28239,7 @@
 አቁማዳ	አቁማዳዎች	N;PL
 አቁማዳ	አቁማዶቹ	N;DEF;PL;LGSPEC1
 አቁማዳ	አቁማዶች	N;PL;LGSPEC1
-አቃተ	ማቃት	V.MSDR
+አቃተ	ማቃት	V.MSDR;
 አቃተ	አቃተ	V;PFV;NOM(MASC;3,SG)
 አቃተ	አቅቶ	V.CVB;NOM(MASC;3,SG)
 አቃተ	አቅቷል	V;PRF;NOM(MASC;3,SG)
@@ -28247,7 +28247,7 @@
 አቃተ	ያቅት	V;IMP;NOM(MASC;3,SG)
 አቃተ	ያቅት	V;IPFV;NFIN;NOM(MASC;3,SG)
 አቃጠለ	ላቃጥል	V;IMP;NOM(1,SG)
-አቃጠለ	ማቃጠል	V.MSDR
+አቃጠለ	ማቃጠል	V.MSDR;
 አቃጠለ	ታቃጥሉ	V;IPFV;NFIN;NOM(2,PL)
 አቃጠለ	ታቃጥላለህ	V;IPFV;NOM(MASC;2,SG)
 አቃጠለ	ታቃጥላለች	V;IPFV;NOM(FEM;3,SG)
@@ -28329,7 +28329,7 @@
 አቅራቢያ	አቅራቢያዎ	N;PSS(2,SG,FORM)
 አቅራቢያ	አቅራቢያዬ	N;PSS(1,SG)
 አቆመ	ላቁም	V;IMP;NOM(1,SG)
-አቆመ	ማቆም	V.MSDR
+አቆመ	ማቆም	V.MSDR;
 አቆመ	ታቁም	V;IMP;NOM(FEM;3,SG)
 አቆመ	ታቆሙ	V;IPFV;NFIN;NOM(2,PL)
 አቆመ	ታቆሚ	V;IPFV;NFIN;NOM(FEM;2,SG)
@@ -28400,7 +28400,7 @@
 አቋም	አቋሞቿ	N;PL;PSS(3,SG,FEM)
 አቋም	አቋሟ	N;PSS(3,SG,FEM)
 አቋረጠ	ላቋርጥ	V;IMP;NOM(1,SG)
-አቋረጠ	ማቋረጥ	V.MSDR
+አቋረጠ	ማቋረጥ	V.MSDR;
 አቋረጠ	ታቋርጡ	V;IPFV;NFIN;NOM(2,PL)
 አቋረጠ	ታቋርጣለህ	V;IPFV;NOM(MASC;2,SG)
 አቋረጠ	ታቋርጣለች	V;IPFV;NOM(FEM;3,SG)
@@ -28449,7 +28449,7 @@
 አቋረጠ	ያቋርጥ	V;IMP;NOM(MASC;3,SG)
 አቋረጠ	ያቋርጥ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አቋቋመ	ላቋቁም	V;IMP;NOM(1,SG)
-አቋቋመ	ማቋቋም	V.MSDR
+አቋቋመ	ማቋቋም	V.MSDR;
 አቋቋመ	ታቋቁሙ	V;IPFV;NFIN;NOM(2,PL)
 አቋቋመ	ታቋቁሚ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አቋቋመ	ታቋቁሚያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -28498,7 +28498,7 @@
 አቋቋመ	ያቋቁም	V;IMP;NOM(MASC;3,SG)
 አቋቋመ	ያቋቁም	V;IPFV;NFIN;NOM(MASC;3,SG)
 አበላሸ	ላበላሽ	V;IMP;NOM(1,SG)
-አበላሸ	ማበላሸት	V.MSDR
+አበላሸ	ማበላሸት	V.MSDR;
 አበላሸ	ታበላሹ	V;IPFV;NFIN;NOM(2,PL)
 አበላሸ	ታበላሺ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አበላሸ	ታበላሻለህ	V;IPFV;NOM(MASC;2,SG)
@@ -28547,7 +28547,7 @@
 አበላሸ	ያበላሽ	V;IMP;NOM(MASC;3,SG)
 አበላሸ	ያበላሽ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አበረ	ልበር	V;IMP;NOM(1,SG)
-አበረ	ማበር	V.MSDR
+አበረ	ማበር	V.MSDR;
 አበረ	ታብሩ	V;IPFV;NFIN;NOM(2,PL)
 አበረ	ታብሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አበረ	ታብሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -28595,7 +28595,7 @@
 አበረ	ያብር	V;IPFV;NFIN;NOM(MASC;3,SG)
 አበረ	ይበሩ	V;IMP;NOM(3,PL)
 አበረ	ይበር	V;IMP;NOM(MASC;3,SG)
-አበረከተ	ማበርከት	V.MSDR
+አበረከተ	ማበርከት	V.MSDR;
 አበረከተ	አበረከተ	V;PFV;NOM(MASC;3,SG)
 አበረከተ	አበርክቶ	V.CVB;NOM(MASC;3,SG)
 አበረከተ	አበርክቷል	V;PRF;NOM(MASC;3,SG)
@@ -28603,7 +28603,7 @@
 አበረከተ	ያበረክት	V;IPFV;NFIN;NOM(MASC;3,SG)
 አበረከተ	ያበርክት	V;IMP;NOM(MASC;3,SG)
 አበሰ	ልበስ	V;IMP;NOM(1,SG)
-አበሰ	ማበስ	V.MSDR
+አበሰ	ማበስ	V.MSDR;
 አበሰ	ታብሱ	V;IPFV;NFIN;NOM(2,PL)
 አበሰ	ታብሳለህ	V;IPFV;NOM(MASC;2,SG)
 አበሰ	ታብሳለች	V;IPFV;NOM(FEM;3,SG)
@@ -28652,7 +28652,7 @@
 አበሰ	ይበሱ	V;IMP;NOM(3,PL)
 አበሰ	ይበስ	V;IMP;NOM(MASC;3,SG)
 አበሰረ	ላብስር	V;IMP;NOM(1,SG)
-አበሰረ	ማብሰር	V.MSDR
+አበሰረ	ማብሰር	V.MSDR;
 አበሰረ	ታበስሩ	V;IPFV;NFIN;NOM(2,PL)
 አበሰረ	ታበስሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አበሰረ	ታበስሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -28701,7 +28701,7 @@
 አበሰረ	ያብስሩ	V;IMP;NOM(3,PL)
 አበሰረ	ያብስር	V;IMP;NOM(MASC;3,SG)
 አበሳጨ	ላበሳጭ	V;IMP;NOM(1,SG)
-አበሳጨ	ማበሳጨት	V.MSDR
+አበሳጨ	ማበሳጨት	V.MSDR;
 አበሳጨ	ታበሳጩ	V;IPFV;NFIN;NOM(2,PL)
 አበሳጨ	ታበሳጪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አበሳጨ	ታበሳጫለህ	V;IPFV;NOM(MASC;2,SG)
@@ -28750,7 +28750,7 @@
 አበሳጨ	ያበሳጭ	V;IMP;NOM(MASC;3,SG)
 አበሳጨ	ያበሳጭ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አበቃ	ላብቃ	V;IMP;NOM(1,SG)
-አበቃ	ማብቃት	V.MSDR
+አበቃ	ማብቃት	V.MSDR;
 አበቃ	ታበቁ	V;IPFV;NFIN;NOM(2,PL)
 አበቃ	ታበቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አበቃ	ታበቂያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -28805,7 +28805,7 @@
 አበባ	አበቦቹ	N;DEF;PL;LGSPEC1
 አበባ	አበቦች	N;PL;LGSPEC1
 አበዛ	ላብዛ	V;IMP;NOM(1,SG)
-አበዛ	ማብዛት	V.MSDR
+አበዛ	ማብዛት	V.MSDR;
 አበዛ	ታበዙ	V;IPFV;NFIN;NOM(2,PL)
 አበዛ	ታበዛ	V;IPFV;NFIN;NOM(MASC;2,SG)
 አበዛ	ታበዛ	V;IPFV;NFIN;NOM(FEM;3,SG)
@@ -28928,7 +28928,7 @@
 አባልነት	አባልነትዎ	N;PSS(2,SG,FORM)
 አባልነት	አባልነቷ	N;PSS(3,SG,FEM)
 አባረረ	ላባርር	V;IMP;NOM(1,SG)
-አባረረ	ማባረር	V.MSDR
+አባረረ	ማባረር	V.MSDR;
 አባረረ	ታባርሩ	V;IPFV;NFIN;NOM(2,PL)
 አባረረ	ታባርሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አባረረ	ታባርሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -28976,7 +28976,7 @@
 አባረረ	ያባርራል	V;IPFV;NOM(MASC;3,SG)
 አባረረ	ያባርር	V;IMP;NOM(MASC;3,SG)
 አባረረ	ያባርር	V;IPFV;NFIN;NOM(MASC;3,SG)
-አባባሰ	ማባባስ	V.MSDR
+አባባሰ	ማባባስ	V.MSDR;
 አባባሰ	አባባሰ	V;PFV;NOM(MASC;3,SG)
 አባባሰ	አባብሶ	V.CVB;NOM(MASC;3,SG)
 አባባሰ	አባብሷል	V;PRF;NOM(MASC;3,SG)
@@ -29047,7 +29047,7 @@
 አብራሪ	አብራሪዎቹ	N;DEF;PL
 አብራሪ	አብራሪዎች	N;PL
 አብራራ	ላብራራ	V;IMP;NOM(1,SG)
-አብራራ	ማብራራት	V.MSDR
+አብራራ	ማብራራት	V.MSDR;
 አብራራ	ታብራሩ	V;IPFV;NFIN;NOM(2,PL)
 አብራራ	ታብራሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አብራራ	ታብራሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -29107,7 +29107,7 @@
 አብዛኛ	አብዛኞቹ	ADJ;DEF;PL;LGSPEC1
 አብዛኛ	አብዛኞች	ADJ;PL;LGSPEC1
 አተመ	ላትም	V;IMP;NOM(1,SG)
-አተመ	ማተም	V.MSDR
+አተመ	ማተም	V.MSDR;
 አተመ	ታትሙ	V;IPFV;NFIN;NOM(2,PL)
 አተመ	ታትሚ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አተመ	ታትሚያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -29156,7 +29156,7 @@
 አተመ	ያትም	V;IMP;NOM(MASC;3,SG)
 አተመ	ያትም	V;IPFV;NFIN;NOM(MASC;3,SG)
 አተረፈ	ላትርፍ	V;IMP;NOM(1,SG)
-አተረፈ	ማትረፍ	V.MSDR
+አተረፈ	ማትረፍ	V.MSDR;
 አተረፈ	ታተርፉ	V;IPFV;NFIN;NOM(2,PL)
 አተረፈ	ታተርፊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አተረፈ	ታተርፊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -29205,7 +29205,7 @@
 አተረፈ	ያትርፉ	V;IMP;NOM(3,PL)
 አተረፈ	ያትርፍ	V;IMP;NOM(MASC;3,SG)
 አታለለ	ላታልል	V;IMP;NOM(1,SG)
-አታለለ	ማታለል	V.MSDR
+አታለለ	ማታለል	V.MSDR;
 አታለለ	ታታልሉ	V;IPFV;NFIN;NOM(2,PL)
 አታለለ	ታታልላለህ	V;IPFV;NOM(MASC;2,SG)
 አታለለ	ታታልላለች	V;IPFV;NOM(FEM;3,SG)
@@ -29290,7 +29290,7 @@
 አቻ	አቾችሽ	N;PL;LGSPEC1;PSS(2,SG,FEM)
 አቻ	አቾችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 አቻ	አቾቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
-አነሰ	ማነስ	V.MSDR
+አነሰ	ማነስ	V.MSDR;
 አነሰ	አነሰ	V;PFV;NOM(MASC;3,SG)
 አነሰ	አንሶ	V.CVB;NOM(MASC;3,SG)
 አነሰ	አንሷል	V;PRF;NOM(MASC;3,SG)
@@ -29298,7 +29298,7 @@
 አነሰ	ያንስ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አነሰ	ይነስ	V;IMP;NOM(MASC;3,SG)
 አነሳ	ላንሳ	V;IMP;NOM(1,SG)
-አነሳ	ማንሳት	V.MSDR
+አነሳ	ማንሳት	V.MSDR;
 አነሳ	ታነሱ	V;IPFV;NFIN;NOM(2,PL)
 አነሳ	ታነሳ	V;IPFV;NFIN;NOM(MASC;2,SG)
 አነሳ	ታነሳ	V;IPFV;NFIN;NOM(FEM;3,SG)
@@ -29350,7 +29350,7 @@
 አነስተኛ	አነስተኛዋ	ADJ;DEF;FEM
 አነስተኛ	አነስተኛው	ADJ;DEF;MASC
 አነጋገረ	ላነጋግር	V;IMP;NOM(1,SG)
-አነጋገረ	ማነጋገር	V.MSDR
+አነጋገረ	ማነጋገር	V.MSDR;
 አነጋገረ	ታነጋግሩ	V;IPFV;NFIN;NOM(2,PL)
 አነጋገረ	ታነጋግሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አነጋገረ	ታነጋግሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -29417,7 +29417,7 @@
 አናት	አናትሽ	N;PSS(2,SG,FEM)
 አናት	አናትዎ	N;PSS(2,SG,FORM)
 አናት	አናቷ	N;PSS(3,SG,FEM)
-አናደደ	ማናደድ	V.MSDR
+አናደደ	ማናደድ	V.MSDR;
 አናደደ	አናደደ	V;PFV;NOM(MASC;3,SG)
 አናደደ	አናድዶ	V.CVB;NOM(MASC;3,SG)
 አናደደ	አናድዷል	V;PRF;NOM(MASC;3,SG)
@@ -29567,7 +29567,7 @@
 አንፃር	አንፃሮቿ	N;PL;PSS(3,SG,FEM)
 አንፃር	አንፃሯ	N;PSS(3,SG,FEM)
 አኖረ	ላኑር	V;IMP;NOM(1,SG)
-አኖረ	ማኖር	V.MSDR
+አኖረ	ማኖር	V.MSDR;
 አኖረ	ታኑር	V;IMP;NOM(FEM;3,SG)
 አኖረ	ታኖሩ	V;IPFV;NFIN;NOM(2,PL)
 አኖረ	ታኖሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
@@ -29630,8 +29630,8 @@
 አእምሮ	አእምሮው	N;PSS(3,SG,MASC)
 አእምሮ	አእምሮዎ	N;PSS(2,SG,FORM)
 አእምሮ	አእምሮዬ	N;PSS(1,SG)
-አከለ	ማከል	V.MSDR
-አከለ	ማከል	V.MSDR
+አከለ	ማከል	V.MSDR;
+አከለ	ማከል	V.MSDR;
 አከለ	አከለ	V;PFV;NOM(MASC;3,SG)
 አከለ	አከለ	V;PFV;NOM(MASC;3,SG)
 አከለ	አክሎ	V.CVB;NOM(MASC;3,SG)
@@ -29645,7 +29645,7 @@
 አከለ	ያክል	V;IPFV;NFIN;NOM(MASC;3,SG)
 አከለ	ያክል	V;IPFV;NFIN;NOM(MASC;3,SG)
 አከማቸ	ላከማች	V;IMP;NOM(1,SG)
-አከማቸ	ማከማቸት	V.MSDR
+አከማቸ	ማከማቸት	V.MSDR;
 አከማቸ	ታከማቹ	V;IPFV;NFIN;NOM(2,PL)
 አከማቸ	ታከማቺ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አከማቸ	ታከማቻለህ	V;IPFV;NOM(MASC;2,SG)
@@ -29703,7 +29703,7 @@
 አከርካሪ	አከርካሪዎቹ	N;DEF;PL
 አከርካሪ	አከርካሪዎች	N;PL
 አከበረ	ላክብር	V;IMP;NOM(1,SG)
-አከበረ	ማክበር	V.MSDR
+አከበረ	ማክበር	V.MSDR;
 አከበረ	ታከብሩ	V;IPFV;NFIN;NOM(2,PL)
 አከበረ	ታከብሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አከበረ	ታከብሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -29752,7 +29752,7 @@
 አከበረ	ያክብሩ	V;IMP;NOM(3,PL)
 አከበረ	ያክብር	V;IMP;NOM(MASC;3,SG)
 አከናወነ	ላከናውን	V;IMP;NOM(1,SG)
-አከናወነ	ማከናወን	V.MSDR
+አከናወነ	ማከናወን	V.MSDR;
 አከናወነ	ታከናውኑ	V;IPFV;NFIN;NOM(2,PL)
 አከናወነ	ታከናውናለህ	V;IPFV;NOM(MASC;2,SG)
 አከናወነ	ታከናውናለች	V;IPFV;NOM(FEM;3,SG)
@@ -29860,7 +29860,7 @@
 አካባቢ	አካባብያችሁ	N;LGSPEC1;PSS(2,PL)
 አካባቢ	አካባብያችን	N;LGSPEC1;PSS(1,PL)
 አካተተ	ላካትት	V;IMP;NOM(1,SG)
-አካተተ	ማካተት	V.MSDR
+አካተተ	ማካተት	V.MSDR;
 አካተተ	ታካትቱ	V;IPFV;NFIN;NOM(2,PL)
 አካተተ	ታካትታለህ	V;IPFV;NOM(MASC;2,SG)
 አካተተ	ታካትታለች	V;IPFV;NOM(FEM;3,SG)
@@ -29922,7 +29922,7 @@
 አክሲዮን	አክሲዮኖቹ	N;DEF;PL
 አክሲዮን	አክሲዮኖች	N;PL
 አወረደ	ላውርድ	V;IMP;NOM(1,SG)
-አወረደ	ማውረድ	V.MSDR
+አወረደ	ማውረድ	V.MSDR;
 አወረደ	ታወርዱ	V;IPFV;NFIN;NOM(2,PL)
 አወረደ	ታወርዳለህ	V;IPFV;NOM(MASC;2,SG)
 አወረደ	ታወርዳለች	V;IPFV;NOM(FEM;3,SG)
@@ -29971,7 +29971,7 @@
 አወረደ	ያውርዱ	V;IMP;NOM(3,PL)
 አወረደ	ያውርድ	V;IMP;NOM(MASC;3,SG)
 አወራ	ላውራ	V;IMP;NOM(1,SG)
-አወራ	ማውራት	V.MSDR
+አወራ	ማውራት	V.MSDR;
 አወራ	ታወሩ	V;IPFV;NFIN;NOM(2,PL)
 አወራ	ታወሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አወራ	ታወሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -30020,7 +30020,7 @@
 አወራ	ያውሩ	V;IMP;NOM(3,PL)
 አወራ	ያውራ	V;IMP;NOM(MASC;3,SG)
 አወሳ	ላውሳ	V;IMP;NOM(1,SG)
-አወሳ	ማውሳት	V.MSDR
+አወሳ	ማውሳት	V.MSDR;
 አወሳ	ታወሱ	V;IPFV;NFIN;NOM(2,PL)
 አወሳ	ታወሳ	V;IPFV;NFIN;NOM(MASC;2,SG)
 አወሳ	ታወሳ	V;IPFV;NFIN;NOM(FEM;3,SG)
@@ -30069,7 +30069,7 @@
 አወሳ	ያውሱ	V;IMP;NOM(3,PL)
 አወሳ	ያውሳ	V;IMP;NOM(MASC;3,SG)
 አወቀ	ልወቅ	V;IMP;NOM(1,SG)
-አወቀ	ማወቅ	V.MSDR
+አወቀ	ማወቅ	V.MSDR;
 አወቀ	ታውቁ	V;IPFV;NFIN;NOM(2,PL)
 አወቀ	ታውቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አወቀ	ታውቂያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -30118,7 +30118,7 @@
 አወቀ	ይወቁ	V;IMP;NOM(3,PL)
 አወቀ	ይወቅ	V;IMP;NOM(MASC;3,SG)
 አወከ	ላውክ	V;IMP;NOM(1,SG)
-አወከ	ማወክ	V.MSDR
+አወከ	ማወክ	V.MSDR;
 አወከ	ታውኩ	V;IPFV;NFIN;NOM(2,PL)
 አወከ	ታውኪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አወከ	ታውኪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -30167,7 +30167,7 @@
 አወከ	ያውክ	V;IMP;NOM(MASC;3,SG)
 አወከ	ያውክ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አወደመ	ላውድም	V;IMP;NOM(1,SG)
-አወደመ	ማውደም	V.MSDR
+አወደመ	ማውደም	V.MSDR;
 አወደመ	ታወድሙ	V;IPFV;NFIN;NOM(2,PL)
 አወደመ	ታወድሚ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አወደመ	ታወድሚያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -30216,7 +30216,7 @@
 አወደመ	ያውድሙ	V;IMP;NOM(3,PL)
 አወደመ	ያውድም	V;IMP;NOM(MASC;3,SG)
 አወገዘ	ላውግዝ	V;IMP;NOM(1,SG)
-አወገዘ	ማውገዝ	V.MSDR
+አወገዘ	ማውገዝ	V.MSDR;
 አወገዘ	ታወግዙ	V;IPFV;NFIN;NOM(2,PL)
 አወገዘ	ታወግዛለህ	V;IPFV;NOM(MASC;2,SG)
 አወገዘ	ታወግዛለች	V;IPFV;NOM(FEM;3,SG)
@@ -30265,7 +30265,7 @@
 አወገዘ	ያውግዙ	V;IMP;NOM(3,PL)
 አወገዘ	ያውግዝ	V;IMP;NOM(MASC;3,SG)
 አወጣ	ላውጣ	V;IMP;NOM(1,SG)
-አወጣ	ማውጣት	V.MSDR
+አወጣ	ማውጣት	V.MSDR;
 አወጣ	ታወጡ	V;IPFV;NFIN;NOM(2,PL)
 አወጣ	ታወጣ	V;IPFV;NFIN;NOM(MASC;2,SG)
 አወጣ	ታወጣ	V;IPFV;NFIN;NOM(FEM;3,SG)
@@ -30314,7 +30314,7 @@
 አወጣ	ያውጡ	V;IMP;NOM(3,PL)
 አወጣ	ያውጣ	V;IMP;NOM(MASC;3,SG)
 አዋለ	ላውል	V;IMP;NOM(1,SG)
-አዋለ	ማዋል	V.MSDR
+አዋለ	ማዋል	V.MSDR;
 አዋለ	ታውሉ	V;IPFV;NFIN;NOM(2,PL)
 አዋለ	ታውላለህ	V;IPFV;NOM(MASC;2,SG)
 አዋለ	ታውላለች	V;IPFV;NOM(FEM;3,SG)
@@ -30363,7 +30363,7 @@
 አዋለ	ያውል	V;IMP;NOM(MASC;3,SG)
 አዋለ	ያውል	V;IPFV;NFIN;NOM(MASC;3,SG)
 አዋረደ	ላዋርድ	V;IMP;NOM(1,SG)
-አዋረደ	ማዋረድ	V.MSDR
+አዋረደ	ማዋረድ	V.MSDR;
 አዋረደ	ታዋርዱ	V;IPFV;NFIN;NOM(2,PL)
 አዋረደ	ታዋርዳለህ	V;IPFV;NOM(MASC;2,SG)
 አዋረደ	ታዋርዳለች	V;IPFV;NOM(FEM;3,SG)
@@ -30421,7 +30421,7 @@
 አዋጅ	አዋጆቹ	N;DEF;PL
 አዋጅ	አዋጆች	N;PL
 አዋጣ	ላዋጣ	V;IMP;NOM(1,SG)
-አዋጣ	ማዋጣት	V.MSDR
+አዋጣ	ማዋጣት	V.MSDR;
 አዋጣ	ታዋጡ	V;IPFV;NFIN;NOM(2,PL)
 አዋጣ	ታዋጣ	V;IMP;NOM(FEM;3,SG)
 አዋጣ	ታዋጣ	V;IPFV;NFIN;NOM(MASC;2,SG)
@@ -30538,7 +30538,7 @@
 አዘቅት	አዘቅቱ	N;DEF;MASC
 አዘቅት	አዘቅት	N
 አዘነ	ልዘን	V;IMP;NOM(1,SG)
-አዘነ	ማዘን	V.MSDR
+አዘነ	ማዘን	V.MSDR;
 አዘነ	ታዝኑ	V;IPFV;NFIN;NOM(2,PL)
 አዘነ	ታዝናለህ	V;IPFV;NOM(MASC;2,SG)
 አዘነ	ታዝናለች	V;IPFV;NOM(FEM;3,SG)
@@ -30587,7 +30587,7 @@
 አዘነ	ይዘኑ	V;IMP;NOM(3,PL)
 አዘነ	ይዘን	V;IMP;NOM(MASC;3,SG)
 አዘዘ	ልዘዝ	V;IMP;NOM(1,SG)
-አዘዘ	ማዘዝ	V.MSDR
+አዘዘ	ማዘዝ	V.MSDR;
 አዘዘ	ታዙ	V;IPFV;NFIN;NOM(2,PL)
 አዘዘ	ታዛለህ	V;IPFV;NOM(MASC;2,SG)
 አዘዘ	ታዛለች	V;IPFV;NOM(FEM;3,SG)
@@ -30636,7 +30636,7 @@
 አዘዘ	ይዘዙ	V;IMP;NOM(3,PL)
 አዘዘ	ይዘዝ	V;IMP;NOM(MASC;3,SG)
 አዘጋጀ	ላዘጋጅ	V;IMP;NOM(1,SG)
-አዘጋጀ	ማዘጋጀት	V.MSDR
+አዘጋጀ	ማዘጋጀት	V.MSDR;
 አዘጋጀ	ታዘጋጁ	V;IPFV;NFIN;NOM(2,PL)
 አዘጋጀ	ታዘጋጂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አዘጋጀ	ታዘጋጃለህ	V;IPFV;NOM(MASC;2,SG)
@@ -30719,7 +30719,7 @@
 አዞ	አዞዎቿ	N;PL;PSS(3,SG,FEM)
 አዞ	አዞዬ	N;PSS(1,SG)
 አዞረ	ላዙር	V;IMP;NOM(1,SG)
-አዞረ	ማዞር	V.MSDR
+አዞረ	ማዞር	V.MSDR;
 አዞረ	ታዙር	V;IMP;NOM(FEM;3,SG)
 አዞረ	ታዞሩ	V;IPFV;NFIN;NOM(2,PL)
 አዞረ	ታዞሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
@@ -30768,7 +30768,7 @@
 አዞረ	ያዞራል	V;IPFV;NOM(MASC;3,SG)
 አዞረ	ያዞር	V;IPFV;NFIN;NOM(MASC;3,SG)
 አየ	ልይ	V;IMP;NOM(1,SG)
-አየ	ማየት	V.MSDR
+አየ	ማየት	V.MSDR;
 አየ	ታዩ	V;IPFV;NFIN;NOM(2,PL)
 አየ	ታዪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አየ	ታያለህ	V;IPFV;NOM(MASC;2,SG)
@@ -30840,7 +30840,7 @@
 አያት	አያቷ	N;DEF;FEM
 አያት	አያቷ	N;PSS(3,SG,FEM)
 አያያዘ	ላያይዝ	V;IMP;NOM(1,SG)
-አያያዘ	ማያያዝ	V.MSDR
+አያያዘ	ማያያዝ	V.MSDR;
 አያያዘ	ታያይዙ	V;IPFV;NFIN;NOM(2,PL)
 አያያዘ	ታያይዛለህ	V;IPFV;NOM(MASC;2,SG)
 አያያዘ	ታያይዛለች	V;IPFV;NOM(FEM;3,SG)
@@ -30943,7 +30943,7 @@
 አይጥ	አይጦቹ	N;DEF;PL
 አይጥ	አይጦች	N;PL
 አደረ	ልደር	V;IMP;NOM(1,SG)
-አደረ	ማደር	V.MSDR
+አደረ	ማደር	V.MSDR;
 አደረ	ታድሩ	V;IPFV;NFIN;NOM(2,PL)
 አደረ	ታድሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አደረ	ታድሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -30992,7 +30992,7 @@
 አደረ	ይደሩ	V;IMP;NOM(3,PL)
 አደረ	ይደር	V;IMP;NOM(MASC;3,SG)
 አደረሰ	ላድርስ	V;IMP;NOM(1,SG)
-አደረሰ	ማድረስ	V.MSDR
+አደረሰ	ማድረስ	V.MSDR;
 አደረሰ	ታደርሱ	V;IPFV;NFIN;NOM(2,PL)
 አደረሰ	ታደርሳለህ	V;IPFV;NOM(MASC;2,SG)
 አደረሰ	ታደርሳለች	V;IPFV;NOM(FEM;3,SG)
@@ -31041,7 +31041,7 @@
 አደረሰ	ያድርሱ	V;IMP;NOM(3,PL)
 አደረሰ	ያድርስ	V;IMP;NOM(MASC;3,SG)
 አደረገ	ላድርግ	V;IMP;NOM(1,SG)
-አደረገ	ማድረግ	V.MSDR
+አደረገ	ማድረግ	V.MSDR;
 አደረገ	ታደርጉ	V;IPFV;NFIN;NOM(2,PL)
 አደረገ	ታደርጊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አደረገ	ታደርጊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -31122,7 +31122,7 @@
 አደራ	አደሮችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 አደራ	አደሮቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
 አደራጀ	ላደራጅ	V;IMP;NOM(1,SG)
-አደራጀ	ማደራጀት	V.MSDR
+አደራጀ	ማደራጀት	V.MSDR;
 አደራጀ	ታደራጁ	V;IPFV;NFIN;NOM(2,PL)
 አደራጀ	ታደራጂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አደራጀ	ታደራጃለህ	V;IPFV;NOM(MASC;2,SG)
@@ -31176,7 +31176,7 @@
 አደባባይ	አደባባዮቹ	N;DEF;PL
 አደባባይ	አደባባዮች	N;PL
 አደነ	ላድን	V;IMP;NOM(1,SG)
-አደነ	ማደን	V.MSDR
+አደነ	ማደን	V.MSDR;
 አደነ	ታድኑ	V;IPFV;NFIN;NOM(2,PL)
 አደነ	ታድናለህ	V;IPFV;NOM(MASC;2,SG)
 አደነ	ታድናለች	V;IPFV;NOM(FEM;3,SG)
@@ -31225,7 +31225,7 @@
 አደነ	ያድን	V;IMP;NOM(MASC;3,SG)
 አደነ	ያድን	V;IPFV;NFIN;NOM(MASC;3,SG)
 አደነቀ	ላድንቅ	V;IMP;NOM(1,SG)
-አደነቀ	ማድነቅ	V.MSDR
+አደነቀ	ማድነቅ	V.MSDR;
 አደነቀ	ታደንቁ	V;IPFV;NFIN;NOM(2,PL)
 አደነቀ	ታደንቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አደነቀ	ታደንቂያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -31273,7 +31273,7 @@
 አደነቀ	ያደንቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አደነቀ	ያድንቁ	V;IMP;NOM(3,PL)
 አደነቀ	ያድንቅ	V;IMP;NOM(MASC;3,SG)
-አደከመ	ማድከም	V.MSDR
+አደከመ	ማድከም	V.MSDR;
 አደከመ	አደከመ	V;PFV;NOM(MASC;3,SG)
 አደከመ	አድክሞ	V.CVB;NOM(MASC;3,SG)
 አደከመ	አድክሟል	V;PRF;NOM(MASC;3,SG)
@@ -31281,7 +31281,7 @@
 አደከመ	ያደክም	V;IPFV;NFIN;NOM(MASC;3,SG)
 አደከመ	ያድክም	V;IMP;NOM(MASC;3,SG)
 አደገ	ልደግ	V;IMP;NOM(1,SG)
-አደገ	ማደግ	V.MSDR
+አደገ	ማደግ	V.MSDR;
 አደገ	ታድጉ	V;IPFV;NFIN;NOM(2,PL)
 አደገ	ታድጊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አደገ	ታድጊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -31349,7 +31349,7 @@
 አዲስ	አዳዲሶቹ	ADJ;DEF;PL;LGSPEC1
 አዲስ	አዳዲሶች	ADJ;PL;LGSPEC2
 አዳመጠ	ላዳምጥ	V;IMP;NOM(1,SG)
-አዳመጠ	ማዳመጥ	V.MSDR
+አዳመጠ	ማዳመጥ	V.MSDR;
 አዳመጠ	ታዳምጡ	V;IPFV;NFIN;NOM(2,PL)
 አዳመጠ	ታዳምጣለህ	V;IPFV;NOM(MASC;2,SG)
 አዳመጠ	ታዳምጣለች	V;IPFV;NOM(FEM;3,SG)
@@ -31398,7 +31398,7 @@
 አዳመጠ	ያዳምጥ	V;IMP;NOM(MASC;3,SG)
 አዳመጠ	ያዳምጥ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አዳረ	ላድር	V;IMP;NOM(1,SG)
-አዳረ	ማዳር	V.MSDR
+አዳረ	ማዳር	V.MSDR;
 አዳረ	ታድሩ	V;IPFV;NFIN;NOM(2,PL)
 አዳረ	ታድሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አዳረ	ታድሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -31451,7 +31451,7 @@
 አዳራሽ	አዳራሾቹ	N;DEF;PL
 አዳራሽ	አዳራሾች	N;PL
 አዳነ	ላድን	V;IMP;NOM(1,SG)
-አዳነ	ማዳን	V.MSDR
+አዳነ	ማዳን	V.MSDR;
 አዳነ	ታድኑ	V;IPFV;NFIN;NOM(2,PL)
 አዳነ	ታድናለህ	V;IPFV;NOM(MASC;2,SG)
 አዳነ	ታድናለች	V;IPFV;NOM(FEM;3,SG)
@@ -31504,7 +31504,7 @@
 አዳኝ	አዳኞቹ	N;DEF;PL
 አዳኝ	አዳኞች	N;PL
 አዳከመ	ላዳክም	V;IMP;NOM(1,SG)
-አዳከመ	ማዳከም	V.MSDR
+አዳከመ	ማዳከም	V.MSDR;
 አዳከመ	ታዳክሙ	V;IPFV;NFIN;NOM(2,PL)
 አዳከመ	ታዳክሚ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አዳከመ	ታዳክሚያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -31721,7 +31721,7 @@
 አጃቢ	አጃቢዎቹ	N;DEF;PL
 አጃቢ	አጃቢዎች	N;PL
 አገለገለ	ላገልግል	V;IMP;NOM(1,SG)
-አገለገለ	ማገልገል	V.MSDR
+አገለገለ	ማገልገል	V.MSDR;
 አገለገለ	ታገለግሉ	V;IPFV;NFIN;NOM(2,PL)
 አገለገለ	ታገለግላለህ	V;IPFV;NOM(MASC;2,SG)
 አገለገለ	ታገለግላለች	V;IPFV;NOM(FEM;3,SG)
@@ -31795,7 +31795,7 @@
 አገልግሎት	አገልግሎቶችዎ	N;PL;PSS(2,SG,FORM)
 አገልግሎት	አገልግሎቶቿ	N;PL;PSS(3,SG,FEM)
 አገልግሎት	አገልግሎቷ	N;PSS(3,SG,FEM)
-አገረሸ	ማገርሸት	V.MSDR
+አገረሸ	ማገርሸት	V.MSDR;
 አገረሸ	አገረሸ	V;PFV;NOM(MASC;3,SG)
 አገረሸ	አገርሽቶ	V.CVB;NOM(MASC;3,SG)
 አገረሸ	አገርሽቷል	V;PRF;NOM(MASC;3,SG)
@@ -31831,7 +31831,7 @@
 አገር	አገሯ	N;DEF;FEM;LGSPEC1
 አገር	አገሯ	N;PSS(3,SG,FEM)
 አገባ	ላግባ	V;IMP;NOM(1,SG)
-አገባ	ማግባት	V.MSDR
+አገባ	ማግባት	V.MSDR;
 አገባ	ታገቡ	V;IPFV;NFIN;NOM(2,PL)
 አገባ	ታገቢ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አገባ	ታገቢያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -31880,7 +31880,7 @@
 አገባ	ያግቡ	V;IMP;NOM(3,PL)
 አገባ	ያግባ	V;IMP;NOM(MASC;3,SG)
 አገኘ	ላግኝ	V;IMP;NOM(1,SG)
-አገኘ	ማግኘት	V.MSDR
+አገኘ	ማግኘት	V.MSDR;
 አገኘ	ታገኙ	V;IPFV;NFIN;NOM(2,PL)
 አገኘ	ታገኚ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አገኘ	ታገኛለህ	V;IPFV;NOM(MASC;2,SG)
@@ -31929,7 +31929,7 @@
 አገኘ	ያግኙ	V;IMP;NOM(3,PL)
 አገኘ	ያግኝ	V;IMP;NOM(MASC;3,SG)
 አገዘ	ላግዝ	V;IMP;NOM(1,SG)
-አገዘ	ማገዝ	V.MSDR
+አገዘ	ማገዝ	V.MSDR;
 አገዘ	ታግዙ	V;IPFV;NFIN;NOM(2,PL)
 አገዘ	ታግዛለህ	V;IPFV;NOM(MASC;2,SG)
 አገዘ	ታግዛለች	V;IPFV;NOM(FEM;3,SG)
@@ -31978,7 +31978,7 @@
 አገዘ	ያግዝ	V;IMP;NOM(MASC;3,SG)
 አገዘ	ያግዝ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አገደ	ላግድ	V;IMP;NOM(1,SG)
-አገደ	ማገድ	V.MSDR
+አገደ	ማገድ	V.MSDR;
 አገደ	ታግዱ	V;IPFV;NFIN;NOM(2,PL)
 አገደ	ታግዳለህ	V;IPFV;NOM(MASC;2,SG)
 አገደ	ታግዳለች	V;IPFV;NOM(FEM;3,SG)
@@ -32060,7 +32060,7 @@
 አጋር	አጋሮቿ	N;PL;PSS(3,SG,FEM)
 አጋር	አጋሯ	N;PSS(3,SG,FEM)
 አጋባ	ላጋባ	V;IMP;NOM(1,SG)
-አጋባ	ማጋባት	V.MSDR
+አጋባ	ማጋባት	V.MSDR;
 አጋባ	ታጋቡ	V;IPFV;NFIN;NOM(2,PL)
 አጋባ	ታጋቢ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አጋባ	ታጋቢያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -32109,7 +32109,7 @@
 አጋባ	ያጋባሉ	V;IPFV;NOM(3,PL)
 አጋባ	ያጋባል	V;IPFV;NOM(MASC;3,SG)
 አጋዘ	ላግዝ	V;IMP;NOM(1,SG)
-አጋዘ	ማጋዝ	V.MSDR
+አጋዘ	ማጋዝ	V.MSDR;
 አጋዘ	ታግዙ	V;IPFV;NFIN;NOM(2,PL)
 አጋዘ	ታግዛለህ	V;IPFV;NOM(MASC;2,SG)
 አጋዘ	ታግዛለች	V;IPFV;NOM(FEM;3,SG)
@@ -32157,7 +32157,7 @@
 አጋዘ	ያግዛል	V;IPFV;NOM(MASC;3,SG)
 አጋዘ	ያግዝ	V;IMP;NOM(MASC;3,SG)
 አጋዘ	ያግዝ	V;IPFV;NFIN;NOM(MASC;3,SG)
-አጋጠመ	ማጋጠም	V.MSDR
+አጋጠመ	ማጋጠም	V.MSDR;
 አጋጠመ	አጋጠመ	V;PFV;NOM(MASC;3,SG)
 አጋጠመ	አጋጥሞ	V.CVB;NOM(MASC;3,SG)
 አጋጠመ	አጋጥሟል	V;PRF;NOM(MASC;3,SG)
@@ -32168,7 +32168,7 @@
 አጋፋሪ	አጋፋሪው	N;DEF;MASC
 አጋፋሪ	አጋፋሪዎቹ	N;DEF;PL
 አጋፋሪ	አጋፋሪዎች	N;PL
-አጎላ	ማጉላት	V.MSDR
+አጎላ	ማጉላት	V.MSDR;
 አጎላ	አጉልቶ	V.CVB;NOM(MASC;3,SG)
 አጎላ	አጉልቷል	V;PRF;NOM(MASC;3,SG)
 አጎላ	አጎላ	V;PFV;NOM(MASC;3,SG)
@@ -32179,7 +32179,7 @@
 አጎት	አጎት	N
 አጎት	አጎቶቹ	N;DEF;PL
 አጎት	አጎቶች	N;PL
-አጠራጠረ	ማጠራጠር	V.MSDR
+አጠራጠረ	ማጠራጠር	V.MSDR;
 አጠራጠረ	አጠራጠረ	V;PFV;NOM(MASC;3,SG)
 አጠራጠረ	አጠራጥሮ	V.CVB;NOM(MASC;3,SG)
 አጠራጠረ	አጠራጥሯል	V;PRF;NOM(MASC;3,SG)
@@ -32187,7 +32187,7 @@
 አጠራጠረ	ያጠራጥር	V;IMP;NOM(MASC;3,SG)
 አጠራጠረ	ያጠራጥር	V;IPFV;NFIN;NOM(MASC;3,SG)
 አጠቃ	ላጥቃ	V;IMP;NOM(1,SG)
-አጠቃ	ማጥቃት	V.MSDR
+አጠቃ	ማጥቃት	V.MSDR;
 አጠቃ	ታጠቁ	V;IPFV;NFIN;NOM(2,PL)
 አጠቃ	ታጠቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አጠቃ	ታጠቂያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -32236,7 +32236,7 @@
 አጠቃ	ያጥቁ	V;IMP;NOM(3,PL)
 አጠቃ	ያጥቃ	V;IMP;NOM(MASC;3,SG)
 አጠቃለለ	ላጠቃልል	V;IMP;NOM(1,SG)
-አጠቃለለ	ማጠቃለል	V.MSDR
+አጠቃለለ	ማጠቃለል	V.MSDR;
 አጠቃለለ	ታጠቃልሉ	V;IPFV;NFIN;NOM(2,PL)
 አጠቃለለ	ታጠቃልላለህ	V;IPFV;NOM(MASC;2,SG)
 አጠቃለለ	ታጠቃልላለች	V;IPFV;NOM(FEM;3,SG)
@@ -32285,7 +32285,7 @@
 አጠቃለለ	ያጠቃልል	V;IMP;NOM(MASC;3,SG)
 አጠቃለለ	ያጠቃልል	V;IPFV;NFIN;NOM(MASC;3,SG)
 አጠበ	ልጠብ	V;IMP;NOM(1,SG)
-አጠበ	ማጠብ	V.MSDR
+አጠበ	ማጠብ	V.MSDR;
 አጠበ	ታጥቡ	V;IPFV;NFIN;NOM(2,PL)
 አጠበ	ታጥቢ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አጠበ	ታጥቢያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -32334,7 +32334,7 @@
 አጠበ	ይጠቡ	V;IMP;NOM(3,PL)
 አጠበ	ይጠብ	V;IMP;NOM(MASC;3,SG)
 አጠና	ላጥና	V;IMP;NOM(1,SG)
-አጠና	ማጥናት	V.MSDR
+አጠና	ማጥናት	V.MSDR;
 አጠና	ታጠኑ	V;IPFV;NFIN;NOM(2,PL)
 አጠና	ታጠና	V;IPFV;NFIN;NOM(MASC;2,SG)
 አጠና	ታጠና	V;IPFV;NFIN;NOM(FEM;3,SG)
@@ -32383,7 +32383,7 @@
 አጠና	ያጥኑ	V;IMP;NOM(3,PL)
 አጠና	ያጥና	V;IMP;NOM(MASC;3,SG)
 አጠናቀቀ	ላጠናቅቅ	V;IMP;NOM(1,SG)
-አጠናቀቀ	ማጠናቀቅ	V.MSDR
+አጠናቀቀ	ማጠናቀቅ	V.MSDR;
 አጠናቀቀ	ታጠናቅቁ	V;IPFV;NFIN;NOM(2,PL)
 አጠናቀቀ	ታጠናቅቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አጠናቀቀ	ታጠናቅቂያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -32432,7 +32432,7 @@
 አጠናቀቀ	ያጠናቅቅ	V;IMP;NOM(MASC;3,SG)
 አጠናቀቀ	ያጠናቅቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
 አጠናከረ	ላጠናክር	V;IMP;NOM(1,SG)
-አጠናከረ	ማጠናከር	V.MSDR
+አጠናከረ	ማጠናከር	V.MSDR;
 አጠናከረ	ታጠናክሩ	V;IPFV;NFIN;NOM(2,PL)
 አጠናከረ	ታጠናክሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አጠናከረ	ታጠናክሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -32481,7 +32481,7 @@
 አጠናከረ	ያጠናክር	V;IMP;NOM(MASC;3,SG)
 አጠናከረ	ያጠናክር	V;IPFV;NFIN;NOM(MASC;3,SG)
 አጠፋ	ላጥፋ	V;IMP;NOM(1,SG)
-አጠፋ	ማጥፋት	V.MSDR
+አጠፋ	ማጥፋት	V.MSDR;
 አጠፋ	ታጠፉ	V;IPFV;NFIN;NOM(2,PL)
 አጠፋ	ታጠፊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አጠፋ	ታጠፊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -32530,7 +32530,7 @@
 አጠፋ	ያጥፉ	V;IMP;NOM(3,PL)
 አጠፋ	ያጥፋ	V;IMP;NOM(MASC;3,SG)
 አጣ	ልጣ	V;IMP;NOM(1,SG)
-አጣ	ማጣት	V.MSDR
+አጣ	ማጣት	V.MSDR;
 አጣ	ታጡ	V;IPFV;NFIN;NOM(2,PL)
 አጣ	ታጣ	V;IPFV;NFIN;NOM(MASC;2,SG)
 አጣ	ታጣ	V;IPFV;NFIN;NOM(FEM;3,SG)
@@ -32579,7 +32579,7 @@
 አጣ	ይጡ	V;IMP;NOM(3,PL)
 አጣ	ይጣ	V;IMP;NOM(MASC;3,SG)
 አጣጣለ	ላጣጥል	V;IMP;NOM(1,SG)
-አጣጣለ	ማጣጣል	V.MSDR
+አጣጣለ	ማጣጣል	V.MSDR;
 አጣጣለ	ታጣጥሉ	V;IPFV;NFIN;NOM(2,PL)
 አጣጣለ	ታጣጥላለህ	V;IPFV;NOM(MASC;2,SG)
 አጣጣለ	ታጣጥላለች	V;IPFV;NOM(FEM;3,SG)
@@ -32673,7 +32673,7 @@
 አጭር	አጭሮች	ADJ;PL;LGSPEC2
 አጭር	አጭሯ	ADJ;DEF;FEM
 አጸደቀ	ላጽድቅ	V;IMP;NOM(1,SG)
-አጸደቀ	ማጽደቅ	V.MSDR
+አጸደቀ	ማጽደቅ	V.MSDR;
 አጸደቀ	ታጸድቁ	V;IPFV;NFIN;NOM(2,PL)
 አጸደቀ	ታጸድቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አጸደቀ	ታጸድቂያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -32783,7 +32783,7 @@
 አፈሣ	አፈሣ	N
 አፈሣ	አፈሣው	N;DEF;MASC
 አፈረ	ልፈር	V;IMP;NOM(1,SG)
-አፈረ	ማፈር	V.MSDR
+አፈረ	ማፈር	V.MSDR;
 አፈረ	ታፍሩ	V;IPFV;NFIN;NOM(2,PL)
 አፈረ	ታፍሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አፈረ	ታፍሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -32832,7 +32832,7 @@
 አፈረ	ይፈሩ	V;IMP;NOM(3,PL)
 አፈረ	ይፈር	V;IMP;NOM(MASC;3,SG)
 አፈረሰ	ላፍርስ	V;IMP;NOM(1,SG)
-አፈረሰ	ማፍረስ	V.MSDR
+አፈረሰ	ማፍረስ	V.MSDR;
 አፈረሰ	ታፈርሱ	V;IPFV;NFIN;NOM(2,PL)
 አፈረሰ	ታፈርሳለህ	V;IPFV;NOM(MASC;2,SG)
 አፈረሰ	ታፈርሳለች	V;IPFV;NOM(FEM;3,SG)
@@ -32881,7 +32881,7 @@
 አፈረሰ	ያፍርሱ	V;IMP;NOM(3,PL)
 አፈረሰ	ያፍርስ	V;IMP;NOM(MASC;3,SG)
 አፈራ	ላፍራ	V;IMP;NOM(1,SG)
-አፈራ	ማፍራት	V.MSDR
+አፈራ	ማፍራት	V.MSDR;
 አፈራ	ታፈሩ	V;IPFV;NFIN;NOM(2,PL)
 አፈራ	ታፈሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አፈራ	ታፈሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -32932,7 +32932,7 @@
 አፈር	አፈሩ	N;DEF;MASC
 አፈር	አፈር	N
 አፈሰሰ	ላፍስስ	V;IMP;NOM(1,SG)
-አፈሰሰ	ማፍሰስ	V.MSDR
+አፈሰሰ	ማፍሰስ	V.MSDR;
 አፈሰሰ	ታፈሱ	V;IPFV;NFIN;NOM(2,PL)
 አፈሰሰ	ታፈሳለህ	V;IPFV;NOM(MASC;2,SG)
 አፈሰሰ	ታፈሳለች	V;IPFV;NOM(FEM;3,SG)
@@ -32983,7 +32983,7 @@
 አፈሳ	አፈሳ	N
 አፈሳ	አፈሳው	N;DEF;MASC
 አፈነ	ላፍን	V;IMP;NOM(1,SG)
-አፈነ	ማፈን	V.MSDR
+አፈነ	ማፈን	V.MSDR;
 አፈነ	ታፍኑ	V;IPFV;NFIN;NOM(2,PL)
 አፈነ	ታፍናለህ	V;IPFV;NOM(MASC;2,SG)
 አፈነ	ታፍናለች	V;IPFV;NOM(FEM;3,SG)
@@ -33041,7 +33041,7 @@
 አፈንጋጭ	አፈንጋጮቹ	N;DEF;PL
 አፈንጋጭ	አፈንጋጮች	N;PL
 አፋረ	ላፍር	V;IMP;NOM(1,SG)
-አፋረ	ማፋር	V.MSDR
+አፋረ	ማፋር	V.MSDR;
 አፋረ	ታፍሩ	V;IPFV;NFIN;NOM(2,PL)
 አፋረ	ታፍሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 አፋረ	ታፍሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -34265,7 +34265,7 @@
 ኦርቶዶክስ	ኦርቶዶክሶቹ	N;DEF;PL
 ኦርቶዶክስ	ኦርቶዶክሶች	N;PL
 ከለከለ	ልከልክል	V;IMP;NOM(1,SG)
-ከለከለ	መከልከል	V.MSDR
+ከለከለ	መከልከል	V.MSDR;
 ከለከለ	ትከለክሉ	V;IPFV;NFIN;NOM(2,PL)
 ከለከለ	ትከለክላለህ	V;IPFV;NOM(MASC;2,SG)
 ከለከለ	ትከለክላለች	V;IPFV;NOM(FEM;3,SG)
@@ -34325,7 +34325,7 @@
 ከልብ	ከልብዎ	N;PSS(2,SG,FORM)
 ከልብ	ከልቧ	N;PSS(3,SG,FEM)
 ከረከረ	ልከርክር	V;IMP;NOM(1,SG)
-ከረከረ	መከርከር	V.MSDR
+ከረከረ	መከርከር	V.MSDR;
 ከረከረ	ትከረክሩ	V;IPFV;NFIN;NOM(2,PL)
 ከረከረ	ትከረክሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ከረከረ	ትከረክሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -34374,7 +34374,7 @@
 ከረከረ	ይከርክሩ	V;IMP;NOM(3,PL)
 ከረከረ	ይከርክር	V;IMP;NOM(MASC;3,SG)
 ከሰሰ	ልክሰስ	V;IMP;NOM(1,SG)
-ከሰሰ	መክሰስ	V.MSDR
+ከሰሰ	መክሰስ	V.MSDR;
 ከሰሰ	ትከሱ	V;IPFV;NFIN;NOM(2,PL)
 ከሰሰ	ትከሳለህ	V;IPFV;NOM(MASC;2,SG)
 ከሰሰ	ትከሳለች	V;IPFV;NOM(FEM;3,SG)
@@ -34427,7 +34427,7 @@
 ከሳሽ	ከሳሾቹ	N;DEF;PL
 ከሳሽ	ከሳሾች	N;PL
 ከበረ	ልክበር	V;IMP;NOM(1,SG)
-ከበረ	መክበር	V.MSDR
+ከበረ	መክበር	V.MSDR;
 ከበረ	ትከብሩ	V;IPFV;NFIN;NOM(2,PL)
 ከበረ	ትከብሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ከበረ	ትከብሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -34479,7 +34479,7 @@
 ከበርቴ	ከበርቴው	N;DEF;MASC
 ከበርቴ	ከበርቴዎቹ	N;DEF;PL
 ከበርቴ	ከበርቴዎች	N;PL
-ከበደ	መክበድ	V.MSDR
+ከበደ	መክበድ	V.MSDR;
 ከበደ	ከበደ	V;PFV;NOM(MASC;3,SG)
 ከበደ	ከብዶ	V.CVB;NOM(MASC;3,SG)
 ከበደ	ከብዷል	V;PRF;NOM(MASC;3,SG)
@@ -34550,7 +34550,7 @@
 ከተማ	ከተሞችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 ከተማ	ከተሞቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
 ከተተ	ልክተት	V;IMP;NOM(1,SG)
-ከተተ	መክተት	V.MSDR
+ከተተ	መክተት	V.MSDR;
 ከተተ	ትከቱ	V;IPFV;NFIN;NOM(2,PL)
 ከተተ	ትከታለህ	V;IPFV;NOM(MASC;2,SG)
 ከተተ	ትከታለች	V;IPFV;NOM(FEM;3,SG)
@@ -34631,7 +34631,7 @@
 ከንፈር	ከንፈሮቿ	N;PL;PSS(3,SG,FEM)
 ከንፈር	ከንፈሯ	N;PSS(3,SG,FEM)
 ከፈለ	ልክፈል	V;IMP;NOM(1,SG)
-ከፈለ	መክፈል	V.MSDR
+ከፈለ	መክፈል	V.MSDR;
 ከፈለ	ትከፍሉ	V;IPFV;NFIN;NOM(2,PL)
 ከፈለ	ትከፍላለህ	V;IPFV;NOM(MASC;2,SG)
 ከፈለ	ትከፍላለች	V;IPFV;NOM(FEM;3,SG)
@@ -34680,7 +34680,7 @@
 ከፈለ	ይክፈሉ	V;IMP;NOM(3,PL)
 ከፈለ	ይክፈል	V;IMP;NOM(MASC;3,SG)
 ከፈተ	ልክፈት	V;IMP;NOM(1,SG)
-ከፈተ	መክፈት	V.MSDR
+ከፈተ	መክፈት	V.MSDR;
 ከፈተ	ትከፍቱ	V;IPFV;NFIN;NOM(2,PL)
 ከፈተ	ትከፍታለህ	V;IPFV;NOM(MASC;2,SG)
 ከፈተ	ትከፍታለች	V;IPFV;NOM(FEM;3,SG)
@@ -34828,7 +34828,7 @@
 ካርታ	ካርታዎቹ	N;DEF;PL
 ካርታ	ካርታዎች	N;PL
 ካሰ	ልካስ	V;IMP;NOM(1,SG)
-ካሰ	መካስ	V.MSDR
+ካሰ	መካስ	V.MSDR;
 ካሰ	ትካስ	V;IMP;NOM(FEM;3,SG)
 ካሰ	ትክሱ	V;IPFV;NFIN;NOM(2,PL)
 ካሰ	ትክሳለህ	V;IPFV;NOM(MASC;2,SG)
@@ -34892,7 +34892,7 @@
 ካቶሊክ	ካቶሊኮቹ	N;DEF;PL
 ካቶሊክ	ካቶሊኮች	N;PL
 ካደ	ልካድ	V;IMP;NOM(1,SG)
-ካደ	መካድ	V.MSDR
+ካደ	መካድ	V.MSDR;
 ካደ	ትካድ	V;IMP;NOM(FEM;3,SG)
 ካደ	ትክዱ	V;IPFV;NFIN;NOM(2,PL)
 ካደ	ትክዳለህ	V;IPFV;NOM(MASC;2,SG)
@@ -35260,7 +35260,7 @@
 ኮረብታ	ኮረብቶቹ	N;DEF;PL;LGSPEC1
 ኮረብታ	ኮረብቶች	N;PL;LGSPEC1
 ኮራ	ልኩራ	V;IMP;NOM(1,SG)
-ኮራ	መኩራት	V.MSDR
+ኮራ	መኩራት	V.MSDR;
 ኮራ	ትኩራ	V;IMP;NOM(FEM;3,SG)
 ኮራ	ትኮሩ	V;IPFV;NFIN;NOM(2,PL)
 ኮራ	ትኮሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
@@ -35309,7 +35309,7 @@
 ኮራ	ይኮራሉ	V;IPFV;NOM(3,PL)
 ኮራ	ይኮራል	V;IPFV;NOM(MASC;3,SG)
 ኮነነ	ልኮንን	V;IMP;NOM(1,SG)
-ኮነነ	መኮነን	V.MSDR
+ኮነነ	መኮነን	V.MSDR;
 ኮነነ	ትኮንኑ	V;IPFV;NFIN;NOM(2,PL)
 ኮነነ	ትኮንናለህ	V;IPFV;NOM(MASC;2,SG)
 ኮነነ	ትኮንናለች	V;IPFV;NOM(FEM;3,SG)
@@ -35414,7 +35414,7 @@
 ኳስ	ኳሷ	N;DEF;FEM
 ኳስ	ኳሷ	N;PSS(3,SG,FEM)
 ወለደ	ልውለድ	V;IMP;NOM(1,SG)
-ወለደ	መውለድ	V.MSDR
+ወለደ	መውለድ	V.MSDR;
 ወለደ	ትወልዱ	V;IPFV;NFIN;NOM(2,PL)
 ወለደ	ትወልዳለህ	V;IPFV;NOM(MASC;2,SG)
 ወለደ	ትወልዳለች	V;IPFV;NOM(FEM;3,SG)
@@ -35501,7 +35501,7 @@
 ወሣኝ	ወሣኞቹ	N;DEF;PL
 ወሣኝ	ወሣኞች	N;PL
 ወረረ	ልውረር	V;IMP;NOM(1,SG)
-ወረረ	መውረር	V.MSDR
+ወረረ	መውረር	V.MSDR;
 ወረረ	ትወሩ	V;IPFV;NFIN;NOM(2,PL)
 ወረረ	ትወሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ወረረ	ትወሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -35565,7 +35565,7 @@
 ወረርሽኝ	ወረርሽኞቹ	N;DEF;PL
 ወረርሽኝ	ወረርሽኞች	N;PL
 ወረሰ	ልውረስ	V;IMP;NOM(1,SG)
-ወረሰ	መውረስ	V.MSDR
+ወረሰ	መውረስ	V.MSDR;
 ወረሰ	ትወርሱ	V;IPFV;NFIN;NOM(2,PL)
 ወረሰ	ትወርሳለህ	V;IPFV;NOM(MASC;2,SG)
 ወረሰ	ትወርሳለች	V;IPFV;NOM(FEM;3,SG)
@@ -35638,7 +35638,7 @@
 ወረት	ወረቱ	N;DEF;MASC
 ወረት	ወረት	N
 ወረወረ	ልወርውር	V;IMP;NOM(1,SG)
-ወረወረ	መወርወር	V.MSDR
+ወረወረ	መወርወር	V.MSDR;
 ወረወረ	ትወረውሩ	V;IPFV;NFIN;NOM(2,PL)
 ወረወረ	ትወረውሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ወረወረ	ትወረውሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -35687,7 +35687,7 @@
 ወረወረ	ይወርውሩ	V;IMP;NOM(3,PL)
 ወረወረ	ይወርውር	V;IMP;NOM(MASC;3,SG)
 ወረደ	ልውረድ	V;IMP;NOM(1,SG)
-ወረደ	መውረድ	V.MSDR
+ወረደ	መውረድ	V.MSDR;
 ወረደ	ትወርዱ	V;IPFV;NFIN;NOM(2,PL)
 ወረደ	ትወርዳለህ	V;IPFV;NOM(MASC;2,SG)
 ወረደ	ትወርዳለች	V;IPFV;NOM(FEM;3,SG)
@@ -35802,7 +35802,7 @@
 ወርድ	ወርዱ	N;DEF;MASC
 ወርድ	ወርድ	N
 ወሰነ	ልወስን	V;IMP;NOM(1,SG)
-ወሰነ	መወሰን	V.MSDR
+ወሰነ	መወሰን	V.MSDR;
 ወሰነ	ትወስኑ	V;IPFV;NFIN;NOM(2,PL)
 ወሰነ	ትወስናለህ	V;IPFV;NOM(MASC;2,SG)
 ወሰነ	ትወስናለች	V;IPFV;NOM(FEM;3,SG)
@@ -35855,7 +35855,7 @@
 ወሰን	ወሰኖቹ	N;DEF;PL
 ወሰን	ወሰኖች	N;PL
 ወሰደ	ልውሰድ	V;IMP;NOM(1,SG)
-ወሰደ	መውሰድ	V.MSDR
+ወሰደ	መውሰድ	V.MSDR;
 ወሰደ	ትወስዱ	V;IPFV;NFIN;NOM(2,PL)
 ወሰደ	ትወስዳለህ	V;IPFV;NOM(MASC;2,SG)
 ወሰደ	ትወስዳለች	V;IPFV;NOM(FEM;3,SG)
@@ -35908,7 +35908,7 @@
 ወሳኝ	ወሳኞቹ	N;DEF;PL
 ወሳኝ	ወሳኞች	N;PL
 ወቀሰ	ልውቀስ	V;IMP;NOM(1,SG)
-ወቀሰ	መውቀስ	V.MSDR
+ወቀሰ	መውቀስ	V.MSDR;
 ወቀሰ	ትወቅሱ	V;IPFV;NFIN;NOM(2,PL)
 ወቀሰ	ትወቅሳለህ	V;IPFV;NOM(MASC;2,SG)
 ወቀሰ	ትወቅሳለች	V;IPFV;NOM(FEM;3,SG)
@@ -35995,7 +35995,7 @@
 ወባ	ወባ	N
 ወባ	ወባው	N;DEF;MASC
 ወነጀለ	ልወንጅል	V;IMP;NOM(1,SG)
-ወነጀለ	መወንጀል	V.MSDR
+ወነጀለ	መወንጀል	V.MSDR;
 ወነጀለ	ትወነጅሉ	V;IPFV;NFIN;NOM(2,PL)
 ወነጀለ	ትወነጅላለህ	V;IPFV;NOM(MASC;2,SG)
 ወነጀለ	ትወነጅላለች	V;IPFV;NOM(FEM;3,SG)
@@ -36148,7 +36148,7 @@
 ወንጌል	ወንጌሎቿ	N;PL;PSS(3,SG,FEM)
 ወንጌል	ወንጌሏ	N;PSS(3,SG,FEM)
 ወከለ	ልወክል	V;IMP;NOM(1,SG)
-ወከለ	መወከል	V.MSDR
+ወከለ	መወከል	V.MSDR;
 ወከለ	ትወክሉ	V;IPFV;NFIN;NOM(2,PL)
 ወከለ	ትወክላለህ	V;IPFV;NOM(MASC;2,SG)
 ወከለ	ትወክላለች	V;IPFV;NOM(FEM;3,SG)
@@ -36256,7 +36256,7 @@
 ወይፈን	ወይፈኖቹ	N;DEF;PL
 ወይፈን	ወይፈኖች	N;PL
 ወደመ	ልውደም	V;IMP;NOM(1,SG)
-ወደመ	መውደም	V.MSDR
+ወደመ	መውደም	V.MSDR;
 ወደመ	ትወድሙ	V;IPFV;NFIN;NOM(2,PL)
 ወደመ	ትወድሚ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ወደመ	ትወድሚያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -36305,7 +36305,7 @@
 ወደመ	ይውደሙ	V;IMP;NOM(3,PL)
 ወደመ	ይውደም	V;IMP;NOM(MASC;3,SG)
 ወደቀ	ልውደቅ	V;IMP;NOM(1,SG)
-ወደቀ	መውደቅ	V.MSDR
+ወደቀ	መውደቅ	V.MSDR;
 ወደቀ	ትወድቁ	V;IPFV;NFIN;NOM(2,PL)
 ወደቀ	ትወድቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ወደቀ	ትወድቂያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -36376,7 +36376,7 @@
 ወደብ	ወደቦቿ	N;PL;PSS(3,SG,FEM)
 ወደብ	ወደቧ	N;PSS(3,SG,FEM)
 ወደደ	ልውደድ	V;IMP;NOM(1,SG)
-ወደደ	መውደድ	V.MSDR
+ወደደ	መውደድ	V.MSDR;
 ወደደ	ትወዱ	V;IPFV;NFIN;NOM(2,PL)
 ወደደ	ትወዳለህ	V;IPFV;NOM(MASC;2,SG)
 ወደደ	ትወዳለች	V;IPFV;NOM(FEM;3,SG)
@@ -36507,7 +36507,7 @@
 ወግ	ወጉ	N;DEF;MASC
 ወግ	ወግ	N
 ወጣ	ልውጣ	V;IMP;NOM(1,SG)
-ወጣ	መውጣት	V.MSDR
+ወጣ	መውጣት	V.MSDR;
 ወጣ	ትወጡ	V;IPFV;NFIN;NOM(2,PL)
 ወጣ	ትወጣ	V;IPFV;NFIN;NOM(MASC;2,SG)
 ወጣ	ትወጣ	V;IPFV;NFIN;NOM(FEM;3,SG)
@@ -36633,7 +36633,7 @@
 ወፍራም	ወፍራሞች	ADJ;PL
 ወፍራም	ወፍራሟ	ADJ;DEF;FEM
 ዋለ	ልዋል	V;IMP;NOM(1,SG)
-ዋለ	መዋል	V.MSDR
+ዋለ	መዋል	V.MSDR;
 ዋለ	ትዋል	V;IMP;NOM(FEM;3,SG)
 ዋለ	ትውሉ	V;IPFV;NFIN;NOM(2,PL)
 ዋለ	ትውላለህ	V;IPFV;NOM(MASC;2,SG)
@@ -36782,7 +36782,7 @@
 ዋግ	ዋግዎ	N;PSS(2,SG,FORM)
 ዋግ	ዋጓ	N;PSS(3,SG,FEM)
 ዋጠ	ልዋጥ	V;IMP;NOM(1,SG)
-ዋጠ	መዋጥ	V.MSDR
+ዋጠ	መዋጥ	V.MSDR;
 ዋጠ	ትዋጥ	V;IMP;NOM(FEM;3,SG)
 ዋጠ	ትውጡ	V;IPFV;NFIN;NOM(2,PL)
 ዋጠ	ትውጣለህ	V;IPFV;NOM(MASC;2,SG)
@@ -37798,7 +37798,7 @@
 ዕፅ	ዕፅዋት	N;PL
 ዕፅ	ዕፆቹ	N;DEF;PL;LGSPEC1
 ዕፅ	ዕፆች	N;PL;LGSPEC1
-ዘለቀ	መዝለቅ	V.MSDR
+ዘለቀ	መዝለቅ	V.MSDR;
 ዘለቀ	ዘለቀ	V;PFV;NOM(MASC;3,SG)
 ዘለቀ	ዘልቆ	V.CVB;NOM(MASC;3,SG)
 ዘለቀ	ዘልቋል	V;PRF;NOM(MASC;3,SG)
@@ -37813,7 +37813,7 @@
 ዘላቂ	ዘላቂዎቹ	ADJ;DEF;PL
 ዘላቂ	ዘላቂዎች	ADJ;PL
 ዘመረ	ልዘምር	V;IMP;NOM(1,SG)
-ዘመረ	መዘመር	V.MSDR
+ዘመረ	መዘመር	V.MSDR;
 ዘመረ	ትዘምሩ	V;IPFV;NFIN;NOM(2,PL)
 ዘመረ	ትዘምሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ዘመረ	ትዘምሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -37862,7 +37862,7 @@
 ዘመረ	ይዘምር	V;IMP;NOM(MASC;3,SG)
 ዘመረ	ይዘምር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ዘመተ	ልዝመት	V;IMP;NOM(1,SG)
-ዘመተ	መዝመት	V.MSDR
+ዘመተ	መዝመት	V.MSDR;
 ዘመተ	ትዘምቱ	V;IPFV;NFIN;NOM(2,PL)
 ዘመተ	ትዘምታለህ	V;IPFV;NOM(MASC;2,SG)
 ዘመተ	ትዘምታለች	V;IPFV;NOM(FEM;3,SG)
@@ -37976,7 +37976,7 @@
 ዘረኛ	ዘረኞቹ	N;DEF;PL
 ዘረኛ	ዘረኞች	N;PL
 ዘረዘረ	ልዘርዝር	V;IMP;NOM(1,SG)
-ዘረዘረ	መዘርዘር	V.MSDR
+ዘረዘረ	መዘርዘር	V.MSDR;
 ዘረዘረ	ትዘረዝሩ	V;IPFV;NFIN;NOM(2,PL)
 ዘረዘረ	ትዘረዝሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ዘረዘረ	ትዘረዝሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -38025,7 +38025,7 @@
 ዘረዘረ	ይዘርዝሩ	V;IMP;NOM(3,PL)
 ዘረዘረ	ይዘርዝር	V;IMP;NOM(MASC;3,SG)
 ዘረጋ	ልዘርጋ	V;IMP;NOM(1,SG)
-ዘረጋ	መዘርጋት	V.MSDR
+ዘረጋ	መዘርጋት	V.MSDR;
 ዘረጋ	ትዘረጉ	V;IPFV;NFIN;NOM(2,PL)
 ዘረጋ	ትዘረጊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ዘረጋ	ትዘረጊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -38076,7 +38076,7 @@
 ዘረፋ	ዘረፋ	N
 ዘረፋ	ዘረፋው	N;DEF;MASC
 ዘራ	ልዝራ	V;IMP;NOM(1,SG)
-ዘራ	መዝራት	V.MSDR
+ዘራ	መዝራት	V.MSDR;
 ዘራ	ትዘሩ	V;IPFV;NFIN;NOM(2,PL)
 ዘራ	ትዘሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ዘራ	ትዘሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -38185,7 +38185,7 @@
 ዘብ	ዘቦቹ	N;DEF;PL
 ዘብ	ዘቦች	N;PL
 ዘነጋ	ልዘንጋ	V;IMP;NOM(1,SG)
-ዘነጋ	መዘንጋት	V.MSDR
+ዘነጋ	መዘንጋት	V.MSDR;
 ዘነጋ	ትዘነጉ	V;IPFV;NFIN;NOM(2,PL)
 ዘነጋ	ትዘነጊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ዘነጋ	ትዘነጊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -38331,7 +38331,7 @@
 ዘዴ	ዘዴያችን	N;PSS(1,PL)
 ዘዴ	ዘዴዬ	N;PSS(1,SG)
 ዘገበ	ልዝገብ	V;IMP;NOM(1,SG)
-ዘገበ	መዝገብ	V.MSDR
+ዘገበ	መዝገብ	V.MSDR;
 ዘገበ	ትዘግቡ	V;IPFV;NFIN;NOM(2,PL)
 ዘገበ	ትዘግቢ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ዘገበ	ትዘግቢያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -38412,7 +38412,7 @@
 ዘገባ	ዘገቦችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 ዘገባ	ዘገቦቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
 ዘገየ	ልዘግይ	V;IMP;NOM(1,SG)
-ዘገየ	መዘግየት	V.MSDR
+ዘገየ	መዘግየት	V.MSDR;
 ዘገየ	ትዘገዩ	V;IPFV;NFIN;NOM(2,PL)
 ዘገየ	ትዘገዪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ዘገየ	ትዘገያለህ	V;IPFV;NOM(MASC;2,SG)
@@ -38461,7 +38461,7 @@
 ዘገየ	ይዘግዩ	V;IMP;NOM(3,PL)
 ዘገየ	ይዘግይ	V;IMP;NOM(MASC;3,SG)
 ዘጋ	ልዝጋ	V;IMP;NOM(1,SG)
-ዘጋ	መዝጋት	V.MSDR
+ዘጋ	መዝጋት	V.MSDR;
 ዘጋ	ትዘጉ	V;IPFV;NFIN;NOM(2,PL)
 ዘጋ	ትዘጊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ዘጋ	ትዘጊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -38584,7 +38584,7 @@
 ዙፋን	ዙፋኖቿ	N;PL;PSS(3,SG,FEM)
 ዙፋን	ዙፋኗ	N;PSS(3,SG,FEM)
 ዛለ	ልዛል	V;IMP;NOM(1,SG)
-ዛለ	መዛል	V.MSDR
+ዛለ	መዛል	V.MSDR;
 ዛለ	ትዛል	V;IMP;NOM(FEM;3,SG)
 ዛለ	ትዝሉ	V;IPFV;NFIN;NOM(2,PL)
 ዛለ	ትዝላለህ	V;IPFV;NOM(MASC;2,SG)
@@ -38775,7 +38775,7 @@
 ዝግጅት	ዝግጅቶቿ	N;PL;PSS(3,SG,FEM)
 ዝግጅት	ዝግጅቷ	N;PSS(3,SG,FEM)
 ዞረ	ልዙር	V;IMP;NOM(1,SG)
-ዞረ	መዞር	V.MSDR
+ዞረ	መዞር	V.MSDR;
 ዞረ	ትዙር	V;IMP;NOM(FEM;3,SG)
 ዞረ	ትዞሩ	V;IPFV;NFIN;NOM(2,PL)
 ዞረ	ትዞሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
@@ -38824,7 +38824,7 @@
 ዞረ	ይዞራል	V;IPFV;NOM(MASC;3,SG)
 ዞረ	ይዞር	V;IPFV;NFIN;NOM(MASC;3,SG)
 ያዘ	ልያዝ	V;IMP;NOM(1,SG)
-ያዘ	መያዝ	V.MSDR
+ያዘ	መያዝ	V.MSDR;
 ያዘ	ትያዝ	V;IMP;NOM(FEM;3,SG)
 ያዘ	ትይዙ	V;IPFV;NFIN;NOM(2,PL)
 ያዘ	ትይዛለህ	V;IPFV;NOM(MASC;2,SG)
@@ -38974,7 +38974,7 @@
 ደላላ	ደላሎቹ	N;DEF;PL
 ደላላ	ደላሎች	N;PL
 ደመሰሰ	ልደምስስ	V;IMP;NOM(1,SG)
-ደመሰሰ	መደምሰስ	V.MSDR
+ደመሰሰ	መደምሰስ	V.MSDR;
 ደመሰሰ	ትደመስሱ	V;IPFV;NFIN;NOM(2,PL)
 ደመሰሰ	ትደመስሳለህ	V;IPFV;NOM(MASC;2,SG)
 ደመሰሰ	ትደመስሳለች	V;IPFV;NOM(FEM;3,SG)
@@ -39034,7 +39034,7 @@
 ደመወዝ	ደመወዝዎ	N;PSS(2,SG,FORM)
 ደመወዝ	ደመወዟ	N;PSS(3,SG,FEM)
 ደመደመ	ልደምድም	V;IMP;NOM(1,SG)
-ደመደመ	መደምደም	V.MSDR
+ደመደመ	መደምደም	V.MSDR;
 ደመደመ	ትደመድሙ	V;IPFV;NFIN;NOM(2,PL)
 ደመደመ	ትደመድሚ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ደመደመ	ትደመድሚያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -39083,7 +39083,7 @@
 ደመደመ	ደምድሞ	V.CVB;NOM(MASC;3,SG)
 ደመደመ	ደምድሟል	V;PRF;NOM(MASC;3,SG)
 ደማ	ልድማ	V;IMP;NOM(1,SG)
-ደማ	መድማት	V.MSDR
+ደማ	መድማት	V.MSDR;
 ደማ	ትደሙ	V;IPFV;NFIN;NOM(2,PL)
 ደማ	ትደሚ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ደማ	ትደሚያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -39143,7 +39143,7 @@
 ደም	ደምዎ	N;PSS(2,SG,FORM)
 ደም	ደሟ	N;PSS(3,SG,FEM)
 ደረሰ	ልድረስ	V;IMP;NOM(1,SG)
-ደረሰ	መድረስ	V.MSDR
+ደረሰ	መድረስ	V.MSDR;
 ደረሰ	ትደርሱ	V;IPFV;NFIN;NOM(2,PL)
 ደረሰ	ትደርሳለህ	V;IPFV;NOM(MASC;2,SG)
 ደረሰ	ትደርሳለች	V;IPFV;NOM(FEM;3,SG)
@@ -39195,7 +39195,7 @@
 ደረሰኝ	ደረሰኝ	N
 ደረሰኝ	ደረሰኞቹ	N;DEF;PL
 ደረሰኝ	ደረሰኞች	N;PL
-ደረቀ	መድረቅ	V.MSDR
+ደረቀ	መድረቅ	V.MSDR;
 ደረቀ	ይደርቃል	V;IPFV;NOM(MASC;3,SG)
 ደረቀ	ይደርቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ደረቀ	ይድረቅ	V;IMP;NOM(MASC;3,SG)
@@ -39205,7 +39205,7 @@
 ደረቅ	ደረቁ	N;DEF;MASC
 ደረቅ	ደረቅ	N
 ደረጀ	ልደርጅ	V;IMP;NOM(1,SG)
-ደረጀ	መደርጀት	V.MSDR
+ደረጀ	መደርጀት	V.MSDR;
 ደረጀ	ትደረጁ	V;IPFV;NFIN;NOM(2,PL)
 ደረጀ	ትደረጂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ደረጀ	ትደረጃለህ	V;IPFV;NOM(MASC;2,SG)
@@ -39356,7 +39356,7 @@
 ደኅንነት	ደኅንነቶችዎ	N;PL;PSS(2,SG,FORM)
 ደኅንነት	ደኅንነቶቿ	N;PL;PSS(3,SG,FEM)
 ደኅንነት	ደኅንነቷ	N;PSS(3,SG,FEM)
-ደነቀ	መድነቅ	V.MSDR
+ደነቀ	መድነቅ	V.MSDR;
 ደነቀ	ይደንቃል	V;IPFV;NOM(MASC;3,SG)
 ደነቀ	ይደንቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ደነቀ	ይድነቅ	V;IMP;NOM(MASC;3,SG)
@@ -39364,7 +39364,7 @@
 ደነቀ	ደንቆ	V.CVB;NOM(MASC;3,SG)
 ደነቀ	ደንቋል	V;PRF;NOM(MASC;3,SG)
 ደነገገ	ልደንግግ	V;IMP;NOM(1,SG)
-ደነገገ	መደንገግ	V.MSDR
+ደነገገ	መደንገግ	V.MSDR;
 ደነገገ	ትደነግጉ	V;IPFV;NFIN;NOM(2,PL)
 ደነገገ	ትደነግጊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ደነገገ	ትደነግጊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -39413,7 +39413,7 @@
 ደነገገ	ደንግጎ	V.CVB;NOM(MASC;3,SG)
 ደነገገ	ደንግጓል	V;PRF;NOM(MASC;3,SG)
 ደነገጠ	ልደንግጥ	V;IMP;NOM(1,SG)
-ደነገጠ	መደንገጥ	V.MSDR
+ደነገጠ	መደንገጥ	V.MSDR;
 ደነገጠ	ትደነግጡ	V;IPFV;NFIN;NOM(2,PL)
 ደነገጠ	ትደነግጣለህ	V;IPFV;NOM(MASC;2,SG)
 ደነገጠ	ትደነግጣለች	V;IPFV;NOM(FEM;3,SG)
@@ -39495,7 +39495,7 @@
 ደንብ	ደንቦችዎ	N;PL;PSS(2,SG,FORM)
 ደንብ	ደንቦቿ	N;PL;PSS(3,SG,FEM)
 ደንብ	ደንቧ	N;PSS(3,SG,FEM)
-ደከመ	መድከም	V.MSDR
+ደከመ	መድከም	V.MSDR;
 ደከመ	ይደክማል	V;IPFV;NOM(MASC;3,SG)
 ደከመ	ይደክም	V;IPFV;NFIN;NOM(MASC;3,SG)
 ደከመ	ይድከም	V;IMP;NOM(MASC;3,SG)
@@ -39510,7 +39510,7 @@
 ደካማ	ደካሞቹ	ADJ;DEF;PL;LGSPEC1
 ደካማ	ደካሞች	ADJ;PL;LGSPEC1
 ደወለ	ልደውል	V;IMP;NOM(1,SG)
-ደወለ	መደወል	V.MSDR
+ደወለ	መደወል	V.MSDR;
 ደወለ	ትደውሉ	V;IPFV;NFIN;NOM(2,PL)
 ደወለ	ትደውላለህ	V;IPFV;NOM(MASC;2,SG)
 ደወለ	ትደውላለች	V;IPFV;NOM(FEM;3,SG)
@@ -39598,7 +39598,7 @@
 ደጅ	ደጆቿ	N;PL;PSS(3,SG,FEM)
 ደጅ	ደጇ	N;PSS(3,SG,FEM)
 ደገፈ	ልደግፍ	V;IMP;NOM(1,SG)
-ደገፈ	መደገፍ	V.MSDR
+ደገፈ	መደገፍ	V.MSDR;
 ደገፈ	ትደግፉ	V;IPFV;NFIN;NOM(2,PL)
 ደገፈ	ትደግፊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ደገፈ	ትደግፊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -39684,7 +39684,7 @@
 ደግነት	ደግነቱ	N;DEF;MASC
 ደግነት	ደግነት	N
 ደፈረ	ልድፈር	V;IMP;NOM(1,SG)
-ደፈረ	መድፈር	V.MSDR
+ደፈረ	መድፈር	V.MSDR;
 ደፈረ	ትደፍሩ	V;IPFV;NFIN;NOM(2,PL)
 ደፈረ	ትደፍሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ደፈረ	ትደፍሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -39771,7 +39771,7 @@
 ዲግሪ	ዲግርያቸው	N;LGSPEC1;PSS(3,PL)
 ዲግሪ	ዲግርያችሁ	N;LGSPEC1;PSS(2,PL)
 ዲግሪ	ዲግርያችን	N;LGSPEC1;PSS(1,PL)
-ዳረገ	መዳረግ	V.MSDR
+ዳረገ	መዳረግ	V.MSDR;
 ዳረገ	ይዳርጋል	V;IPFV;NOM(MASC;3,SG)
 ዳረገ	ይዳርግ	V;IMP;NOM(MASC;3,SG)
 ዳረገ	ይዳርግ	V;IPFV;NFIN;NOM(MASC;3,SG)
@@ -39790,7 +39790,7 @@
 ዳር	ዳርዎ	N;PSS(2,SG,FORM)
 ዳር	ዳሯ	N;PSS(3,SG,FEM)
 ዳነ	ልዳን	V;IMP;NOM(1,SG)
-ዳነ	መዳን	V.MSDR
+ዳነ	መዳን	V.MSDR;
 ዳነ	ትዳን	V;IMP;NOM(FEM;3,SG)
 ዳነ	ትድኑ	V;IPFV;NFIN;NOM(2,PL)
 ዳነ	ትድናለህ	V;IPFV;NOM(MASC;2,SG)
@@ -40277,7 +40277,7 @@
 ድፍረት	ድፍረቱ	N;DEF;MASC
 ድፍረት	ድፍረት	N
 ዶለ	ልዱል	V;IMP;NOM(1,SG)
-ዶለ	መዶል	V.MSDR
+ዶለ	መዶል	V.MSDR;
 ዶለ	ትዱል	V;IMP;NOM(FEM;3,SG)
 ዶለ	ትዶሉ	V;IPFV;NFIN;NOM(2,PL)
 ዶለ	ትዶላለህ	V;IPFV;NOM(MASC;2,SG)
@@ -40342,7 +40342,7 @@
 ጀልባ	ጀልባይቱ	N;DEF;FEM;LGSPEC1
 ጀልባ	ጀልቦቹ	N;DEF;PL;LGSPEC1
 ጀመረ	ልጀምር	V;IMP;NOM(1,SG)
-ጀመረ	መጀመር	V.MSDR
+ጀመረ	መጀመር	V.MSDR;
 ጀመረ	ትጀምሩ	V;IPFV;NFIN;NOM(2,PL)
 ጀመረ	ትጀምሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ጀመረ	ትጀምሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -40490,7 +40490,7 @@
 ገለልተኛ	ገለልተኛ	ADJ
 ገለልተኛ	ገለልተኛዋ	ADJ;DEF;FEM
 ገለልተኛ	ገለልተኛው	ADJ;DEF;MASC
-ገለበጠ	መገልበጥ	V.MSDR
+ገለበጠ	መገልበጥ	V.MSDR;
 ገለበጠ	ይገለብጣል	V;IPFV;NOM(MASC;3,SG)
 ገለበጠ	ይገለብጥ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ገለበጠ	ይገልብጥ	V;IMP;NOM(MASC;3,SG)
@@ -40498,7 +40498,7 @@
 ገለበጠ	ገልብጦ	V.CVB;NOM(MASC;3,SG)
 ገለበጠ	ገልብጧል	V;PRF;NOM(MASC;3,SG)
 ገለጸ	ልግለፅ	V;IMP;NOM(1,SG)
-ገለጸ	መግለፅ	V.MSDR
+ገለጸ	መግለፅ	V.MSDR;
 ገለጸ	ትገልጪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ገለጸ	ትገልጫለሽ	V;IPFV;NOM(FEM;2,SG)
 ገለጸ	ትገልፁ	V;IPFV;NFIN;NOM(2,PL)
@@ -40562,7 +40562,7 @@
 ገላጋይ	ገላጋዮቹ	N;DEF;PL
 ገላጋይ	ገላጋዮች	N;PL
 ገመተ	ልገምት	V;IMP;NOM(1,SG)
-ገመተ	መገመት	V.MSDR
+ገመተ	መገመት	V.MSDR;
 ገመተ	ትገምቱ	V;IPFV;NFIN;NOM(2,PL)
 ገመተ	ትገምታለህ	V;IPFV;NOM(MASC;2,SG)
 ገመተ	ትገምታለች	V;IPFV;NOM(FEM;3,SG)
@@ -40615,7 +40615,7 @@
 ገመድ	ገመዶቹ	N;DEF;PL
 ገመድ	ገመዶች	N;PL
 ገመገመ	ልገምግም	V;IMP;NOM(1,SG)
-ገመገመ	መገምገም	V.MSDR
+ገመገመ	መገምገም	V.MSDR;
 ገመገመ	ትገመግሙ	V;IPFV;NFIN;NOM(2,PL)
 ገመገመ	ትገመግሚ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ገመገመ	ትገመግሚያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -40667,7 +40667,7 @@
 ገምጋሚ	ገምጋሚው	N;DEF;MASC
 ገምጋሚ	ገምጋሚዎቹ	N;DEF;PL
 ገምጋሚ	ገምጋሚዎች	N;PL
-ገረመ	መግረም	V.MSDR
+ገረመ	መግረም	V.MSDR;
 ገረመ	ይገርማል	V;IPFV;NOM(MASC;3,SG)
 ገረመ	ይገርም	V;IPFV;NFIN;NOM(MASC;3,SG)
 ገረመ	ይግረም	V;IMP;NOM(MASC;3,SG)
@@ -40697,7 +40697,7 @@
 ገረድ	ገረዷ	N;DEF;FEM
 ገረድ	ገረዷ	N;PSS(3,SG,FEM)
 ገረፈ	ልግረፍ	V;IMP;NOM(1,SG)
-ገረፈ	መግረፍ	V.MSDR
+ገረፈ	መግረፍ	V.MSDR;
 ገረፈ	ትገርፉ	V;IPFV;NFIN;NOM(2,PL)
 ገረፈ	ትገርፊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ገረፈ	ትገርፊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -40857,7 +40857,7 @@
 ገቢ	ገብያችሁ	N;LGSPEC1;PSS(2,PL)
 ገቢ	ገብያችን	N;LGSPEC1;PSS(1,PL)
 ገባ	ልግባ	V;IMP;NOM(1,SG)
-ገባ	መግባት	V.MSDR
+ገባ	መግባት	V.MSDR;
 ገባ	ትገቡ	V;IPFV;NFIN;NOM(2,PL)
 ገባ	ትገቢ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ገባ	ትገቢያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -40912,7 +40912,7 @@
 ገብስ	ገብሱ	N;DEF;MASC
 ገብስ	ገብስ	N
 ገነባ	ልገንባ	V;IMP;NOM(1,SG)
-ገነባ	መገንባት	V.MSDR
+ገነባ	መገንባት	V.MSDR;
 ገነባ	ትገነቡ	V;IPFV;NFIN;NOM(2,PL)
 ገነባ	ትገነቢ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ገነባ	ትገነቢያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -40996,7 +40996,7 @@
 ገንፎ	ገንፎ	N
 ገንፎ	ገንፎው	N;DEF;MASC
 ገዛ	ልግዛ	V;IMP;NOM(1,SG)
-ገዛ	መግዛት	V.MSDR
+ገዛ	መግዛት	V.MSDR;
 ገዛ	ትገዙ	V;IPFV;NFIN;NOM(2,PL)
 ገዛ	ትገዛ	V;IPFV;NFIN;NOM(MASC;2,SG)
 ገዛ	ትገዛ	V;IPFV;NFIN;NOM(FEM;3,SG)
@@ -41054,7 +41054,7 @@
 ገዥ	ገዦች	N;PL
 ገዥ	ገዧ	N;DEF;FEM
 ገደለ	ልግደል	V;IMP;NOM(1,SG)
-ገደለ	መግደል	V.MSDR
+ገደለ	መግደል	V.MSDR;
 ገደለ	ትገድሉ	V;IPFV;NFIN;NOM(2,PL)
 ገደለ	ትገድላለህ	V;IPFV;NOM(MASC;2,SG)
 ገደለ	ትገድላለች	V;IPFV;NOM(FEM;3,SG)
@@ -41130,7 +41130,7 @@
 ገድል	ገድሉ	N;DEF;MASC
 ገድል	ገድል	N
 ገጠመ	ልግጠም	V;IMP;NOM(1,SG)
-ገጠመ	መግጠም	V.MSDR
+ገጠመ	መግጠም	V.MSDR;
 ገጠመ	ትገጥሙ	V;IPFV;NFIN;NOM(2,PL)
 ገጠመ	ትገጥሚ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ገጠመ	ትገጥሚያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -41289,7 +41289,7 @@
 ገፅታ	ገፅቶችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 ገፅታ	ገፅቶቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
 ገፋ	ልግፋ	V;IMP;NOM(1,SG)
-ገፋ	መግፋት	V.MSDR
+ገፋ	መግፋት	V.MSDR;
 ገፋ	ትገፉ	V;IPFV;NFIN;NOM(2,PL)
 ገፋ	ትገፊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ገፋ	ትገፊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -41572,7 +41572,7 @@
 ጋሻ	ጋሾቹ	N;DEF;PL;LGSPEC1
 ጋሻ	ጋሾች	N;PL;LGSPEC1
 ጋበዘ	ልጋብዝ	V;IMP;NOM(1,SG)
-ጋበዘ	መጋበዝ	V.MSDR
+ጋበዘ	መጋበዝ	V.MSDR;
 ጋበዘ	ትጋብዙ	V;IPFV;NFIN;NOM(2,PL)
 ጋበዘ	ትጋብዛለህ	V;IPFV;NOM(MASC;2,SG)
 ጋበዘ	ትጋብዛለች	V;IPFV;NOM(FEM;3,SG)
@@ -42453,7 +42453,7 @@
 ጎሳ	ጎሶችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 ጎሳ	ጎሶቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
 ጎበኘ	ልጎብኝ	V;IMP;NOM(1,SG)
-ጎበኘ	መጎብኘት	V.MSDR
+ጎበኘ	መጎብኘት	V.MSDR;
 ጎበኘ	ትጎበኙ	V;IPFV;NFIN;NOM(2,PL)
 ጎበኘ	ትጎበኚ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ጎበኘ	ትጎበኛለህ	V;IPFV;NOM(MASC;2,SG)
@@ -42511,7 +42511,7 @@
 ጎተራ	ጎተራዎቹ	N;DEF;PL
 ጎተራ	ጎተራዎች	N;PL
 ጎዳ	ልጉዳ	V;IMP;NOM(1,SG)
-ጎዳ	መጉዳት	V.MSDR
+ጎዳ	መጉዳት	V.MSDR;
 ጎዳ	ትጉዳ	V;IMP;NOM(FEM;3,SG)
 ጎዳ	ትጎዱ	V;IPFV;NFIN;NOM(2,PL)
 ጎዳ	ትጎዳ	V;IPFV;NFIN;NOM(MASC;2,SG)
@@ -42668,7 +42668,7 @@
 ጠለፋ	ጠለፋ	N
 ጠለፋ	ጠለፋው	N;DEF;MASC
 ጠላ	ልጥላ	V;IMP;NOM(1,SG)
-ጠላ	መጥላት	V.MSDR
+ጠላ	መጥላት	V.MSDR;
 ጠላ	ትጠሉ	V;IPFV;NFIN;NOM(2,PL)
 ጠላ	ትጠላ	V;IPFV;NFIN;NOM(MASC;2,SG)
 ጠላ	ትጠላ	V;IPFV;NFIN;NOM(FEM;3,SG)
@@ -42743,7 +42743,7 @@
 ጠላት	ጠላቷ	N;PSS(3,SG,FEM)
 ጠል	ጠሉ	N;DEF;MASC
 ጠል	ጠል	N
-ጠማ	መጥማት	V.MSDR
+ጠማ	መጥማት	V.MSDR;
 ጠማ	ይጠማ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ጠማ	ይጠማል	V;IPFV;NOM(MASC;3,SG)
 ጠማ	ይጥማ	V;IMP;NOM(MASC;3,SG)
@@ -42787,7 +42787,7 @@
 ጠረፍ	ጠረፎቹ	N;DEF;PL
 ጠረፍ	ጠረፎች	N;PL
 ጠራ	ልጥራ	V;IMP;NOM(1,SG)
-ጠራ	መጥራት	V.MSDR
+ጠራ	መጥራት	V.MSDR;
 ጠራ	ትጠሩ	V;IPFV;NFIN;NOM(2,PL)
 ጠራ	ትጠሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ጠራ	ትጠሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -42839,7 +42839,7 @@
 ጠርዝ	ጠርዝ	N
 ጠርዝ	ጠርዞቹ	N;DEF;PL
 ጠርዝ	ጠርዞች	N;PL
-ጠቀመ	መጥቀም	V.MSDR
+ጠቀመ	መጥቀም	V.MSDR;
 ጠቀመ	ይጠቅማል	V;IPFV;NOM(MASC;3,SG)
 ጠቀመ	ይጠቅም	V;IPFV;NFIN;NOM(MASC;3,SG)
 ጠቀመ	ይጥቀም	V;IMP;NOM(MASC;3,SG)
@@ -42879,7 +42879,7 @@
 ጠቀሜታ	ጠቀሜቶችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 ጠቀሜታ	ጠቀሜቶቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
 ጠቀሰ	ልጥቀስ	V;IMP;NOM(1,SG)
-ጠቀሰ	መጥቀስ	V.MSDR
+ጠቀሰ	መጥቀስ	V.MSDR;
 ጠቀሰ	ትጠቅሱ	V;IPFV;NFIN;NOM(2,PL)
 ጠቀሰ	ትጠቅሳለህ	V;IPFV;NOM(MASC;2,SG)
 ጠቀሰ	ትጠቅሳለች	V;IPFV;NOM(FEM;3,SG)
@@ -42936,7 +42936,7 @@
 ጠቅላላ	ጠቅላላዋ	ADJ;DEF;FEM
 ጠቅላላ	ጠቅላላው	ADJ;DEF;MASC
 ጠቆመ	ልጠቁም	V;IMP;NOM(1,SG)
-ጠቆመ	መጠቆም	V.MSDR
+ጠቆመ	መጠቆም	V.MSDR;
 ጠቆመ	ትጠቁሙ	V;IPFV;NFIN;NOM(2,PL)
 ጠቆመ	ትጠቁሚ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ጠቆመ	ትጠቁሚያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -42989,7 +42989,7 @@
 ጠቋሚ	ጠቋሚዎቹ	N;DEF;PL
 ጠቋሚ	ጠቋሚዎች	N;PL
 ጠበቀ	ልጠብቅ	V;IMP;NOM(1,SG)
-ጠበቀ	መጠበቅ	V.MSDR
+ጠበቀ	መጠበቅ	V.MSDR;
 ጠበቀ	ትጠብቁ	V;IPFV;NFIN;NOM(2,PL)
 ጠበቀ	ትጠብቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ጠበቀ	ትጠብቂያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -43144,7 +43144,7 @@
 ጠንቋይ	ጠንቋዮቹ	N;DEF;PL
 ጠንቋይ	ጠንቋዮች	N;PL
 ጠየቀ	ልጠይቅ	V;IMP;NOM(1,SG)
-ጠየቀ	መጠየቅ	V.MSDR
+ጠየቀ	መጠየቅ	V.MSDR;
 ጠየቀ	ትጠይቁ	V;IPFV;NFIN;NOM(2,PL)
 ጠየቀ	ትጠይቂ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ጠየቀ	ትጠይቂያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -43204,7 +43204,7 @@
 ጠጉር	ጠጉር	N
 ጠጉር	ጠጉሯ	N;PSS(3,SG,FEM)
 ጠጣ	ልጠጣ	V;IMP;NOM(1,SG)
-ጠጣ	መጠጣት	V.MSDR
+ጠጣ	መጠጣት	V.MSDR;
 ጠጣ	ትጠጡ	V;IPFV;NFIN;NOM(2,PL)
 ጠጣ	ትጠጣ	V;IMP;NOM(FEM;3,SG)
 ጠጣ	ትጠጣ	V;IPFV;NFIN;NOM(MASC;2,SG)
@@ -43253,7 +43253,7 @@
 ጠጣ	ጠጥቼ	V.CVB;NOM(1,SG)
 ጠጣ	ጠጪ	V;IMP;NOM(FEM;2,SG)
 ጠፋ	ልጥፋ	V;IMP;NOM(1,SG)
-ጠፋ	መጥፋት	V.MSDR
+ጠፋ	መጥፋት	V.MSDR;
 ጠፋ	ትጠፉ	V;IPFV;NFIN;NOM(2,PL)
 ጠፋ	ትጠፊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ጠፋ	ትጠፊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -43342,7 +43342,7 @@
 ጢም	ጢሙ	N;DEF;MASC
 ጢም	ጢም	N
 ጣለ	ልጣል	V;IMP;NOM(1,SG)
-ጣለ	መጣል	V.MSDR
+ጣለ	መጣል	V.MSDR;
 ጣለ	ትጣል	V;IMP;NOM(FEM;3,SG)
 ጣለ	ትጥሉ	V;IPFV;NFIN;NOM(2,PL)
 ጣለ	ትጥላለህ	V;IPFV;NOM(MASC;2,SG)
@@ -43391,7 +43391,7 @@
 ጣለ	ጥያለሁ	V;PRF;NOM(1,SG)
 ጣለ	ጥዬ	V.CVB;NOM(1,SG)
 ጣረ	ልጣር	V;IMP;NOM(1,SG)
-ጣረ	መጣር	V.MSDR
+ጣረ	መጣር	V.MSDR;
 ጣረ	ትጣር	V;IMP;NOM(FEM;3,SG)
 ጣረ	ትጥሩ	V;IPFV;NFIN;NOM(2,PL)
 ጣረ	ትጥሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
@@ -43440,7 +43440,7 @@
 ጣረ	ጥሮ	V.CVB;NOM(MASC;3,SG)
 ጣረ	ጥሯል	V;PRF;NOM(MASC;3,SG)
 ጣሰ	ልጣስ	V;IMP;NOM(1,SG)
-ጣሰ	መጣስ	V.MSDR
+ጣሰ	መጣስ	V.MSDR;
 ጣሰ	ትጣስ	V;IMP;NOM(FEM;3,SG)
 ጣሰ	ትጥሱ	V;IPFV;NFIN;NOM(2,PL)
 ጣሰ	ትጥሳለህ	V;IPFV;NOM(MASC;2,SG)
@@ -44065,7 +44065,7 @@
 ጦጣ	ጦጦቹ	N;DEF;PL;LGSPEC1
 ጧት	ጧቱ	N;DEF;MASC
 ጧት	ጧት	N
-ጨለመ	መጨለም	V.MSDR
+ጨለመ	መጨለም	V.MSDR;
 ጨለመ	ይጨልማል	V;IPFV;NOM(MASC;3,SG)
 ጨለመ	ይጨልም	V;IMP;NOM(MASC;3,SG)
 ጨለመ	ይጨልም	V;IPFV;NFIN;NOM(MASC;3,SG)
@@ -44073,7 +44073,7 @@
 ጨለመ	ጨልሞ	V.CVB;NOM(MASC;3,SG)
 ጨለመ	ጨልሟል	V;PRF;NOM(MASC;3,SG)
 ጨመረ	ልጨምር	V;IMP;NOM(1,SG)
-ጨመረ	መጨመር	V.MSDR
+ጨመረ	መጨመር	V.MSDR;
 ጨመረ	ትጨምሩ	V;IPFV;NFIN;NOM(2,PL)
 ጨመረ	ትጨምሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ጨመረ	ትጨምሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -44122,7 +44122,7 @@
 ጨመረ	ጨምሮ	V.CVB;NOM(MASC;3,SG)
 ጨመረ	ጨምሯል	V;PRF;NOM(MASC;3,SG)
 ጨረሰ	ልጨርስ	V;IMP;NOM(1,SG)
-ጨረሰ	መጨረስ	V.MSDR
+ጨረሰ	መጨረስ	V.MSDR;
 ጨረሰ	ትጨርሱ	V;IPFV;NFIN;NOM(2,PL)
 ጨረሰ	ትጨርሳለህ	V;IPFV;NOM(MASC;2,SG)
 ጨረሰ	ትጨርሳለች	V;IPFV;NOM(FEM;3,SG)
@@ -44253,7 +44253,7 @@
 ጫማ	ጫሞችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 ጫማ	ጫሞቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
 ጫረ	ልጫር	V;IMP;NOM(1,SG)
-ጫረ	መጫር	V.MSDR
+ጫረ	መጫር	V.MSDR;
 ጫረ	ትጫር	V;IMP;NOM(FEM;3,SG)
 ጫረ	ትጭሩ	V;IPFV;NFIN;NOM(2,PL)
 ጫረ	ትጭሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
@@ -44302,7 +44302,7 @@
 ጫረ	ጭሮ	V.CVB;NOM(MASC;3,SG)
 ጫረ	ጭሯል	V;PRF;NOM(MASC;3,SG)
 ጫነ	ልጫን	V;IMP;NOM(1,SG)
-ጫነ	መጫን	V.MSDR
+ጫነ	መጫን	V.MSDR;
 ጫነ	ትጫን	V;IMP;NOM(FEM;3,SG)
 ጫነ	ትጭኑ	V;IPFV;NFIN;NOM(2,PL)
 ጫነ	ትጭናለህ	V;IPFV;NOM(MASC;2,SG)
@@ -44550,7 +44550,7 @@
 ጭፍጨፋ	ጭፍጨፋዎች	N;PL
 ጭፍጨፋ	ጭፍጨፎቹ	N;DEF;PL;LGSPEC1
 ጮኸ	ልጩህ	V;IMP;NOM(1,SG)
-ጮኸ	መጮህ	V.MSDR
+ጮኸ	መጮህ	V.MSDR;
 ጮኸ	ትጩህ	V;IMP;NOM(FEM;3,SG)
 ጮኸ	ትጮሀለህ	V;IPFV;NOM(MASC;2,SG)
 ጮኸ	ትጮሀለች	V;IPFV;NOM(FEM;3,SG)
@@ -44603,7 +44603,7 @@
 ጳጳስ	ጳጳሶቹ	N;DEF;PL
 ጳጳስ	ጳጳሶች	N;PL
 ጸለየ	ልጸልይ	V;IMP;NOM(1,SG)
-ጸለየ	መጸለይ	V.MSDR
+ጸለየ	መጸለይ	V.MSDR;
 ጸለየ	ትጸልዩ	V;IPFV;NFIN;NOM(2,PL)
 ጸለየ	ትጸልዪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ጸለየ	ትጸልዪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -44662,7 +44662,7 @@
 ጸሎት	ጸሎትሽ	N;PSS(2,SG,FEM)
 ጸሎት	ጸሎትዎ	N;PSS(2,SG,FORM)
 ጸሎት	ጸሎቷ	N;PSS(3,SG,FEM)
-ጸደቀ	መፅደቅ	V.MSDR
+ጸደቀ	መፅደቅ	V.MSDR;
 ጸደቀ	ይፀድቃል	V;IPFV;NOM(MASC;3,SG)
 ጸደቀ	ይፀድቅ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ጸደቀ	ይፅደቅ	V;IMP;NOM(MASC;3,SG)
@@ -44720,7 +44720,7 @@
 ጻድቅ	ጻድቅ	ADJ
 ጻድቅ	ጻድቋ	ADJ;DEF;FEM
 ጻፈ	ልጻፍ	V;IMP;NOM(1,SG)
-ጻፈ	መጻፍ	V.MSDR
+ጻፈ	መጻፍ	V.MSDR;
 ጻፈ	ትጻፍ	V;IMP;NOM(FEM;3,SG)
 ጻፈ	ትጽፉ	V;IPFV;NFIN;NOM(2,PL)
 ጻፈ	ትጽፊ	V;IPFV;NFIN;NOM(FEM;2,SG)
@@ -45071,7 +45071,7 @@
 ፆታ	ፆቶችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 ፆታ	ፆቶቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
 ፈለገ	ልፈልግ	V;IMP;NOM(1,SG)
-ፈለገ	መፈለግ	V.MSDR
+ፈለገ	መፈለግ	V.MSDR;
 ፈለገ	ትፈልጉ	V;IPFV;NFIN;NOM(2,PL)
 ፈለገ	ትፈልጊ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ፈለገ	ትፈልጊያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -45146,7 +45146,7 @@
 ፈላጊ	ፈላጊዎቹ	N;DEF;PL
 ፈላጊ	ፈላጊዎች	N;PL
 ፈረመ	ልፈርም	V;IMP;NOM(1,SG)
-ፈረመ	መፈረም	V.MSDR
+ፈረመ	መፈረም	V.MSDR;
 ፈረመ	ትፈርሙ	V;IPFV;NFIN;NOM(2,PL)
 ፈረመ	ትፈርሚ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ፈረመ	ትፈርሚያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -45194,7 +45194,7 @@
 ፈረመ	ፈርም	V;IMP;NOM(MASC;2,SG)
 ፈረመ	ፈርሞ	V.CVB;NOM(MASC;3,SG)
 ፈረመ	ፈርሟል	V;PRF;NOM(MASC;3,SG)
-ፈረሰ	መፍረስ	V.MSDR
+ፈረሰ	መፍረስ	V.MSDR;
 ፈረሰ	ይፈርሳል	V;IPFV;NOM(MASC;3,SG)
 ፈረሰ	ይፈርስ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ፈረሰ	ይፍረስ	V;IMP;NOM(MASC;3,SG)
@@ -45228,7 +45228,7 @@
 ፈረስ	ፈረሶቿ	N;PL;PSS(3,SG,FEM)
 ፈረስ	ፈረሷ	N;PSS(3,SG,FEM)
 ፈረደ	ልፍረድ	V;IMP;NOM(1,SG)
-ፈረደ	መፍረድ	V.MSDR
+ፈረደ	መፍረድ	V.MSDR;
 ፈረደ	ትፈርዱ	V;IPFV;NFIN;NOM(2,PL)
 ፈረደ	ትፈርዳለህ	V;IPFV;NOM(MASC;2,SG)
 ፈረደ	ትፈርዳለች	V;IPFV;NOM(FEM;3,SG)
@@ -45282,7 +45282,7 @@
 ፈሪ	ፈሪዎቹ	ADJ;DEF;PL
 ፈሪ	ፈሪዎች	ADJ;PL
 ፈራ	ልፍራ	V;IMP;NOM(1,SG)
-ፈራ	መፍራት	V.MSDR
+ፈራ	መፍራት	V.MSDR;
 ፈራ	ትፈሩ	V;IPFV;NFIN;NOM(2,PL)
 ፈራ	ትፈሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ፈራ	ትፈሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -45332,7 +45332,7 @@
 ፈራ	ፍራ	V;IMP;NOM(MASC;2,SG)
 ፈር	ፈሩ	N;DEF;MASC
 ፈር	ፈር	N
-ፈሰሰ	መፍሰስ	V.MSDR
+ፈሰሰ	መፍሰስ	V.MSDR;
 ፈሰሰ	ይፈሳል	V;IPFV;NOM(MASC;3,SG)
 ፈሰሰ	ይፈስ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ፈሰሰ	ይፍሰስ	V;IMP;NOM(MASC;3,SG)
@@ -45344,7 +45344,7 @@
 ፈሳሽ	ፈሳሾቹ	N;DEF;PL
 ፈሳሽ	ፈሳሾች	N;PL
 ፈቀደ	ልፍቀድ	V;IMP;NOM(1,SG)
-ፈቀደ	መፍቀድ	V.MSDR
+ፈቀደ	መፍቀድ	V.MSDR;
 ፈቀደ	ትፈቅዱ	V;IPFV;NFIN;NOM(2,PL)
 ፈቀደ	ትፈቅዳለህ	V;IPFV;NOM(MASC;2,SG)
 ፈቀደ	ትፈቅዳለች	V;IPFV;NOM(FEM;3,SG)
@@ -45415,7 +45415,7 @@
 ፈቃድ	ፈቃዶቿ	N;PL;PSS(3,SG,FEM)
 ፈቃድ	ፈቃዷ	N;PSS(3,SG,FEM)
 ፈተሸ	ልፈትሽ	V;IMP;NOM(1,SG)
-ፈተሸ	መፈተሽ	V.MSDR
+ፈተሸ	መፈተሽ	V.MSDR;
 ፈተሸ	ትፈትሹ	V;IPFV;NFIN;NOM(2,PL)
 ፈተሸ	ትፈትሺ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ፈተሸ	ትፈትሺያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -45496,7 +45496,7 @@
 ፈተና	ፈተኖችዎ	N;PL;LGSPEC1;PSS(2,SG,FORM)
 ፈተና	ፈተኖቿ	N;PL;LGSPEC1;PSS(3,SG,FEM)
 ፈታ	ልፍታ	V;IMP;NOM(1,SG)
-ፈታ	መፍታት	V.MSDR
+ፈታ	መፍታት	V.MSDR;
 ፈታ	ትፈቱ	V;IPFV;NFIN;NOM(2,PL)
 ፈታ	ትፈታ	V;IPFV;NFIN;NOM(MASC;2,SG)
 ፈታ	ትፈታ	V;IPFV;NFIN;NOM(FEM;3,SG)
@@ -45563,7 +45563,7 @@
 ፈንጂ	ፈንጂው	N;DEF;MASC
 ፈንጂ	ፈንጂዎቹ	N;DEF;PL
 ፈንጂ	ፈንጂዎች	N;PL
-ፈጀ	መፍጀት	V.MSDR
+ፈጀ	መፍጀት	V.MSDR;
 ፈጀ	ይፈጃል	V;IPFV;NOM(MASC;3,SG)
 ፈጀ	ይፈጅ	V;IPFV;NFIN;NOM(MASC;3,SG)
 ፈጀ	ይፍጅ	V;IMP;NOM(MASC;3,SG)
@@ -45576,7 +45576,7 @@
 ፈገግታ	ፈገግታዎች	N;PL
 ፈገግታ	ፈገግቶቹ	N;DEF;PL;LGSPEC1
 ፈጠረ	ልፍጠር	V;IMP;NOM(1,SG)
-ፈጠረ	መፍጠር	V.MSDR
+ፈጠረ	መፍጠር	V.MSDR;
 ፈጠረ	ትፈጥሩ	V;IPFV;NFIN;NOM(2,PL)
 ፈጠረ	ትፈጥሪ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ፈጠረ	ትፈጥሪያለሽ	V;IPFV;NOM(FEM;2,SG)
@@ -45689,7 +45689,7 @@
 ፈጣን	ፈጣኖች	ADJ;PL
 ፈጣን	ፈጣኗ	ADJ;DEF;FEM
 ፈጸመ	ልፈፅም	V;IMP;NOM(1,SG)
-ፈጸመ	መፈፀም	V.MSDR
+ፈጸመ	መፈፀም	V.MSDR;
 ፈጸመ	ትፈፅሙ	V;IPFV;NFIN;NOM(2,PL)
 ፈጸመ	ትፈፅሚ	V;IPFV;NFIN;NOM(FEM;2,SG)
 ፈጸመ	ትፈፅሚያለሽ	V;IPFV;NOM(FEM;2,SG)
